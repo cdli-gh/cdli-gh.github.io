@@ -7,7 +7,7 @@ permalink: research_introduction.html
 folder: research
 ---
 ## What is the team working on?
-We are keeping track of tasks using GitHub issues. We also have a Kaban board to sort the tasks and a Gantt chart to track them over time. Each user assigned to a task is responsible to keep their issue(s) updated.
+We are keeping track of tasks using GitHub issues. We also have a Kaban board to sort the tasks and a Gantt chart to track them over time. Each user assigned to a task is responsible of keeping their issue(s) updated.
 
 Our code rests on Github at <https://github.com/cdhi-gh>  
 Our private Google drive lives here (staff only):<https://drive.google.com/drive/folders/0B8-deXARunnhU2FHVzVqLXA4N3M>  
