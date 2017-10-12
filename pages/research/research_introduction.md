@@ -6,6 +6,11 @@ sidebar: research
 permalink: research_introduction.html
 folder: research
 ---
+## Introduction to the research process documentation
+
+
+
+
 ## What is the team working on?
 Our code rests on Github at <https://github.com/cdhi-gh>   
 Our private Google drive lives here (staff only):<https://drive.google.com/drive/folders/0B8-deXARunnhU2FHVzVqLXA4N3M>  
