@@ -7,10 +7,13 @@ permalink: research_introduction.html
 folder: research
 ---
 ## What is the team working on?
-We are keeping track of tasks using GitHub issues. We also have a Kaban board to sort the tasks and a Gantt chart to track them over time. Each user assigned to a task is responsible of keeping their issue(s) updated.
-
-Our code rests on Github at <https://github.com/cdhi-gh>  
+Our code rests on Github at <https://github.com/cdhi-gh>   
 Our private Google drive lives here (staff only):<https://drive.google.com/drive/folders/0B8-deXARunnhU2FHVzVqLXA4N3M>  
+
+
+We are keeping track of tasks using GitHub issues. We also have a Kaban board to sort the tasks and a Gantt chart to track them over time. Each user assigned to a task is responsible of keeping their issue(s) updated.  
+
+Creating a new issue on github uses a template that contains keywords which will enable displaying the issue on the Gantt chart.   
 
 ### MTAAC Project
 All tasks that directly affect MTAAC will go in this repository. Visualization and mirroring of the CDLI servers will live here too.
