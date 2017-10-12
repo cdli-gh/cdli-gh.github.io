@@ -1,0 +1,24 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: MTAAC Research process
+      url: /research_introduction.html
+    - title: MTAAC User guides and tutorials
+      url: /index.html
+    - title: CDLI Docs
+      url: /cdli_introduction.html
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Links
+      folderitems:
+        - title: MTAAC on Github
+          external_url: https://github.com/cdli-gh/mtaac_work
+        - title: MTAAC Front
+          external_url: https://cdli-gh.github.io/mtaac/https://cdli-gh.github.io/mtaac/
+        - title: CDLI
+          external_url: https://cdli.ucla.edu

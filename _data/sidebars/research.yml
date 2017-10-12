@@ -1,0 +1,113 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Digital Cuneiform Documentation
+  product: MTAAC research process
+  version: 0.3
+  folders:
+
+  - title: Introduction
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /research_introduction.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+
+  - title: Documentation introduction
+    output: web, pdf
+    folderitems:
+    - title: Research process introduction
+      url: /research_introduction.html
+      output: web, pdf
+    - title: Research overview
+      url: /research_overview.html
+      output: web, pdf
+    - title: Milestone reports
+      url: /milestone_reports.html
+      output: web, pdf
+
+  - title: Data pre-processing
+    output: web, pdf
+    folderitems:
+    - title: Preliminary cleaning
+      url: /format_atf.html
+      output: web, pdf
+    - title: ATF Checkers
+      url: /format_cdli-conll.html
+      output: web, pdf
+    - title: Tokenization and lemmatization
+      url: /format_cdli-conll.html
+      output: web, pdf
+
+
+  - title: Gold corpus annotation
+    output: web, pdf
+    folderitems:
+    - title: Lemmatization
+      url: /_research_lemmatization.html
+      output: web, pdf
+    - title: Morphology
+      url: /struct_core.html
+      output: web, pdf
+    - title: Syntax
+      url: /struct_db.html
+      output: web, pdf
+    - title: Semantics
+      url: /struct_site.html
+      output: web, pdf
+
+  - title: Automated Annotation
+    output: web, pdf
+    folderitems:
+    - title: Annotations projection
+      url: /style.html
+      output: web, pdf
+    - title: Morphology
+      url: /accessibility.html
+      output: web, pdf
+    - title: Syntax
+      url: /accessibility.html
+      output: web, pdf
+
+  - title: Machine translation
+    output: web, pdf
+    folderitems:
+    - title: Annotations projection
+      url: /style.html
+      output: web, pdf
+    - title: Morphology
+      url: /accessibility.html
+      output: web, pdf
+    - title: Syntax
+      url: /accessibility.html
+      output: web, pdf
+
+  - title: Infrastructure
+    output: web, pdf
+    folderitems:
+    - title: Database design
+      url: /style.html
+      output: web, pdf
+    - title: Corpus analysis
+      url: /accessibility.html
+      output: web, pdf
+    - title: Linked Open Data
+      url: /accessibility.html
+      output: web, pdf
+
+  - title: Interface
+    output: web, pdf
+    folderitems:
+    - title: Web interface
+      url: /style.html
+      output: web, pdf
+    - title: Filemaker
+      url: /accessibility.html
+      output: web, pdf

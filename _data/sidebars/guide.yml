@@ -1,0 +1,70 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Digital Cuneiform Documentation
+  product: MTAAC User guides and tutorials
+  version: 0.3
+  folders:
+
+  - title: Introduction
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /index.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+
+  - title: Getting started
+    output: web, pdf
+    folderitems:
+    - title: Introduction
+      url: /index.html
+      output: web, pdf
+    - title: Quick docs edit guide
+      url: /guide_docs_edit.html
+      output: web, pdf
+    - title: Requirements
+      url: /requirements.html
+      output: web, pdf
+
+
+  - title: Data integrity and conversion
+    output: web, pdf
+    folderitems:
+    - title: ATF Checker
+      url: /atf_checker.html
+      output: web, pdf
+    - title: ATF to CDLI-CoNLL
+      url: /ATF2conll.html
+      output: web, pdf
+    - title: CoNLL-U to Brat
+      url: /conll2brat.html
+      output: web, pdf
+
+  - title: Annotation
+    output: web, pdf
+    folderitems:
+    - title: Annotation overview
+      url: /guide_overview.html
+      output: web, pdf
+    - title: Tagsets
+      url: /guide_tagsets.html
+      output: web, pdf
+    - title: Morphology
+      url: /guide_morphology.html
+      output: web, pdf
+    - title: Syntax
+      url: /guide_syntax.html
+      output: web, pdf
+    - title: Semantics
+      url: /guide_semantics.html
+      output: web, pdf
+    - title: Lemmatization
+      url: /guide_lemmatization.html
+      output: web, pdf

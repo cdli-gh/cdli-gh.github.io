@@ -1,0 +1,79 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Digital Cuneiform Documentation
+  product: CDLI docs
+  version: 0.3
+  folders:
+
+  - title: Introduction
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+
+  - title: Use CDLI
+    output: web, pdf
+    folderitems:
+    - title: Introduction
+      url: /cdli_introduction.html
+      output: web, pdf
+    - title: Search CDLI
+      url: /cdli_search.html
+      output: web, pdf
+    - title: Browse CDLI
+      url: /cdli_browse.html
+      output: web, pdf
+
+  - title: Data structure
+    output: web, pdf
+    folderitems:
+    - title: ATF format
+      url: /format_atf.html
+      output: web, pdf
+    - title: CDLI-CoNLL format
+      url: /format_cdli-conll.html
+      output: web, pdf
+    - title: CoNLL-U format
+      url: /format_conllu.html
+      output: web, pdf
+    - title: Brat standoff format
+      url: /format_brat.html
+      output: web, pdf
+
+  - title: Infrastructure
+    output: web, pdf
+    folderitems:
+    - title: Server architecture
+      url: /struct_server.html
+      output: web, pdf
+    - title: CDLI core structure
+      url: /struct_core.html
+      output: web, pdf
+    - title: Database structure
+      url: /struct_db.html
+      output: web, pdf
+    - title: Site structure
+      url: /struct_site.html
+      output: web, pdf
+    - title: File structure
+      url: /struct/.html
+      output: web, pdf
+
+  - title: Design
+    output: web, pdf
+    folderitems:
+    - title: Style guidelines
+      url: /style.html
+      output: web, pdf
+    - title: Accesibility guidelines
+      url: /accessibility.html
+      output: web, pdf
