@@ -21,7 +21,7 @@ We are keeping track of tasks using GitHub issues. We also have a Kaban board to
 Creating a new issue on github uses a template that contains keywords which will enable displaying the issue on the Gantt chart.   
 
 ### MTAAC Project
-All tasks that directly affect MTAAC will go in this repository. Visualization and mirroring of the CDLI servers will live here too.
+All tasks that directly affect MTAAC will go in this repository. Virtualization and mirroring of the CDLI servers will live here too.
 
 Tasks (in the form of GitHub issues): <https://github.com/cdli-gh/mtaac_work/issues>  
 Kaban board of the issues: <https://waffle.io/cdli-gh/mtaac_work>  
