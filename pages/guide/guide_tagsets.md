@@ -103,7 +103,7 @@ ETCSL: <http://etcsl.orinst.ox.ac.uk/edition2/etcslhelp.php#propernouns>
 The ablative's function of distributive is not distinguished in the two sets.
 
 ### ETCSL Morphological tags
-The ETCSL morphological tags mostly give a normalization that can then be treated with rules to disambiguate meaning. Exception is made for the verbal bases which are explicitely identified (aspect, plural, etc).
+The ETCSL morphological tags mostly give a normalization that can then be treated with rules to disambiguate meaning. Exception is made for the verbal bases which are explicitly identified (aspect, plural, etc).
 
 - Creating Tools for Morphological Analysis of Sumerian [Link to the pdf](https://gate.ac.uk/sale/lrec2006/etcsl/etcsl-paper.pdf)
 
@@ -125,12 +125,12 @@ The tags seems to only appear on words that display affixes (the absolutive is n
 
 For a full description of the morphological annotations system, see the ETCSRI website. URL
 
-The ETCSRI morphological tagging is very explicitly and consist in three different attributes.
+The ETCSRI morphological tagging is very explicit and consists of three different attributes:
 1. The morpheme column based on logical table of possible suites of morphemes
 2. The usage of the morphemes
 3. the normalized form of the text
 
-Attributes 2 and 3 are used in our conll-u annotation in a hybrid attribute eg:
+Attributes 2 and 3 are used in our CoNLL-U annotation in a hybrid attribute, eg:
 > iri-kug-ga-ka-ni
 
 Original
@@ -141,7 +141,7 @@ Original
 MTAAC modified version
 > Iriku=NAME.ak=GEN.ani=3-SG-H-POSS.ø=ABS
 
-Missing affixes are added in the morphology eg. nin-a-ni becomes
+Missing affixes are added in the morphology, eg. nin-a-ni becomes
 > N1=nin.N3=ani.N5=ra  
 > N1=STEM.N3=3-SG-H-POSS.N5=DAT-H  
 > nin.ani.ra  
@@ -151,7 +151,7 @@ or
 > nin=STEM.ani=3-SG-H-POSS.ra=DAT
 
 
-The morphological tags are explicit and give information not only about the morpheme at hand but hints at the construction of the whole verbal chain. Eg:
+The morphological tags are explicit and give information not only about the morpheme at hand but hint at the construction of the whole verbal chain. Eg:
 
 morpheme|tag|meaning
 ----|----|-----
