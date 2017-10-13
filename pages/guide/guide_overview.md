@@ -2,6 +2,7 @@
 title: Annotation overview
 sidebar: guide
 permalink: /guide_overview.html
+folder: guide
 summary:
 ---
 
