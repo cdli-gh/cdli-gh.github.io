@@ -41,4 +41,4 @@ This section discusses the MTAAC research process in detail, explaining design d
 This section provides users with guides to using the technology and data produced by the project.
 
 ### CDLI Docs
-the CDLI docs give specific information on how the CDLI software is designed, how it works, and how to exploit it fully.
+The CDLI docs give specific information on how the CDLI software is designed, how it works, and how to exploit it fully.
