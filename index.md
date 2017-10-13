@@ -6,7 +6,7 @@ summary:
 ---
 
 ## MTAAC and CDLI Digital Cuneiform Documentation
-This documentation site was created as part of the [MTAAC](https://cdli-gh.github.io/mtaac/) project to document its research process, tool development and to supplement the code and data deliverables with extensive explanations and walkthrough to encourage our colleagues to reuse our work.
+This documentation site was created as part of the [MTAAC](https://cdli-gh.github.io/mtaac/) project to document its research process and tool development and to supplement the code and data deliverables with extensive explanations and walkthrough to encourage our colleagues to reuse our work.
 
 Participants in the project and contributors to this documentation are:
 
@@ -35,10 +35,10 @@ This documentation website has three major sections:
 - [CDLI Docs](http://cdli-gh.github.io/cdli_introduction.html)   
 
 ### MTAAC research process
-This section discusses the MTAAC research process in detail, explaining design decisions, technology choices and our processing workflow.
+This section discusses the MTAAC research process in detail, explaining design decisions, technology choices, and our processing workflow.
 
 ### MTAAC User guides and tutorials
-This section provides users with guides to use the technology and data produced through the project.
+This section provides users with guides to using the technology and data produced by the project.
 
 ### CDLI Docs
-the CDLI docs give specific information on how the CDLI software is design, how it works and how to exploit it fully.
+the CDLI docs give specific information on how the CDLI software is designed, how it works, and how to exploit it fully.
