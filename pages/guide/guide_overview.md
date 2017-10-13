@@ -13,8 +13,8 @@ summary:
 1. Export raw ATF from the CDLI  
 Manually export ATF of texts to annotate from the CDLI database. This can be done by doing a search at <http://cdli.ucla.edu/search> and clicking on "download" after the results appear.
 
-2. Convert texts to pseudo-conll for morphological annotation  
-Use the Pyhton script X to prepare a tokenized and conll-style version of the textual information to facilitate morphological annotation.
+2. Convert texts to pseudo-CoNLL for morphological annotation  
+Use the Python script X to prepare a tokenized and CoNLL-style version of the textual information to facilitate morphological annotation.
 
 3. Morphological annotation  
 Manually annotate morphology and subject, direct and indirect object dependencies in the files. (See below for more details)
@@ -34,7 +34,7 @@ Manual annotation of syntax using the Brat interface
 CoNLL-U format information: <http://universaldependencies.org/format.html>  
 CoNLL-U implementation based on: <http://universaldependencies.org/format.html>
 
-Original CoNLL-U Syntax calls for such structure marking:
+Original CoNLL-U syntax calls for such structure marking:
 
 	# newdoc id = mf920901-001
 	# newpar id = mf920901-001-p1
@@ -42,11 +42,11 @@ Original CoNLL-U Syntax calls for such structure marking:
 	# text = Slovenská ústava: pro i proti
 	# text_en = Slovak constitution: pros and cons
 
-We adapt this heading information as such :
+We adapt this heading information as follows:
 - In a comment line above the textual information, the text id must be mentioned, eg:
 	# newdoc id = P653433
 
-In CoNLL-U, blank lines are used to separate sentences. Since our documents are generally considered a sentence, a blank line will generally appear between texts and sometimes rarely inside a text to separate full sentences.
+In CoNLL-U, blank lines are used to separate sentences. Since our documents are generally considered to be a sentence, a blank line will generally appear between texts and sometimes rarely inside a text to separate full sentences.
 
 ### CoNLL-U Fields  
 #### Original CoNLL-U Fields  
@@ -66,7 +66,7 @@ ConLL-U fields description based on the Universal Dependencies website
 #### MTAAC Conll-like fields for annotation
 	# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
 
-- ID: all information about the surface, column, line and token (o.col1.1.1;  o.1.1 if there is no column) Only the column number is optional.  
+- ID: all information about the surface, column, line and token (o.col1.1.1;  o.1.1 if there is no column). Only the column number is optional.  
 - FROM: token from text, ATF transliteration  
 - SEGM: normalized form of the token  
 - XPOSTAG: ORACC ETCSRI morphological tags based on the segmentation and using POS tag or named entity tag instead of "STEM" for the stem (eg.: GN.ABL)  
@@ -84,9 +84,9 @@ ConLL-U fields description based on the Universal Dependencies website
 
 
 ### Editors
-- Morphological annotations are added to the conll file manually using any plain text editor or a spreadsheet program.
+- Morphological annotations are added to the CoNLL file manually using any plain text editor or a spreadsheet program.
 
-- Syntax annotations can be added manually in the conll file or using the Brat interface. We have a developpement brat server up at <http://cdli-dev.org/brat/>.  
+- Syntax annotations can be added manually in the CoNLL file or using the Brat interface. We have a development Brat server up at <http://cdli-dev.org/brat/>.  
 
 Brat website: <http://brat.nlplab.org/examples.html>  
 Another dependency annotation tool: UD Annotatrix <https://github.com/jonorthwash/ud-annotatrix>    
