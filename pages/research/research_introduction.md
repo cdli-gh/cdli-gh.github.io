@@ -28,7 +28,7 @@ Kaban board of the issues: <https://waffle.io/cdli-gh/mtaac_work>
 MTAAC tasks Gantt chart: <http://cdli-dev.org/gantt/mtaac_work/>  
 
 ### Framework
-All tasks that pertain to the development of the CDLI software platform except high-level design should appear here. Any problems with CDLI in its current state should also appear here.
+All tasks that pertain to the development of the CDLI software platform except high-level design should appear here. Any problems with CDLI in its current version (2017-2018) should also appear here.
 
 Tasks (in the form of GitHub issues): <https://github.com/cdli-gh/Framework/issues>  
 Kaban board of the issues: <https://waffle.io/cdli-gh/Framework>  
