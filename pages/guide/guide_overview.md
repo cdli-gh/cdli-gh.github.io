@@ -11,13 +11,13 @@ summary:
 ### Workflow
 
 1. Export raw ATF from the CDLI  
-Manually export ATF of texts to annotate from the CDLI database. This can be done by doing a search at <http://cdli.ucla.edu/search> and clicking on "download" after the results appear.
+Manually export ATF of texts for annotation from the CDLI database. This can be done by doing a search at <http://cdli.ucla.edu/search> and clicking on "download" after the results appear.
 
 2. Convert texts to pseudo-CoNLL for morphological annotation  
 Use the Python script X to prepare a tokenized and CoNLL-style version of the textual information to facilitate morphological annotation.
 
 3. Morphological annotation  
-Manually annotate morphology and subject, direct and indirect object dependencies in the files. (See below for more details)
+Manually annotate morphology and subject, direct and indirect object dependencies in the files. (See below for more details.)
 
 4. Conversion to full annotations set in CoNLL-U Format  
 Using the X Python script, convert the new annotations to the fuller version that will be used by subsequent processes.
@@ -63,7 +63,7 @@ ConLL-U fields description based on the Universal Dependencies website
 - DEPS: Enhanced dependency graph in the form of a list of head-deprel pairs.  
 - MISC: Any other annotation.  
 
-#### MTAAC Conll-like fields for annotation
+#### MTAAC CoNLL-like fields for annotation
 	# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
 
 - ID: all information about the surface, column, line and token (o.col1.1.1;  o.1.1 if there is no column). Only the column number is optional.  
@@ -78,7 +78,7 @@ ConLL-U fields description based on the Universal Dependencies website
 	#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
 
 - LEMMA: Lemma to which the token should be associated  
-- UPOSTAG: Universal dependencies part of speech tag, based on a mapping between the ETCRSI POS and the UD POS  
+- UPOSTAG: Universal dependencies part of speech tag, based on a mapping between the ETCSRI POS and the UD POS  
 - FEATS: Unimorph tags, in order of morpheme appearance  
 - DEPS: will not be used at this time  
 
