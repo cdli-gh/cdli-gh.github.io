@@ -54,13 +54,13 @@ entries:
       url: /_research_lemmatization.html
       output: web, pdf
     - title: Morphology
-      url: /struct_core.html
+      url: /research_morph_ann.html
       output: web, pdf
     - title: Syntax
-      url: /struct_db.html
+      url: /research_syntax.ann.html
       output: web, pdf
     - title: Semantics
-      url: /struct_site.html
+      url: /research_sem_ann.html
       output: web, pdf
 
   - title: Automated Annotation
