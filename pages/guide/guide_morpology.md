@@ -14,19 +14,21 @@ To facilitate the manual annotation process, ATF transcriptons of the gold corpu
 
 The CDLI-CoNLL tables contain the following columns:
 
-* ID:  Information about the surface, column, line, and word token, in the format o.col1.1.1 = first column, first line first *word. If the text does be omitted if the text does not have columns (o.1.1).
+* ID:  Information about the surface, column, line, and word token, in the format o.col1.1.1 = first column, first line first word. If the text does be omitted if the text does not have columns (o.1.1).
 
-* FROM:  The token from the text, i.e. ATF transliteration.
+* FROM:  The token from the text, i.e. ATF transcription.
 
-* SEGM:  A normalized form of the token using the dictionary form of the word as the stem, e.g. *EXAMPLE FROM TEXT*
+* SEGM:  A normalized form of the token using the dictionary form of the word as the stem.
 
 * XPOSTAG:  Morphological tags following ORACC ETCSRI. Morphological tags are separated by periods, surrounding a stem tagged with the part of speech. Implicit morphemes are added in square brackets.
 
 The job of the annotators is to fill in the SEGM and XPOSTAG columns with the appropriate lexical and morphological 
-Manual annotation is assisted by a [pre-annotation tool](https://github.com/cdli-gh/morphology-pre-annotation-tool). Taking into account existing annotated texts, the pre-annotation tool will automatically populate unambiguous fields in the CDLI-CoNLL table. It will also make suggestions 
+Manual annotation is assisted by a [pre-annotation tool](https://github.com/cdli-gh/morphology-pre-annotation-tool). Taking into account existing annotated texts, the pre-annotation tool will automatically populate unambiguous fields in the CDLI-CoNLL table. It may also make suggestions in additional columns to the right of those normally included in CDLI-CoNLL. In these cases, annotators select the best choice and copy/paste it into the appropriate column. Then, annotators fill in any remaining blanks.
 
-	1.	In the first instance, annotators will receive blank .conll files like the one depicted above. Annotators will complete the SEGM and XPOSTAG fields. 
-	2.	Once we have enough data, our pre-annotation tool will generate .conll files with (hopefully almost all) the SEGM and XPOSTAG fields populated and suggestions for blank fields provided in an additional column. Annotators will verify the pre-generated annotations and select the best option from any suggested tags, then annotate the remaining blank fields. 
+Initially, the pre-annotation tool is trained on the ETCSRI corpus. Consequently, the fields that it populates are restricted to areas of overlap between the Sumerian Royal Inscription and Ur III corpora
+
+1.	In the first instance, annotators will receive blank .conll files like the one depicted above. Annotators will complete the SEGM and XPOSTAG fields.
+2.	Once we have enough data, our pre-annotation tool will generate .conll files with (hopefully almost all) the SEGM and XPOSTAG fields populated and suggestions for blank fields provided in an additional column. Annotators will verify the pre-generated annotations and select the best option from any suggested tags, then annotate the remaining blank fields. 
 
 The following is a step-by-step guide to annotating .conll files. It has been tested for a streamlined annotation experience:
 
