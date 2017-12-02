@@ -30,20 +30,20 @@ entries:
       url: /research_overview.html
       output: web, pdf
     - title: Milestone reports
-      url: /milestone_reports.html
+      url: /research_ milestones.html
       output: web, pdf
 
   - title: Data pre-processing
     output: web, pdf
     folderitems:
     - title: Preliminary cleaning
-      url: /format_atf.html
+      url: /research_format_atf.html
       output: web, pdf
     - title: ATF Checkers
-      url: /format_cdli-conll.html
+      url: /research_atf_check.html
       output: web, pdf
     - title: Tokenization and lemmatization
-      url: /format_cdli-conll.html
+      url: /research_lem.html
       output: web, pdf
 
 
@@ -51,7 +51,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: Lemmatization
-      url: /_research_lemmatization.html
+      url: /research_lemmatization.html
       output: web, pdf
     - title: Morphology
       url: /research_morph_ann.html
@@ -99,15 +99,15 @@ entries:
       url: /accessibility.html
       output: web, pdf
     - title: Linked Open Data
-      url: /accessibility.html
+      url: /research_lod.html
       output: web, pdf
 
   - title: Interface
     output: web, pdf
     folderitems:
     - title: Web interface
-      url: /style.html
+      url: /research_web.html
       output: web, pdf
     - title: Filemaker
-      url: /accessibility.html
+      url: /research_fm.html
       output: web, pdf
