@@ -32,6 +32,7 @@ From this CoNLL data file, a pseudo CDLI-CoNLL file was created with all unique 
 
 
 ### Annotators
+Morphology annotators for the MTAAC projects are Lucas Reckling, Jinyan Wang, Émilie Pagé-Perron, Ilya Khait, Heather D. Baker, and Robert K. Englund. 
 
 
 
