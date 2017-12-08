@@ -63,11 +63,11 @@ In order to ensure that the format of the .conll files remains intact, they will
 
 To edit the .conll files, open LibreOffice and start a new spreadsheet, then open the file. LibreOffice will open the file in text editing mode as a default if it is opened on the main screen. When you open a .conll file using LibreOffice, a dialog box will in will appear (pictured below). Make sure to check ONLY the “tab” option as a separator. This ensures that the proper formatting is preserved as we edit the files. 
 
-![LibreOfficePrompt](cdli-gh.github.io/images/ma_guide/LibreOfficePrompt1.png)
+![](https://cdli-gh.github.io/images/ma_guide/LibreOfficePrompt1.png)
 
-Your sheet should look like this:
+The sheet should look like this:
 
-![SpreadSheetExample](cdli-gh.github.io/images/ma_guide/LibreOfficeSpreadsheet.png)
+![](https://cdli-gh.github.io/images/ma_guide/LibreOfficeSpreadsheet.png)
 
 2a. For non-pre-annotated .conll files, complete the SEGM and XPOSTAG fields.
 
