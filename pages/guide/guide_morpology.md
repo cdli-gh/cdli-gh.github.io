@@ -25,13 +25,18 @@ The CDLI-CoNLL tables contain the following columns:
 The job of the annotators is to fill in the SEGM and XPOSTAG columns with the appropriate lexical and morphological 
 Manual annotation is assisted by a [pre-annotation tool](https://github.com/cdli-gh/morphology-pre-annotation-tool). Taking into account existing annotated texts, the pre-annotation tool will automatically populate unambiguous fields in the CDLI-CoNLL table. It may also make suggestions in additional columns to the right of those normally included in CDLI-CoNLL. In these cases, annotators select the best choice and copy/paste it into the appropriate column. Then, annotators fill in any remaining blanks.
 
-Because the pre-annotating tool bases its suggestions on extant annotated texts, it is initially trained on the ETCSRI corpus, whose language only partially overlaps with that of the Ur III administrative corpus. Thus at first the pre-annotating tool will populate relatively few fields, but as Ur III texts are added to the annotated it will in turn
+Because the pre-annotating tool bases its suggestions on extant annotated texts, it is initially trained on the ETCSRI corpus, whose language only partially overlaps with that of the Ur III administrative corpus. Thus at first the pre-annotating tool will populate relatively few fields, but as Ur III texts are added to the pre-annotator its dictionary will learn more relevant data and in turn populate more fields.
 
 
+## Morphological Annotation Guide
 
-# The Morphological Pre-Annotation Tool (MPA)
+The following is a step-by-step guide to annotating .conll files. It has been tested for a streamlined annotation experience.
 
-The MPA must be installed. Instructions for installation as well as running the tool can be found here: https://github.com/cdli-gh/morphology-pre-annotation-tool
+### 0. Install and Prepare The Morphological Pre-Annotation Tool (MPA)
+
+The MPA must be installed before use. Instructions for installation as well as running the tool can be found here: https://github.com/cdli-gh/morphology-pre-annotation-tool
+
+*Note: it may be easiest to create a new folder from the root in order to simplify file pathways while using the MPA*
 
 Upon installation, run the tool using the folder of the ETCSRI training corpus to create a dictionary (annotated_morph_dict.json). After running, the second line from the bottom should read "creating annotation json dictionary file as," followed by a file pathway to annotated_morph_dict.json. Open annotated_morph_dict.json using Atom or a similar text-editor to confirm its structure is correct (FORM: [[SEGM1	XPOSTAG1], [SEGM2	XPOSTAG2]]):
 
@@ -44,15 +49,25 @@ Upon installation, run the tool using the folder of the ETCSRI training corpus t
 
 If the dictionary appears copacetic then the MPA is ready for use with the Ur III corpus.
 
-The following is a step-by-step guide to annotating .conll files. It has been tested for a streamlined annotation experience:
+**Do not move the dictionary file.**
 
-1. Open the .conll file using LibreOffice.
+### 1. Run the Pre-Annoation Tool on the Texts
 
-Open LibreOffice and start a new spreadsheet, then open the .conll file from here. LibreOffice will open the file in text editing mode as a default if it is opened on the main screen. When you open a .conll file using LibreOffice, a dialog box will in will appear. Make sure to check ONLY the “tab” option as a separator. This ensures that the proper formatting is preserved as we edit the files. 
+Texts will be parcelled out to annotators in .conll format. When they receive a group of texts, each human annotator will run it through the MPA, which will pre-annotate the texts based on MPA's existing dictionary as well as update the dictionary based on any extant annotations in the texts. The human annotator will then complete the fields left blank by the MPA.
 
+In the early stages, this step should be repeated before each text to build the dictionary and pre-annotate as much as possible. As the process goes on, it will likely be more efficient to pre-annotate a group of texts once in the beginning and update the dictionary once again after they are complete.
 
+### 2. Complete the Pre-Annotated Texts
+
+In order to ensure that the format of the .conll files remains intact, they will be annotated using a spreadsheet. [LibreOffice](https://www.libreoffice.org/), an opensource office suite, was selected for this purpose because it can open .conll files without having to fiddle with the extensions.
+
+To edit the .conll files, open LibreOffice and start a new spreadsheet, then open the file. LibreOffice will open the file in text editing mode as a default if it is opened on the main screen. When you open a .conll file using LibreOffice, a dialog box will in will appear (pictured below). Make sure to check ONLY the “tab” option as a separator. This ensures that the proper formatting is preserved as we edit the files. 
+
+![LibreOfficePrompt](cdli-gh.github.io/images/ma_guide/LibreOfficePrompt1.png)
 
 Your sheet should look like this:
+
+![SpreadSheetExample](cdli-gh.github.io/images/ma_guide/LibreOfficeSpreadsheet.png)
 
 2a. For non-pre-annotated .conll files, complete the SEGM and XPOSTAG fields.
 
