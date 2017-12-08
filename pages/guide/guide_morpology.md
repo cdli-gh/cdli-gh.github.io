@@ -25,24 +25,34 @@ The CDLI-CoNLL tables contain the following columns:
 The job of the annotators is to fill in the SEGM and XPOSTAG columns with the appropriate lexical and morphological 
 Manual annotation is assisted by a [pre-annotation tool](https://github.com/cdli-gh/morphology-pre-annotation-tool). Taking into account existing annotated texts, the pre-annotation tool will automatically populate unambiguous fields in the CDLI-CoNLL table. It may also make suggestions in additional columns to the right of those normally included in CDLI-CoNLL. In these cases, annotators select the best choice and copy/paste it into the appropriate column. Then, annotators fill in any remaining blanks.
 
-Initially, the pre-annotation tool is trained on the ETCSRI corpus. Consequently, the fields that it populates are restricted to areas of overlap between the Sumerian Royal Inscription and Ur III corpora
+Because the pre-annotating tool bases its suggestions on extant annotated texts, it is initially trained on the ETCSRI corpus, whose language only partially overlaps with that of the Ur III administrative corpus. Thus at first the pre-annotating tool will populate relatively few fields, but as Ur III texts are added to the annotated it will in turn
 
-1.	In the first instance, annotators will receive blank .conll files like the one depicted above. Annotators will complete the SEGM and XPOSTAG fields.
-2.	Once we have enough data, our pre-annotation tool will generate .conll files with (hopefully almost all) the SEGM and XPOSTAG fields populated and suggestions for blank fields provided in an additional column. Annotators will verify the pre-generated annotations and select the best option from any suggested tags, then annotate the remaining blank fields. 
+
+
+# The Morphological Pre-Annotation Tool (MPA)
+
+The MPA must be installed. Instructions for installation as well as running the tool can be found here: https://github.com/cdli-gh/morphology-pre-annotation-tool
+
+Upon installation, run the tool using the folder of the ETCSRI training corpus to create a dictionary (annotated_morph_dict.json). After running, the second line from the bottom should read "creating annotation json dictionary file as," followed by a file pathway to annotated_morph_dict.json. Open annotated_morph_dict.json using Atom or a similar text-editor to confirm its structure is correct (FORM: [[SEGM1	XPOSTAG1], [SEGM2	XPOSTAG2]]):
+
+```json
+{
+  "pisan-dub-ba": [["bisajdubak", "N"]], 
+  "hu-hu-nu-ri{ki}": []
+}
+```
+
+If the dictionary appears copacetic then the MPA is ready for use with the Ur III corpus.
 
 The following is a step-by-step guide to annotating .conll files. It has been tested for a streamlined annotation experience:
 
-TL;DR version:
-1. Open the prepared .conll file in LibreOffice.
-2a. If blank, complete the SEGM and XPOSTAG fields.
-2b. If pre-annotated, double-check populated fields and fill in the blanks.
-3. Save as .tsv/.csv
-
 1. Open the .conll file using LibreOffice.
 
-When you open a .conll file using LibreOffice, a dialog box will in will appear. Make sure to check ONLY the “tab” option as a separator. This ensures that the proper formatting is preserved as we edit the files. Your sheet should look like this:
+Open LibreOffice and start a new spreadsheet, then open the .conll file from here. LibreOffice will open the file in text editing mode as a default if it is opened on the main screen. When you open a .conll file using LibreOffice, a dialog box will in will appear. Make sure to check ONLY the “tab” option as a separator. This ensures that the proper formatting is preserved as we edit the files. 
 
-*EXAMPLE IMAGE*
+
+
+Your sheet should look like this:
 
 2a. For non-pre-annotated .conll files, complete the SEGM and XPOSTAG fields.
 
