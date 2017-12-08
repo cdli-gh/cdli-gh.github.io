@@ -61,7 +61,7 @@ In the early stages, this step should be repeated before each text to build the 
 
 In order to ensure that the format of the .conll files remains intact, they will be annotated using a spreadsheet. [LibreOffice](https://www.libreoffice.org/), an opensource office suite, was selected for this purpose because it can open .conll files without having to fiddle with the extensions.
 
-To edit the .conll files, open LibreOffice and start a new spreadsheet, then open the file. LibreOffice will open the file in text editing mode as a default if it is opened on the main screen. When you open a .conll file using LibreOffice, a dialog box will in will appear (pictured below). Make sure to check ONLY the “tab” option as a separator. This ensures that the proper formatting is preserved as we edit the files. 
+To edit the .conll files, open LibreOffice and start a new spreadsheet, then open the file. LibreOffice will open the file in text editing mode as a default if it is opened on the main screen. When LibreOffice opens a .conll file, a dialog box will in will appear (pictured below). Make sure to check ONLY the “tab” option as a separator. This ensures that the proper formatting is preserved the files are edited. 
 
 ![](https://cdli-gh.github.io/images/ma_guide/LibreOfficePrompt1.png)
 
@@ -69,16 +69,12 @@ The sheet should look like this:
 
 ![](https://cdli-gh.github.io/images/ma_guide/LibreOfficeSpreadsheet.png)
 
-2a. For non-pre-annotated .conll files, complete the SEGM and XPOSTAG fields.
-
 The SEGM column contains a normalization of the token given in the FROM column.
 
 The XPOSTAG column houses ORACC/ETSCRI morphological tags. Morphological tags are separated by periods, surrounding a stem tagged with the part of speech (POS). Implicit morphemes are added in square brackets.
 
 ORACC/ETCSRI morphological tagset can be found here:
 The POS tagset can be found here:
-
-To assist in this process, we extracted the extant morphological annotation data from the ETCSRI corpus. Since we are
 
 2b. For pre-annotated .conll files, verify the populated SEGM and XPOSTAG fields and fill in the blanks.
 
