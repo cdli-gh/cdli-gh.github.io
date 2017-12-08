@@ -53,7 +53,7 @@ If the dictionary appears copacetic then the MPA is ready for use with the Ur II
 
 ### 1. Run the Pre-Annoation Tool on the Texts
 
-Texts will be parcelled out to annotators in .conll format. When they receive a group of texts, each human annotator will run it through the MPA, which will pre-annotate the texts based on MPA's existing dictionary as well as update the dictionary based on any extant annotations in the texts. The human annotator will then complete the fields left blank by the MPA.
+Texts to be annotated will be parcelled out to annotators in .conll format. When they receive a group of texts, each human annotator will run it through the MPA, which will pre-annotate the texts based on MPA's existing dictionary as well as update the dictionary based on any extant annotations in the texts. The human annotator will then complete the fields left blank by the MPA.
 
 In the early stages, this step should be repeated before each text to build the dictionary and pre-annotate as much as possible. As the process goes on, it will likely be more efficient to pre-annotate a group of texts once in the beginning and update the dictionary once again after they are complete.
 
@@ -69,24 +69,27 @@ The sheet should look like this:
 
 ![](https://cdli-gh.github.io/images/ma_guide/LibreOfficeSpreadsheet.png)
 
+Human annotators will be responsible for filling in the SEGM and XPOSTAG columns, which contain a normalization of the token given in the FROM column and house ORACC/ETSCRI morphological tags, respectively. Pre-annotated .conll files will open with some of the SEGM and XPOSTAG fields already populated thanks to MPA, but these must be manually checked for accuracy and corrected accordingly. In some cases, the field will be blank but MPA will have made suggestions in an additional column. Human annotators may choose the appropriate option from the suggestions. The remainder of the blank SEGM and XPOSTAG fields will be completed manually.
+
+#### 2.1 Completing the SEGM Column
+
 The SEGM column contains a normalization of the token given in the FROM column.
+
+#### 2.2 Completing the XPOSTAG Column
 
 The XPOSTAG column houses ORACC/ETSCRI morphological tags. Morphological tags are separated by periods, surrounding a stem tagged with the part of speech (POS). Implicit morphemes are added in square brackets.
 
-ORACC/ETCSRI morphological tagset can be found here:
-The POS tagset can be found here:
+ORACC/ETCSRI morphological tagset can be found here: [LINK TO COME]
 
-2b. For pre-annotated .conll files, verify the populated SEGM and XPOSTAG fields and fill in the blanks.
+The POS tagset can be found here: [LINK TO COME]
 
-Pre-annotated .conll files should open with many of the SEGM and XPOSTAG fields already populated by our pre-annotation tool. These must be manually checked for accuracy and corrected accordingly. In some cases, the field will be blank but the pre-annotation tool will have made suggestions in an additional column. Human annotators may choose the appropriate option from the suggestions. The remainder of the blank SEGM and XPOSTAG fields can be completed in the same manner as 2a.
 
-3. Save.
-Saving will prompt a dialog box from LibreOffice about file formats. It is VERY important that our files are formatted correctly to avoid extra steps. Choose “use CSV.” You can uncheck the box at the bottom, which will disable this prompt in the future.
+### 3. Save
 
-If you are NOT prompted with this dialog box while saving, check your first file by opening it in a program like Atom. A properly formatted .conll file should appear columned in Atom as it did in LibreOffice. If it this is not the case, something has gone wrong. Double-check that the file was imported with only the “tab” separator option selected.
+Saving will prompt a dialog box from LibreOffice about file formats (pictured below). It is VERY important that our files are formatted correctly to avoid extra steps. Choose “use CSV.” You can uncheck the box at the bottom, which will disable this prompt in the future.
 
-Annotating TL;DR:
-1. Open the prepared .conll file in LibreOffice.
-2a. If blank, complete the SEGM and XPOSTAG fields.
-2b. If pre-annotated, double-check populated fields and fill in the blanks.
-3. Save
+If you are NOT prompted with this dialog box while saving, check your first file by opening it in a text-editor like Atom. A properly formatted .conll file should appear columned in Atom as it did in LibreOffice. If it this is not the case, something has gone wrong. Double-check that the file was imported with only the “tab” separator option selected.
+
+### 4. Run the Pre-Annotation Tool Again
+
+When the last text in a group is complete, MPA must be run one more time to update the dictionary before moving on.
