@@ -51,11 +51,18 @@ If the dictionary appears copacetic then the MPA is ready for use with the Ur II
 
 **Do not move the dictionary file.**
 
-### 1. Run the Pre-Annoation Tool on the Texts
+### 1. Run the Pre-Annotation Tool
 
-Texts to be annotated will be parcelled out to annotators in .conll format. When they receive a group of texts, each human annotator will run it through the MPA, which will pre-annotate the texts based on MPA's existing dictionary as well as update the dictionary based on any extant annotations in the texts. The human annotator will then complete the fields left blank by the MPA.
+Before new texts can be manually annotated they must be pre-annotated by the MPA. For the best result, annotators will update their local dictionaries based on all annotated files. To do this:
 
-In the early stages, this step should be repeated before each text to build the dictionary and pre-annotate as much as possible. As the process goes on, it will likely be more efficient to pre-annotate a group of texts once in the beginning and update the dictionary once again after they are complete.
+1. Retrieve fresh copies of all annotated files from WHEREVER THEY ARE BY WHATEVER MEANS and place them in a folder
+2. Delete annotated_morph_dict.json 
+3. Run the MPA on the folder of annotated texts
+4. Check to see that a new annotated_morph_dict.json file has been created and appears correct, as above
+
+Texts to be annotated will be parcelled out to annotators in .conll format. To pre-annotate the texts, simply run the MPA on the folder of texts to be annotated.
+
+_
 
 ### 2. Complete the Pre-Annotated Texts
 
@@ -86,7 +93,7 @@ The POS tagset can be found here: [LINK TO COME]
 
 ### 3. Save
 
-Saving will prompt a dialog box from LibreOffice about file formats (pictured below). It is VERY important that our files are formatted correctly to avoid extra steps. Choose “use CSV.” You can uncheck the box at the bottom, which will disable this prompt in the future.
+Saving will prompt a dialog box from LibreOffice about file formats (pictured below). It is VERY important that the files are formatted correctly to avoid extra steps. Choose “use CSV.” You can uncheck the box at the bottom, which will disable this prompt in the future.
 
 If you are NOT prompted with this dialog box while saving, check your first file by opening it in a text-editor like Atom. A properly formatted .conll file should appear columned in Atom as it did in LibreOffice. If it this is not the case, something has gone wrong. Double-check that the file was imported with only the “tab” separator option selected.
 
