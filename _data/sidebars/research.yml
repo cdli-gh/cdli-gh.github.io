@@ -42,6 +42,9 @@ entries:
     - title: ATF Checkers
       url: /research_atf_check.html
       output: web, pdf
+    - title: Texts selection
+      url: /research_select.html
+      output: web, pdf
     - title: Tokenization and lemmatization
       url: /research_lem.html
       output: web, pdf
