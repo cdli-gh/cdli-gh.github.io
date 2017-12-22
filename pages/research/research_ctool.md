@@ -3,7 +3,7 @@ title: Corpus tool
 last_updated:
 summary: "Researching the best corpus tool for the project"
 sidebar: research
-permalink: research_ictool.html
+permalink: research_ctool.html
 folder: research
 ---
 ##Corpus analysis tools review
