@@ -108,6 +108,9 @@ entries:
   - title: Interface
     output: web, pdf
     folderitems:
+    - title: Corpus tool
+      url: /research_ctool.html
+      output: web, pdf
     - title: Web interface
       url: /research_web.html
       output: web, pdf
