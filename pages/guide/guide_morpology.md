@@ -1,7 +1,7 @@
 ---
 title: morphology
 sidebar: guide
-permalink: /guide_morphology.html
+permalink: guide_morphology.html
 folder: guide
 summary: 
 ---
@@ -55,7 +55,7 @@ If the dictionary appears copacetic then the MPA is ready for use with the Ur II
 
 Before new texts can be manually annotated they must be pre-annotated by the MPA. For the best result, annotators will update their local dictionaries based on all annotated files. To do this:
 
-1. Retrieve fresh copies of all annotated files from WHEREVER THEY ARE BY WHATEVER MEANS and place them in a folder
+1. Retrieve fresh copies of all annotated files from (add repository link) and place them in a folder
 2. Delete annotated_morph_dict.json 
 3. Run the MPA on the folder of annotated texts
 4. Check to see that a new annotated_morph_dict.json file has been created and appears correct, as above
