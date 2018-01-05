@@ -45,7 +45,7 @@ acl	Arg1:<TOKEN>, Arg2:<TOKEN>
 advcl 	Arg1:<TOKEN>, Arg2:<TOKEN>
 ```
 
-***When attempting to do the same with events and attributes, using `<TOKEN>=<ENTITY>` did not work, however this could be a subtle coding error on my part. Upon reading about [defining macros in brat](http://brat.nlplab.org/configuration.html#additional-details), the above should be possible.
+***When attempting to do the same with events and attributes, using `<TOKEN>=<ENTITY>` did not work, however this could be a subtle coding error on my part. According to the [brat guide](http://brat.nlplab.org/configuration.html#additional-details), the above should be possible.
 
 Events are defined like entities but with the possibility of linking additional entities (or events) to that event in the format `ROLE:TYPE`, where `ROLE` can be freely defined:
 
