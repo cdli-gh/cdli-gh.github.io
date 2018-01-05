@@ -68,3 +68,9 @@ entries:
     - title: Lemmatization
       url: /guide_lemmatization.html
       output: web, pdf
+  - title: Configurations
+    output: web, pdf
+    folderitems: 
+   - title: Editing Brat configurations
+      url: /editing_brat_configs.htnl
+      output: web, pdf
