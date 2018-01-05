@@ -73,5 +73,5 @@ entries:
     output: web, pdf
     folderitems: 
     - title: Editing Brat configurations
-      url: /editing_brat_configs.htnl
+      url: /guide_editing_brat_configs.htnl
       output: web, pdf
