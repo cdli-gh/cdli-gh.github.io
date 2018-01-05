@@ -2,7 +2,7 @@
 title: Editing brat Configurations
 keywords:
 tags:
-sidebar: research || guide || cdli
+sidebar: guide
 permalink: /editing_brat_configs.html
 summary:
 ---
