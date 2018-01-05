@@ -3,9 +3,10 @@ title: Editing brat Configurations
 keywords:
 tags:
 sidebar: guide
-permalink: /editing_brat_configs.html
+permalink: editing_brat_configs.html
 summary:
 ---
+
 
 ### Editing Brat Annotation Configurations in annotation.conf ###
 Detailed instructions for editing brat configurations can be found here: http://brat.nlplab.org/configuration.html
