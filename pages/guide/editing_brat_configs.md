@@ -57,15 +57,15 @@ advcl 	Arg1:<TOKEN>, Arg2:<TOKEN>
 
 ***When attempting to do the same with events and attributes, using `<TOKEN>=<ENTITY>` did not work, however this could be a coding error on my part. According to the [brat guide](http://brat.nlplab.org/configuration.html#additional-details), custom macros should work across the board.
 
-Events are defined like entities but with the possibility of linking additional entities (or events) to that event in the format `ROLE:TYPE`, where `ROLE` can be freely defined:
+Events are defined like entities but with the possibility of linking additional entities (or events) to that event in the format `EVENT ROLE:TYPE`, where `ROLE` can be freely defined:
 
 ```
 [events]
-#to tag a sale and identify the participants
-Sale Buyer:<ENTITY>, Seller:<ENTITY>
-
-#to tag an event with a single participant
+#to tag an event with a single role
 Published_a_tablet Scholar:<ENTITY>
+
+#to tag an event with multiple roles
+Sale Buyer:<ENTITY>, Seller:<ENTITY>
 ```
 
 After tagging the event, dragging from the event label to an entity label will allow the user to specify the relevant participants within the event
