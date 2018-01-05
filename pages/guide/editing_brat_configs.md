@@ -3,7 +3,7 @@ title: Editing brat Configurations
 keywords:
 tags:
 sidebar: guide
-permalink: editing_brat_configs.html
+permalink: guide_editing_brat_configs.html
 summary:
 ---
 
