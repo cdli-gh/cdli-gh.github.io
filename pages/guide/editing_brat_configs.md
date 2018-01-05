@@ -43,7 +43,7 @@ This allows for relations between any two entities. The arguments can be further
 nsubj Arg1:<NOUN>; Arg2:<VERB>
 ```
 
-This will disallow syntactically meaningless relations from being annotated, but is more time consuming to define.
+This disallows syntactically meaningless relations from being annotated by mistake, but is more time consuming to define.
 
 In our current relations configuration, we are using `<TOKEN>` in place of `<ENTITY>` for defining relations, inserting the line `<TOKEN>=<ENTITY>`:
 
@@ -54,7 +54,7 @@ acl	Arg1:<TOKEN>, Arg2:<TOKEN>
 advcl 	Arg1:<TOKEN>, Arg2:<TOKEN>
 ```
 
-***When attempting to do the same with events and attributes, using `<TOKEN>=<ENTITY>` did not work, however this could be a subtle coding error on my part. According to the [brat guide](http://brat.nlplab.org/configuration.html#additional-details), the above should be possible.
+***When attempting to do the same with events and attributes, using `<TOKEN>=<ENTITY>` did not work, however this could be a coding error on my part. According to the [brat guide](http://brat.nlplab.org/configuration.html#additional-details), custom macros should work across the board.
 
 Events are defined like entities but with the possibility of linking additional entities (or events) to that event in the format `ROLE:TYPE`, where `ROLE` can be freely defined:
 
