@@ -23,7 +23,7 @@ title: Title here
 keywords:
 tags:
 sidebar: research || guide || cdli
-permalink: /nameofmyfile.html
+permalink: cat_nameofmyfile.html
 summary:
 ---
 ````
