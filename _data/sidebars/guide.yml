@@ -38,13 +38,13 @@ entries:
     output: web, pdf
     folderitems:
     - title: ATF Checker
-      url: /atf_checker.html
+      url: /guide_atf_checker.html
       output: web, pdf
     - title: ATF to CDLI-CoNLL
-      url: /ATF2conll.html
+      url: /guide_ATF2conll.html
       output: web, pdf
     - title: CoNLL-U to Brat
-      url: /conll2brat.html
+      url: /guide_conll2brat.html
       output: web, pdf
 
   - title: Annotation
