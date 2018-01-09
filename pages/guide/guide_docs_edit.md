@@ -10,7 +10,7 @@ summary:
 To add a new documentation page to this site:
 
 1. Create your doc page in the markdown format with the markdown extension (.md)  
-2. Upload your file in the pages folder (make sure it has a unique name)  
+2. Upload your file in the pages/cat/ folder (make sure it has a unique name)  
 3. Add your page to the menu in \_data/sidebars/home_sidebar.html  
 4. Wait two minutes and check that all is in order  
 
