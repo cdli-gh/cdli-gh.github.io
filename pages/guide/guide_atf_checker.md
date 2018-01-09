@@ -1,7 +1,7 @@
 ---
 title: ATF format checker
 sidebar: guide
-permalink: ATF2conll.html
+permalink: guide_atf_ckecker.html
 folder: guide
 summary: 
 ---
