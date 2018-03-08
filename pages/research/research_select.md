@@ -33,7 +33,7 @@ In English this translates as "select these data fields from those two database 
 
 This results in a selection of 70,333 texts in total.
 
-The resulting data was extracted in TSV format and is available in the [gold corpus annotation repository](https://github.com/cdli-gh/gold_corpus_annotation). 
+The resulting data was extracted in TSV format and is available in the [gold corpus repository](https://github.com/cdli-gh/mtaac_gold_corpus/tree/master/scripts/gold_corpus). 
 
 
 ## Analyzing the data to provide more information
@@ -45,4 +45,4 @@ The resulting data was extracted in TSV format and is available in the [gold cor
 
 
 
-*Émilie Pagé-Perron*
+*Émilie Pagé-Perron, Ilya Khait*
