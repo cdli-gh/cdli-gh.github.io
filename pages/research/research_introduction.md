@@ -12,7 +12,7 @@ folder: research
 
 
 ## What is the team working on?
-Our code rests on Github at: <https://github.com/cdhi-gh>   
+Our code rests on Github at: <https://github.com/cdli-gh>   
 Our private Google drive lives here (staff only): <https://drive.google.com/drive/folders/0B8-deXARunnhU2FHVzVqLXA4N3M>  
 
 
