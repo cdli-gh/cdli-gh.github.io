@@ -45,6 +45,8 @@ guides:
 #    url: /guides/guide_conll2brat.html
 - title: Annotation of Sumerian
   children:
+  - title: Annotation workshop
+    url: /guides/guide_annotation_workshop.html
   - title: Annotation overview
     url: /guides/guide_overview.html
   - title: Tagsets
