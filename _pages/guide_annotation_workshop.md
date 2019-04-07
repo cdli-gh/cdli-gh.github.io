@@ -7,7 +7,9 @@ sidebar:
 
 <!--
 Salutations and thanks,
-overview of workshop
+overview of workshop:
+
+
 -->
 
 ## Guests introductions
@@ -20,8 +22,10 @@ overview of workshop
 ## Principles
 
 The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
-1- facilitate machine ingestion of the texts
-2- make the annotation process as fast as possible
+
+1) facilitate machine ingestion of the texts
+
+2) make the annotation process as fast as possible
 
 
 ## Basics
@@ -36,8 +40,9 @@ Dashboard
 
 
 ### Pre-annotator
-dictionary
-  ETCSRI
+Ilya : 
+- How does the pre-annotator work?
+- Demonstration
   
   
 ### Manual annotation
