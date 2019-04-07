@@ -5,6 +5,16 @@ sidebar:
   nav: "guides"
 ---
 
+<!--
+Salutations and thanks,
+overview of workshop
+-->
+
+## Guests introductions
+
+Émilie Pagé-Perron
+Ilya Khait
+Jinyan Wang
 
 
 
