@@ -12,10 +12,9 @@ overview of workshop
 
 ## Guests introductions
 
-Émilie Pagé-Perron
-Ilya Khait
-Jinyan Wang
-
+- Émilie Pagé-Perron
+- Ilya Khait
+- Jinyan Wang
 
 
 ## Principles
@@ -35,15 +34,17 @@ Dashboard
 ## Morphology
 ### Tagset
 
+
 ### Pre-annotator
 dictionary
   ETCSRI
   
-
   
 ### Manual annotation
-
-
+Jinyan 
+- How to work with a pre-annotated text
+- Demonstration of decision making in the annotation phase
+- Participants try morphological annotation
 
 ## Syntax
 
