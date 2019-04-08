@@ -22,21 +22,51 @@ background, role;
 -->
 - "Tour-de-table"
 <!--
-background, technical knowledge;
+background, technical, sumerian;
 -->
 
 
 ## Principles
 
 The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
+<!--
+talk about that more during talk
+-->
 
 1) facilitate machine ingestion of the texts
-
+<!--
+- part of MTAAC w specific objectives
+- data spacity challenge, increase repetition/ more patterns to pick-up
+- practical and democratically used formats
+-->
 2) make the annotation process as fast as possible
-
+<!--
+- not necesserilly user friendly
+    interface
+    learning curve
+    installtion
+- Tools def can be reused ands improved for other projects
+- will be integrated in the enw cdli website as services
+- Stuggle to annotate fast:
+  - still working on the tagset, eg why stem reduplicated?
+-->
 
 ## Basics
+
 ### Repos
+#### Most useful
+- Morphologically annotated texts https://github.com/cdli-gh/mtaac_gold_corpus (morph/to_dict)
+- Morphological pre-annotator https://github.com/cdli-gh/morphology-pre-annotation-tool
+<!-- Ilya will expalin its principles -->
+- Annotation dashboard https://github.com/cdli-gh/annotation_assistant
+
+#### Other resources
+- New Framework (for advanced developpers only) https://gitlab.com/cdli/framework
+- CDLI data dump https://github.com/cdli-gh/data
+- Documentation website https://github.com/cdli-gh/cdli-gh.github.io (https://cdli-gh.github.io/)
+
+### Other links
+- Brat server : http://173.230.166.232/brat/#/ cdli_syntax:split-ergative
 
 ### CDLI search and downlaod
 <!--
