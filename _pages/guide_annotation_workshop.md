@@ -159,5 +159,5 @@ and demonstrate it
 - Create a [Github account](https://github.com/join)
 - Install [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 - Install the [annotation assistant](https://github.com/cdli-gh/annotation_assistant)
-- Edit morphologically pre-annotated texts (using the annotation helper or a standalone pre-annotated file available [here] (https://cdli-gh.github.io/assets/texts⁩/) )
+- Edit morphologically pre-annotated texts (using the annotation helper or a standalone pre-annotated file available [here](https://cdli-gh.github.io/assets/texts⁩/) )
 - Upload your own text to [Brat](http://173.230.166.232/brat/#/ann_test/) and try it out
