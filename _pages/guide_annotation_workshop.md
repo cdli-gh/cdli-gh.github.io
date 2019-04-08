@@ -29,24 +29,20 @@ The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
 
 1) facilitate machine ingestion of the texts
 
-<!--
-- part of MTAAC w specific objectives
+<!-- - part of MTAAC w specific objectives
 - data spacity challenge, increase repetition/ more patterns to pick-up
-- practical and democratically used formats
--->
+- practical and democratically used formats -->
 
 2) make the annotation process as fast as possible
 
-<!--
-- not necesserilly user friendly
+<!-- - not necesserilly user friendly
     interface
     learning curve
     installtion
 - Tools def can be reused ands improved for other projects
 - will be integrated in the enw cdli website as services
 - Stuggle to annotate fast:
-  - still working on the tagset, eg why stem reduplicated?
--->
+  - still working on the tagset, eg why stem reduplicated? -->
 
 ## Basics
 
@@ -68,10 +64,8 @@ The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
 - Brat server : http://173.230.166.232/brat/#/syntax-evaluation/ cdli_syntax:split-ergative (login: hover in top right corner)
 
 ### CDLI search and downlaod
-<!--
-useful until at least the end of the summer
-talk about the new interface @ talk 
--->
+<!-- useful until at least the end of the summer
+talk about the new interface @ talk  -->
 
 - how do you use CDLI?
 - advanced search overview
