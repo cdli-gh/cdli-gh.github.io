@@ -24,11 +24,11 @@ hands on, practical
 
 ## Principles
 
-What are linguistic annotations?
-What are epossible types of linguistic annotations?
+- What are linguistic annotations?
+- What are epossible types of linguistic annotations?
 
-How does one parse Sumerian in class?
-Familiarity with ORAXC lemmatizaton?
+- How does one parse Sumerian in class?
+- Familiarity with ORACC lemmatizaton?
 
 <!-- talk about that more during talk -->
 The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
