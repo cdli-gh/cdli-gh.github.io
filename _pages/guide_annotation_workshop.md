@@ -77,14 +77,13 @@ The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
 - Morphological pre-annotator https://github.com/cdli-gh/morphology-pre-annotation-tool 
 <!-- Ilya will expalin its principles -->
 
-
 #### Other resources
-- New Framework (for advanced developpers only) https://gitlab.com/cdli/framework
+- New Framework (for advanced developpers only, need familarity with Docker) https://gitlab.com/cdli/framework
 - CDLI data dump https://github.com/cdli-gh/data
 - Documentation website https://github.com/cdli-gh/cdli-gh.github.io (https://cdli-gh.github.io/)
 
 ### Other links
-- Brat server : http://173.230.166.232/brat/#/ann_test/ cdli_syntax:split-ergative (login: hover in top right corner)
+- Brat server: http://173.230.166.232/brat/#/ann_test/ cdli_syntax:split-ergative (login: hover in top right corner)
 
 ### CDLI search and downlaod
 <!-- useful until at least the end of the summer
@@ -121,15 +120,13 @@ Brat: not for humans!  http://brat.nlplab.org/standoff.html
 
 RDF http://www.lrec-conf.org/proceedings/lrec2018/pdf/862.pdf (p5.)
 
-### Dashboard
 
-
-### Pre-annotator
+### Morphology pre-annotator
 Ilya : 
 - How does the pre-annotator of morphology work?
-- Demonstration
+- Demonstration (using the dashboard)
 
-  
+
 ### Manual annotation
 Jinyan :
 
@@ -138,7 +135,6 @@ https://cdli-gh.github.io/assets/texts⁩/pre-annotated⁩/P340403.conll
 
 - How to work with a pre-annotated text
 - Demonstration of decision making in the annotation phase
-- Participants try morphological annotation
 
 ## Syntax
 Ilya : 
@@ -195,9 +191,11 @@ and demonstrate it
 
 
 ## Activities
-
+### Optional
 - Create a [Github account](https://github.com/join)
-- Install [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 - Install the [annotation assistant](https://github.com/cdli-gh/annotation_assistant)
-- Edit morphologically pre-annotated texts (using the annotation helper or a standalone pre-annotated file available [here](https://cdli-gh.github.io/assets/texts⁩/) )
+
+### Everyone
+- Install [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
+- Edit morphologically pre-annotated texts (using the annotation helper or a standalone pre-annotated file available [here](https://cdli-gh.github.io/assets/texts⁩/pre-annotated_bundle.zip) )
 - Upload your own text to [Brat](http://173.230.166.232/brat/#/ann_test/) and try it out
