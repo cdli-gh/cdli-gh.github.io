@@ -24,8 +24,14 @@ hands on, practical
 
 ## Principles
 
-The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
+What are linguistic annotations?
+What are epossible types of linguistic annotations?
+
+How does one parse Sumerian in class?
+Familiarity with ORAXC lemmatizaton?
+
 <!-- talk about that more during talk -->
+The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
 
 1) facilitate machine ingestion of the texts
 
@@ -74,13 +80,25 @@ talk about the new interface @ talk  -->
 - download ATF
 
 ### Tagsets
+MTAAC POS  (ORACC Original) https://docs.google.com/spreadsheets/d/1Is7MGG0h8h0vfHj9C9mnWOD2utPeuvm1ZeYb1dsaejg/edit?usp=sharing
+ETCSRI MORPH (original) http://oracc.museum.upenn.edu/etcsri/parsing/index.html
+MTAAC MORPH  https://docs.google.com/spreadsheets/d/1y0_y9HDQNwH0VqDCjjYuUpFsugw4GEybu6Pu01I_D9c/edit?usp=sharing
+
 
 ### Data formats
-- CoNLL format
+ATF
 https://cdli-gh.github.io/assets/texts⁩/P102341.atf
 https://cdli-gh.github.io/assets/texts⁩/P340403.atf
+
+cdli-CoNLL
 https://cdli-gh.github.io/assets/texts⁩/P102341.conll
 https://cdli-gh.github.io/assets/texts⁩/P340403.conll
+
+CoNLL-U
+
+Brat 
+
+RDF
 
 ### Dashboard
 
@@ -134,5 +152,12 @@ then you can put me on and I can tell:
 (1) how the morph. pre-annotation tool works 
 (2) how the syntax pre-annotation tool works
 and demonstrate it
-yes
 
+
+## Activities
+
+- Create a Github account
+- Install Atom
+- Install the annotation helper
+- Edit morphologically pre-annotated texts (using the annotation helper or a standalone pre-annotated file)
+- Upload your own text to Brat and try it out
