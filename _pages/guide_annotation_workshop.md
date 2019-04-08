@@ -10,7 +10,6 @@ toc: true
 Salutations and thanks, first time!;
 overview of workshop:
 hands on, practical
-
 -->
 
 ## Introductions
@@ -18,29 +17,26 @@ hands on, practical
 - Émilie Pagé-Perron
 - Ilya Khait
 - Jinyan Wang
-<!--
-background, role;
--->
+<!-- background, role;-->
 - "Tour-de-table"
-<!--
-background, technical, sumerian;
--->
+<!-- background, technical, sumerian; -->
 
 
 ## Principles
 
 The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
-<!--
-talk about that more during talk
--->
+<!-- talk about that more during talk -->
 
 1) facilitate machine ingestion of the texts
+
 <!--
 - part of MTAAC w specific objectives
 - data spacity challenge, increase repetition/ more patterns to pick-up
 - practical and democratically used formats
 -->
+
 2) make the annotation process as fast as possible
+
 <!--
 - not necesserilly user friendly
     interface
@@ -59,7 +55,8 @@ talk about that more during talk
 - Morphologically annotated texts https://github.com/cdli-gh/mtaac_gold_corpus (morph/to_dict)
 - Annotation dashboard https://github.com/cdli-gh/annotation_assistant
 - ATF2CoNLL converter https://github.com/cdli-gh/atf2conll-convertor
-- Morphological pre-annotator https://github.com/cdli-gh/morphology-pre-annotation-tool <!-- Ilya will expalin its principles -->
+- Morphological pre-annotator https://github.com/cdli-gh/morphology-pre-annotation-tool 
+<!-- Ilya will expalin its principles -->
 
 
 #### Other resources
