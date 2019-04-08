@@ -57,8 +57,10 @@ talk about that more during talk
 ### Repos
 #### Most useful
 - Morphologically annotated texts https://github.com/cdli-gh/mtaac_gold_corpus (morph/to_dict)
-- Morphological pre-annotator https://github.com/cdli-gh/morphology-pre-annotation-tool <!-- Ilya will expalin its principles -->
 - Annotation dashboard https://github.com/cdli-gh/annotation_assistant
+- ATF2CoNLL converter https://github.com/cdli-gh/atf2conll-convertor
+- Morphological pre-annotator https://github.com/cdli-gh/morphology-pre-annotation-tool <!-- Ilya will expalin its principles -->
+
 
 #### Other resources
 - New Framework (for advanced developpers only) https://gitlab.com/cdli/framework
