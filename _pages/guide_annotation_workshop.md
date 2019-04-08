@@ -1,8 +1,8 @@
 ---
 title: "Sumerian manual annotation workshop"
-permalink: /guides/guide_annotation_workshop.html
 sidebar:
   nav: "guides"
+permalink: /guides/guide_annotation_workshop.html
 toc: true
 ---
 
