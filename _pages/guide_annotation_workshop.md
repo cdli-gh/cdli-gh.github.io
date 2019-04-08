@@ -105,7 +105,7 @@ RDF
 
 ### Pre-annotator
 Ilya : 
-- How does the pre-annotator work?
+- How does the pre-annotator of morphology work?
 - Demonstration
 
   
@@ -120,9 +120,9 @@ https://cdli-gh.github.io/assets/texts⁩/pre-annotated⁩/P340403.conll
 - Participants try morphological annotation
 
 ## Syntax
-
-
-### Pre-annotation
+Ilya : 
+- How does the pre-annotator of syntax work?
+- Demonstration
 
 ### Manual annotation
 Brat
