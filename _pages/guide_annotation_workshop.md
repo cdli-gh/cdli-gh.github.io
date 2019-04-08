@@ -20,12 +20,10 @@ hands on, practical
 <!--
 background, role;
 -->
-
 - "Tour-de-table"
 <!--
 background, technical knowledge;
 -->
-
 
 
 ## Principles
