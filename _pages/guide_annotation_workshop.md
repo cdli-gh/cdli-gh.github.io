@@ -68,7 +68,7 @@ talk about that more during talk
 - Documentation website https://github.com/cdli-gh/cdli-gh.github.io (https://cdli-gh.github.io/)
 
 ### Other links
-- Brat server : http://173.230.166.232/brat/#/ cdli_syntax:split-ergative
+- Brat server : http://173.230.166.232/brat/#/syntax-evaluation/ cdli_syntax:split-ergative (login: hover in top right corner)
 
 ### CDLI search and downlaod
 <!--
@@ -86,7 +86,10 @@ talk about the new interface @ talk
 
 ### Data formats
 - CoNLL format
-
+https://cdli-gh.github.io/assets/texts⁩/P102341.atf
+https://cdli-gh.github.io/assets/texts⁩/P340403.atf
+https://cdli-gh.github.io/assets/texts⁩/P102341.conll
+https://cdli-gh.github.io/assets/texts⁩/P340403.conll
 
 ### Dashboard
 
@@ -95,10 +98,14 @@ talk about the new interface @ talk
 Ilya : 
 - How does the pre-annotator work?
 - Demonstration
-  
+
   
 ### Manual annotation
-Jinyan 
+Jinyan :
+
+https://cdli-gh.github.io/assets/texts⁩/pre-annotated⁩/P102341.conll
+https://cdli-gh.github.io/assets/texts⁩/pre-annotated⁩/P340403.conll
+
 - How to work with a pre-annotated text
 - Demonstration of decision making in the annotation phase
 - Participants try morphological annotation
