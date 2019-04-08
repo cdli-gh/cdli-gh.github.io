@@ -25,10 +25,27 @@ hands on, practical
 ## Principles
 
 - What are linguistic annotations?
-- What are epossible types of linguistic annotations?
+- What are possible types of linguistic annotations?
 
 - How does one parse Sumerian in class?
+
+1. dingir-mah
+en: For Dingirmaḫ,
+2. e2-IGI-NIM-pa-e3
+en: E’iginimpa’e,
+3. ensix(|GAR.PA.TE.SI|)
+en: ruler
+4. adab{ki}
+en: of Adab,
+5. e2-mah mu-na-du3
+en: built (her temple) the Emah
+
+
 - Familiarity with ORACC lemmatizaton?
+http://oracc.museum.upenn.edu/doc/help/lemmatising/primer/
+
+- What are the downsides of this system?
+- How to add syntax, and semantic annotations?
 
 <!-- talk about that more during talk -->
 The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
@@ -74,16 +91,20 @@ The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
 talk about the new interface @ talk  -->
 
 - how do you use CDLI?
-- advanced search overview
-- search aid page
-- testing out
-- download ATF
+- advanced search overview  https://cdli.ucla.edu/search/
+- search aid page https://cdli.ucla.edu/?q=cdli-search-information
+
+- testing out (find texts that have a transliteration AND a translation)
+- download ATF (look at atf format a bit later)
 
 ### Tagsets
-MTAAC POS  (ORACC Original) https://docs.google.com/spreadsheets/d/1Is7MGG0h8h0vfHj9C9mnWOD2utPeuvm1ZeYb1dsaejg/edit?usp=sharing
+MTAAC POS & NE (ORACC Original) https://docs.google.com/spreadsheets/d/1Is7MGG0h8h0vfHj9C9mnWOD2utPeuvm1ZeYb1dsaejg/edit?usp=sharing
 ETCSRI MORPH (original) http://oracc.museum.upenn.edu/etcsri/parsing/index.html
 MTAAC MORPH  https://docs.google.com/spreadsheets/d/1y0_y9HDQNwH0VqDCjjYuUpFsugw4GEybu6Pu01I_D9c/edit?usp=sharing
 
+Shared tagsets :
+Unimorph https://docs.google.com/spreadsheets/d/1B-S8-t6mo1QQOog2-r4KqwGeRW7fyTC1dm6c-OIGmY4/edit?usp=sharing 
+Universdal Dependencies (convertion for morphology, straight up for syntax https://universaldependencies.org/
 
 ### Data formats
 ATF
@@ -94,11 +115,11 @@ cdli-CoNLL
 https://cdli-gh.github.io/assets/texts⁩/P102341.conll
 https://cdli-gh.github.io/assets/texts⁩/P340403.conll
 
-CoNLL-U
+CoNLL-U:  Universal dependencies tags
 
-Brat 
+Brat: not for humans!  http://brat.nlplab.org/standoff.html
 
-RDF
+RDF http://www.lrec-conf.org/proceedings/lrec2018/pdf/862.pdf (p5.)
 
 ### Dashboard
 
@@ -122,13 +143,32 @@ https://cdli-gh.github.io/assets/texts⁩/pre-annotated⁩/P340403.conll
 ## Syntax
 Ilya : 
 - How does the pre-annotator of syntax work?
+    - How does shift-reduce works?
 - Demonstration
+
+
+
+List:
+
+https://docs.google.com/document/d/1jgH0rtV-33hN-EL9JAqDcTaUtyBe3RP6HkP1I4JOx0A/edit
+
+
+Shift-reduce rule example :
+( Genitive, rune #17 )
+
+
+- How would we go about to create rules for the agent/subject/object syntactic roles?
+
+
+
 
 ### Manual annotation
 Brat
 Pseudo brat in the 
 
 
+Example :
+http://173.230.166.232/brat/#/ann_test/text2019_5
 
 
 Hi and thanks 
