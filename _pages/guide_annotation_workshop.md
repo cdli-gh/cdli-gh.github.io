@@ -67,7 +67,7 @@ The MTAAC manual annotation pipeline has been designed to satisfy two criteria:
 - Documentation website https://github.com/cdli-gh/cdli-gh.github.io (https://cdli-gh.github.io/)
 
 ### Other links
-- Brat server : http://173.230.166.232/brat/#/syntax-evaluation/ cdli_syntax:split-ergative (login: hover in top right corner)
+- Brat server : http://173.230.166.232/brat/#/ann_test/ cdli_syntax:split-ergative (login: hover in top right corner)
 
 ### CDLI search and downlaod
 <!-- useful until at least the end of the summer
