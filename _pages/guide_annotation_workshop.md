@@ -156,8 +156,8 @@ and demonstrate it
 
 ## Activities
 
-- Create a Github account
-- Install Atom
-- Install the annotation helper
+- Create a [Github account](https://github.com/join)
+- Install [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
+- Install the [annotation assistant](https://github.com/cdli-gh/annotation_assistant)
 - Edit morphologically pre-annotated texts (using the annotation helper or a standalone pre-annotated file)
-- Upload your own text to Brat and try it out
+- Upload your own text to [Brat](http://173.230.166.232/brat/#/ann_test/) and try it out
