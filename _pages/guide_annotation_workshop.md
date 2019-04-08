@@ -133,7 +133,8 @@ Jinyan :
 https://cdli-gh.github.io/assets/texts⁩/pre-annotated⁩/P102341.conll
 https://cdli-gh.github.io/assets/texts⁩/pre-annotated⁩/P340403.conll
 
-- How to work with a pre-annotated text
+- Explain the format and presentation
+- tasks to perform
 - Demonstration of decision making in the annotation phase
 
 ## Syntax
@@ -142,52 +143,23 @@ Ilya :
     - How does shift-reduce works?
 - Demonstration
 
-
-
+### Shift-reduce rules
 List:
 
 https://docs.google.com/document/d/1jgH0rtV-33hN-EL9JAqDcTaUtyBe3RP6HkP1I4JOx0A/edit
 
-
 Shift-reduce rule example :
 ( Genitive, rune #17 )
-
 
 - How would we go about to create rules for the agent/subject/object syntactic roles?
 
 
-
-
-### Manual annotation
-Brat
-Pseudo brat in the 
-
+### Syntax manual annotation
 
 Example :
 http://173.230.166.232/brat/#/ann_test/text2019_5
 
-
-Hi and thanks 
-Overview of what we will be doing
-Jinyan and Ilya to introduce themselves
-Intro about the basic principles and objectives of the annotation
-can be extended to more later
-Part of a project with specific objectives
-
-Where to find stuff
-Open access to some of the google docs
-Documentation website
-The repos
-the links will be there so they can refer back
-then showing them how to get a text from cdli
-and provide them with pre-annotated texts
-so they dont have to run the pre-annotator
-I thnk there I would explain how the pre-annotator works
-and let jinyan explain how to work with a pre-annotated text
-then you can put me on and I can tell:
-(1) how the morph. pre-annotation tool works 
-(2) how the syntax pre-annotation tool works
-and demonstrate it
+Demonstration:  http://173.230.166.232/brat/#/ann_test/P340403
 
 
 ## Activities
