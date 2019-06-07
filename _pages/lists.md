@@ -212,6 +212,12 @@ The standard metrological expression in this period is: numeral –  measurement
 |udu szimaszgi2|udu|udu[sheep]|N|
 |‘szimaszki sheep’|szimaszgi2|szimaszki[type_of_sheep]|N|
 
+*Example 11*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|zi3 sig15(*)|zi3-sig15|zidsig[flour_type]|N|
+|‘flour type’||||
 
 ## Gurusz Work Assignments
 
