@@ -15,6 +15,7 @@ toc: true
 |#(asz)|6(asz)|6(asz)[one]|NU|
 |#(disz)|2(disz)|2(disz)[one]|NU|
 |#u|5(u)|5(u)[ten]|NU|
+|#(gesz’u)|#(gesz’u)[600]|#(gesz’u)[600]|NU|
 
 ### Subtraction
 
