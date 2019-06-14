@@ -1,5 +1,5 @@
 ---
-title: Texts Structure
+title: Text Structure
 sidebar:
   nav: "guides"
 permalink: /guides/lists.html
