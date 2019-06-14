@@ -112,7 +112,7 @@ The ablative's function of distributive is not distinguished in the two sets.
 ### ETCSL Morphological tags
 The ETCSL morphological tags mostly give a normalization that can then be treated with rules to disambiguate meaning. Exception is made for the verbal bases which are explicitly identified (aspect, plural, etc).
 
-- Creating Tools for Morphological Analysis of Sumerian [Link to the pdf](https://gate.ac.uk/sale/lrec2006/etcsl/etcsl-paper.pdf)
+- Creating Tools for Morphological Analysis of Sumerian [(link to the pdf)](https://gate.ac.uk/sale/lrec2006/etcsl/etcsl-paper.pdf)
 
 Some examples:
 
@@ -133,7 +133,7 @@ For a full description of the morphological annotation system, see the [ETCSRI w
 The ETCSRI morphological tagging is very explicit and consists of three different attributes:
 1. The morpheme column based on logical table of possible suites of morphemes
 2. The usage of the morphemes
-3. the normalized form of the text
+3. The normalized form of the text
 
 Attributes 2 and 3 are used in our CoNLL-U annotation in a hybrid attribute, eg:
 > iri-kug-ga-ka-ni
