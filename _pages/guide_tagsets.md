@@ -79,7 +79,7 @@ ORACC: <http://oracc.museum.upenn.edu/doc/help/languages/propernouns/index.html>
 ETCSL: <http://etcsl.orinst.ox.ac.uk/edition2/etcslhelp.php#propernouns>  
 
 
-|Named Entities (ORACC/ETCSL)|
+|Named Entities|
 |:---|:---|:---|:---|
 |ORACC||ETCSL||
 |DN|Divine Name|DN|divine name|
@@ -104,7 +104,7 @@ ETCSL: <http://etcsl.orinst.ox.ac.uk/edition2/etcslhelp.php#propernouns>
 
 ## Morphological tags
 
-### Morphological tags comparative chart
+### Morphological tags — comparative chart
 [Morphology chart under development](https://docs.google.com/spreadsheets/d/1y0_y9HDQNwH0VqDCjjYuUpFsugw4GEybu6Pu01I_D9c/edit#gid=0)
 
 The ablative's function of distributive is not distinguished in the two sets.
@@ -125,10 +125,10 @@ V|mu.ra.I.n:L|e-ri-in-bar-re-ec
 V|ga.V.n.ci:L|ga-an-ci-gen
 V|ha.ba.NI.n:L|ha-ba-ni-in-dug4
 
-The tags seems to only appear on words that display affixes (the absolutive is not marked).
+The tags seem only to appear on words that display affixes (the absolutive is not marked).
 
 
-For a full description of the morphological annotations system, see the ETCSRI website. URL
+For a full description of the morphological annotation system, see the [ETCSRI website] (http://oracc.museum.upenn.edu/etcsri/parsing/index.html).
 
 The ETCSRI morphological tagging is very explicit and consists of three different attributes:
 1. The morpheme column based on logical table of possible suites of morphemes
