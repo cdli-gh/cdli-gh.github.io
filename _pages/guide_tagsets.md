@@ -128,7 +128,7 @@ V|ha.ba.NI.n:L|ha-ba-ni-in-dug4
 The tags seem only to appear on words that display affixes (the absolutive is not marked).
 
 
-For a full description of the morphological annotation system, see the [ETCSRI website] (http://oracc.museum.upenn.edu/etcsri/parsing/index.html).
+For a full description of the morphological annotation system, see the [ETCSRI website](http://oracc.museum.upenn.edu/etcsri/parsing/index.html).
 
 The ETCSRI morphological tagging is very explicit and consists of three different attributes:
 1. The morpheme column based on logical table of possible suites of morphemes
@@ -165,7 +165,7 @@ enden|1-PL-S|first person plural subject suffix (df)
 enden|1-PL|first person plural suffix in plural transitive preterite verbal forms
 
 
-Or give indications about subtleties in meaning
+Or they give indications about subtleties in meaning:
 
 morpheme|tag|meaning
 ----|----|-----
