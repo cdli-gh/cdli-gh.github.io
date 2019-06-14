@@ -8,8 +8,11 @@ toc: true
 
 ## POS tags
 ORACC: <http://oracc.museum.upenn.edu/doc/help/languages/akkadian/index.html>  (scroll down to half the page)  
+
 ETCSL: <http://etcsl.orinst.ox.ac.uk/edition2/etcslhelp.php#pos>  
+
 UD: <http://universaldependencies.org/docs/en/pos/all.html>  
+
 Penn: <https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html>
 
 
