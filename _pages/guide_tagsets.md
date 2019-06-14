@@ -75,10 +75,12 @@ Penn: <https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.ht
 
 ## Named Entities
 ORACC: <http://oracc.museum.upenn.edu/doc/help/languages/propernouns/index.html>  
+
 ETCSL: <http://etcsl.orinst.ox.ac.uk/edition2/etcslhelp.php#propernouns>  
 
 
 |Named Entities (ORACC/ETCSL)|
+|ORACC||ETCSL||
 |:---|:---|:---|:---|
 |DN|Divine Name|DN|divine name|
 |EN|Ethnos Name|EN|ethnic name|
