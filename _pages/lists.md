@@ -471,6 +471,7 @@ N (is) X – i.e. the silver (is) a loan (better: debt/obligation), where X can 
 |{gesz}si ‘sprout tree’|{gesz}si|si[sprout_tree]|N|
 
 
+
 *Example 12*
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
