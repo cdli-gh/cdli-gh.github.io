@@ -250,11 +250,33 @@ The standard metrological expression in this period is: numeral –  measurement
 
 ### Gurusz Functions
 
+*Example 1*
+
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------:|:---------------------:|:-------------:|:-------------:|
 |sahar si-ga ‘earth filled in’|sahar|sahar[earth]|N|
 |   |si-ga|si[fill]-a|NF.V.PT|
 
+
+*Example 2*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|engar-gesz-i3-ka(*)|engar|engar[farmer]|N|
+|“farmer of (sesame) oil (lit.the tree of oil)”|gesz-i3-ka|gesz-i3[sesame]-ak-ak|N.GEN.GEN|
+
+(\*) Example text: [P112711](https://cdli.ucla.edu/P112711). This term occurs twelve times on CDLI  segmented  as engar-gesz-i3-ka, and twice as engar gesz-i3-ka. On BDTNS it is always segmented in the latter way.  The double genitive, always present with this term, justifies reading it as a phrase rather than a noun “the farmer of (sesame) oil” or more literally “the farmer of the tree of oil”.  As Jagersma explains, sesame was the Sumerian oil crop and the sign gesz-i3 can be read “sesame” (while i3-gesz is typically read “oil” – this distinction may be artificial).
+
+*Example 3*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|a-da gub-ba PN(*)|a-da|a[water]-da[N.COM]
+|‘stationed at the water(works) – the field Ganmah’|gub-ba|gub[assigned]-a|NF.V.PT|
+||a-sza3|aszag[field]|N|
+||Gan2-mah|Ganmah[1]|FN|
+
+(\*) Example text: P112711. While the comitative on the noun here is perhaps unexpected, this interpretation seems justified when compared with CDLI translations of a-da gub-ba, i.e. P209503 “at the water(works) stationed.”
 
 ##Purpose Designations
 
