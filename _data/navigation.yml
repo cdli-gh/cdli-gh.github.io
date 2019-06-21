@@ -98,8 +98,8 @@ research:
 
   - title: Semantics
     url: /research/research_sem_ann.html
-- title: Automated Annotation
-  children:
+  - title: Automated Annotation
+    children:
     - title: Annotations projection
       url: /research/style.html
     - title: Morphology
