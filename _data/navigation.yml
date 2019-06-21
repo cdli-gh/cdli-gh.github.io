@@ -1,4 +1,4 @@
-# main links
+ main links
 main:
 - title: "Guides and references"
   url: /
@@ -11,38 +11,38 @@ guides:
   children:
   - title: Search CDLI
     url: /guides/cdli_search.html
-#  - title: Browse CDLI
-#    url: /guides/cdli_browse.html
-#- title: Formats
-#  children:
-#  - title: ATF format
-#    url: /guides/cdli_format_atf.html
-#  - title: CDLI-CoNLL format
-#    url: /guides/cdli_format_cdli-conll.html
-#  - title: CoNLL-U format
-#    url: /guides/cdli_format_conllu.html
-#  - title: Brat standoff format
-#    url: /guides/cdli_format_brat.html
-#- title: Infrastructure
-#  children:
-#  - title: Server architecture
-#    url: /guides/cdli_struct_server.html
-#  - title: CDLI core structure
-#    url: /guides/cdli_struct_core.html
-#  - title: Database structure
-#    url: /guides/cdli_struct_db.html
-#  - title: Site structure
-#    url: /guides/cdli_struct_site.html
-#  - title: File structure
-#    url: /guides/cdli_struct_files.html
-#- title: Data integrity and conversion
-#  children:
-#  - title: ATF Checker
-#    url: /guides/guide_atf_checker.html
-#  - title: ATF to CDLI-CoNLL
-#    url: /guides/guide_ATF2conll.html
-#  - title: CoNLL-U to Brat
-#    url: /guides/guide_conll2brat.html
+  - title: Browse CDLI
+    url: /guides/cdli_browse.html
+- title: Formats
+  children:
+  - title: ATF format
+    url: /guides/cdli_format_atf.html
+  - title: CDLI-CoNLL format
+    url: /guides/cdli_format_cdli-conll.html
+  - title: CoNLL-U format
+    url: /guides/cdli_format_conllu.html
+  - title: Brat standoff format
+    url: /guides/cdli_format_brat.html
+- title: Infrastructure
+  children:
+  - title: Server architecture
+    url: /guides/cdli_struct_server.html
+  - title: CDLI core structure
+    url: /guides/cdli_struct_core.html
+  - title: Database structure
+    url: /guides/cdli_struct_db.html
+  - title: Site structure
+    url: /guides/cdli_struct_site.html
+  - title: File structure
+    url: /guides/cdli_struct_files.html
+- title: Data integrity and conversion
+  children:
+  - title: ATF Checker
+    url: /guides/guide_atf_checker.html
+  - title: ATF to CDLI-CoNLL
+    url: /guides/guide_ATF2conll.html
+  - title: CoNLL-U to Brat
+    url: /guides/guide_conll2brat.html
 - title: Annotation of Sumerian
   children:
   - title: Annotation overview
@@ -57,12 +57,12 @@ guides:
     url: /guides/lists.html
   - title: Verbal Chain Slot System
     url: /guides/verbal_chain_slot_system.html
-#  - title: Syntax
-#    url: /guides/guide_syntax.html
-#  - title: Semantics
-#    url: /guides/guide_semantics.html
-#  - title: Lemmatization
-#    url: /guides/guide_lemmatization.html
+  - title: Syntax
+    url: /guides/guide_syntax.html
+  - title: Semantics
+    url: /guides/guide_semantics.html
+  - title: Lemmatization
+    url: /guides/guide_lemmatization.html
 - title: Configurations
   children:
   - title: Editing Brat configurations
@@ -82,63 +82,63 @@ research:
     url: /research/research_select_corpus.html
   - title: Morphology
     url: /research/research_morph_ann.html
-#  - title: Syntax
-#    url: /research/research_syntax.ann.html
+  - title: Syntax
+    url: /research/research_syntax.ann.html
 
-#  - title: Preliminary cleaning
-#    url: /research/research_format_atf.html
-#  - title: ATF Checkers
-#    url: /research/research_atf_check.html
-#  - title: Texts selection
-#    url: /research/research_select.html
-#  - title: Tokenization and lemmatization
-#    url: research_lem.html
-#  - title: Lemmatization
-#    url: /research/research_lemmatization.html
+  - title: Preliminary cleaning
+    url: /research/research_format_atf.html
+  - title: ATF Checkers
+    url: /research/research_atf_check.html
+  - title: Texts selection
+    url: /research/research_select.html
+  - title: Tokenization and lemmatization
+    url: research_lem.html
+  - title: Lemmatization
+    url: /research/research_lemmatization.html
 
-#  - title: Semantics
-#    url: /research/research_sem_ann.html
-#- title: Automated Annotation
-#  children:
-#    - title: Annotations projection
-#      url: /research/style.html
-#    - title: Morphology
-#      url: /research/accessibility.html
-#    - title: Syntax
-#      url: /research/accessibility.html
-#  - title: Machine translation
-#    children:
-#    - title: Annotations projection
-#      url: /research/style.html
-#    - title: Morphology
-#      url: /research/accessibility.html
-#    - title: Syntax
-#      url: /research/accessibility.html
-#  - title: Infrastructure
-#    children:
-#    - title: Database design
-#      url: /research/style.html
-#    - title: Corpus analysis
-#      url: /research/accessibility.html
-#    - title: Linked Open Data
-#      url: /research/research_lod.html
+  - title: Semantics
+    url: /research/research_sem_ann.html
+- title: Automated Annotation
+  children:
+    - title: Annotations projection
+      url: /research/style.html
+    - title: Morphology
+      url: /research/accessibility.html
+    - title: Syntax
+      url: /research/accessibility.html
+  - title: Machine translation
+    children:
+    - title: Annotations projection
+      url: /research/style.html
+    - title: Morphology
+      url: /research/accessibility.html
+    - title: Syntax
+      url: /research/accessibility.html
+  - title: Infrastructure
+    children:
+    - title: Database design
+      url: /research/style.html
+    - title: Corpus analysis
+      url: /research/accessibility.html
+    - title: Linked Open Data
+      url: /research/research_lod.html
 
 - title: Interface
   children:
   - title: Corpus tool
     url: research/research_ctool.html
-#    - title: Filemaker
-#      url: /research/research_fm.html
+    - title: Filemaker
+      url: /research/research_fm.html
 
 
 
-#  - title: Design
-#    children:
-#    - title: Style guidelines
-#      url: /research/cdli_style.html
+  - title: Design
+    children:
+    - title: Style guidelines
+      url: /research/cdli_style.html
 
-#    - title: Accesibility guidelines
-#      url: /research/cdli_ accessibility.html
+    - title: Accesibility guidelines
+      url: /research/cdli_ accessibility.html
 
 
 - title: Project homes
