@@ -1,5 +1,5 @@
 ---
-title: MTAAC and CDLI Digital Cuneiform Documentation
+title: MTAAC and CDLI Documentation
 permalink: /
 sidebar:
   nav: "guides"
