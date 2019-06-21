@@ -424,6 +424,37 @@ N (is) X – i.e. the silver (is) a loan (better: debt/obligation), where X can 
 
 (\*) Example text: [P101455](https://cdli.ucla.edu/P101455). This cultic local is discussed briefly in Sigrist 1992, 146. Beyond the fact that it could receive deliveries in administrative texts, nothing is known about the du6-ur3. It does not feature in any of the lexical resources.
 
+
+*Example 7*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|{na4}kin2(*)‘millstone’|{na4}kin2|kin[millstone]|N|
+
+(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See Zettlekasten p. 274 where the reading is instead {na4}HAR.
+
+
+*Example 8*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|{na4}kin2 zi-bi2(*)|{na}kin2 |kin[mill]|N|
+|‘cumin mill’|zi-bi2| zibim[cumin]|N|
+
+(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See zettlekasten p. 274 where the reading is instead {na4}HAR. For zi-bi2 see entry zi-bi at ePSD ‘cumin’; for the spelling zi-bi2 see RA 86 99, where Lafont reads zi-bi2 ‘cumin’.
+
+
+*Example 9*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|{na4}kin2 AB.KID(*)|{na4}kin2|kin[mill]|N|
+|‘? mill’|AB.KID|AB.KID[unknown]|N|
+
+(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See zettlekasten p. 274 where the reading is instead {na4}HAR. AB.KID is currently undeciphered in the lexical resources.
+
+
+
 ## dub-sar Constructions / Compound Nouns
 
 The MTAAC project treats dub-sar constructions as nouns.
