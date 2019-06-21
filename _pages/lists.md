@@ -438,10 +438,10 @@ N (is) X – i.e. the silver (is) a loan (better: debt/obligation), where X can 
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------:|:---------------------:|:-------------:|:-------------:|
-|{na4}kin2 zi-bi2(*)|{na}kin2 |kin[mill]|N|
+|{na4}kin2 zi-bi2(*)|{na4}kin2 |kin[mill]|N|
 |‘cumin mill’|zi-bi2| zibim[cumin]|N|
 
-(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See zettlekasten p. 274 where the reading is instead {na4}HAR. For zi-bi2 see entry zi-bi at ePSD ‘cumin’; for the spelling zi-bi2 see RA 86 99, where Lafont reads zi-bi2 ‘cumin’.
+(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See Zettlekasten p. 274 where the reading is instead {na4}HAR. For zi-bi2 see entry zi-bi at ePSD ‘cumin’; for the spelling zi-bi2 see RA 86 99, where Lafont reads zi-bi2 ‘cumin’.
 
 
 *Example 9*
@@ -451,8 +451,51 @@ N (is) X – i.e. the silver (is) a loan (better: debt/obligation), where X can 
 |{na4}kin2 AB.KID(*)|{na4}kin2|kin[mill]|N|
 |‘? mill’|AB.KID|AB.KID[unknown]|N|
 
-(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See zettlekasten p. 274 where the reading is instead {na4}HAR. AB.KID is currently undeciphered in the lexical resources.
+(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See Zettlekasten p. 274 where the reading is instead {na4}HAR. AB.KID is currently undeciphered in the lexical resources.
 
+
+*Example 10*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|šu se3-ga(*)|šu|šu[hand][-e]|N.L3-NH|
+|‘placed(?)’|se3-ga|sig[place]-a|NF.V.PT|
+
+(\*) This compound verb is problematic. While it is read se3-ga at CDLI, BDTNS read si3-ga (allowing for the interpretation of the verb sig ‘to place’). The compound šu…sig  is not explicated at ePSD nor in Thomsen’s grammar, nor in Karahashi’s study of compound verbs based on body parts; the approximate lexical range ‘to place’ is a surmise.
+
+
+*Example 11*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|{gesz}si|{gesz}si ‘sprout tree’|si[sprout_tree]|N|
+
+
+*Example 12*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|i3-dub(*) ‘granary’|i3-dub|idub[granary]|N|
+
+(\*) See Jagersma p. 128 where i3-dub is taken as a substantived form, specifically a headless relative clause ‘what is heaped up’, not unlike the substantivised form of mu-ku common in this corpus. We follow here the treatment of the term as a noun at ePSD.
+
+
+*Example 13*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|gig(*) ‘wheat’|gig|kib[wheat]|N|
+
+(\*) Example text: [P102345](https://cdli.ucla.edu/P102345). This term has previously been dealt with as gig[resin] at MTAAC. However, given the CDLI translation ‘wheat’ for this term, it is likely that gig is to be read kib “wheat” here. See relevant ePSD entry.
+
+
+*Example 14*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|sza3-ze2(*) ‘archive label’|sza3-ze2|szaze[archive_label]|N|
+
+(\*) Example text: [P102404](https://cdli.ucla.edu/P102404). This term is segmented in the BDTNS transliteration and discussed in ASJ 10 p. 245.  See also Zettlekasten p. 605. Scholars have no translation for the term as a whole (the meaning of ze2 is unclear); the rough desciption ‘archive label’ is the closest translation available.
 
 
 ## dub-sar Constructions / Compound Nouns
