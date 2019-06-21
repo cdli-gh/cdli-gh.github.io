@@ -271,14 +271,14 @@ The standard metrological expression in this period is: numeral –  measurement
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------:|:---------------------:|:-------------:|:-------------:|
-|a-da gub-ba PN(*)|a-da|a[water]-da[N.COM]
+|a-da gub-ba a-sza3 PN(*)|a-da|a[water]-da[N.COM]
 |‘stationed at the water(works) – the field Ganmah’|gub-ba|gub[assigned]-a|NF.V.PT|
 ||a-sza3|aszag[field]|N|
 ||Gan2-mah|Ganmah[1]|FN|
 
-(\*) Example text: P112711. While the comitative on the noun here is perhaps unexpected, this interpretation seems justified when compared with CDLI translations of a-da gub-ba, i.e. P209503 “at the water(works) stationed.”
+(\*) Example text: [P112711] (https://cdli.ucla.edu/P112711). While the comitative on the noun here is perhaps unexpected, this interpretation seems justified when compared with CDLI translations of a-da gub-ba, i.e. P209503 “at the water(works) stationed.”
 
-##Purpose Designations
+###Purpose Designations
 
 N (is) X – i.e. the silver (is) a loan (better: debt/obligation), where X can be a loan, a brideprice, interest etc.
 
@@ -617,7 +617,7 @@ The MTAAC project treats dub-sar constructions as nouns.
 
 (\*) As translated in [P104470](https://cdli.ucla.edu/P104470). For an analysis of this term see Jagersma 2010, 195.
 
-###Messenger Texts
+### Messenger Texts
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
