@@ -932,7 +932,7 @@ In sequences where a verb is impossible ([P411986](https://cdli.ucla.edu/P411986
 (\*) de6 is, with few exceptions ([P249111](https://cdli.ucla.edu/P249111)), rendered in the non-finite preterite form in this corpus.
 
 
-*Example 14*
+*Example 15*
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -940,7 +940,7 @@ In sequences where a verb is impossible ([P411986](https://cdli.ucla.edu/P411986
 
 (\*) This non-finite ‘strong’ is written with a preterite spelling throughout the CDLI Ur III administrative corpus. The sign representing the verbal stem can be read kal or kalag. The convention in Jagersma 2010, 140 (12) is to read kalag-ga, which makes the preterite spelling even more apparent.
 
-*Example 14*
+*Example 16*
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -948,6 +948,15 @@ In sequences where a verb is impossible ([P411986](https://cdli.ucla.edu/P411986
 
 (\*) The ePSD2 entry for deg ‘to tear out, to fall’ etc., indicates that this verb is standardly written RI-ga. However, in the Ur III period, the standard spelling (1138 times) seems to be degx(RI)degx(RI), that is, the verb deg is spelled with two RI signs. This should not be confused with a reduplicated stem, it seems to be rather an alternate spelling of the (unreduplicated) verbal stem.
 
+
+*Example 17*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------|:---------------------:|:-------------:|:-------------:|
+|en3-bi tar-re-dam(*)|en3-bi|inim[word]-bi|N.3-SG-NH-POSS|
+|‘to be investigated’|tar-re-dam|tar[cut]-ed-am|NF.V.F.COP-3-SG|
+
+(\*) Example text: [P102510](https://cdli.ucla.edu/P102510). This compound verb is listed on ePSD as en tar, which receives the analysis (en[cvne] + tar[cut]).  CVNE  stands for “compound verb nominal element”, meaning, ePSD does discern the lexical value behind en. However, ePSD2 is more exact here, analyzing (inim[word] + tar[cut]). They list two instances where this compound verb is written with variant spelling inim[KA] + tar;  en3 is a writing for the value inim, therefore, to ‘cut the word’ is ‘to ask’).
 
 ## ‘Adjectives’ (Modifying Genitive Type – see Zólyomi p. 51)
 
