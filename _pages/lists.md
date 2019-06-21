@@ -209,18 +209,18 @@ The standard metrological expression in this period is: numeral –  measurement
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------:|:---------------------:|:-------------:|:-------------:|
-|udu szimaszgi2|udu|udu[sheep]|N|
-|‘szimaszki sheep’|szimaszgi2|szimaszki[type_of_sheep]|N|
-
-*Example 11*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
 |zi3 sig15(*)|zi3-sig15|zidsig[flour_type]|N|
 |‘flour type’||||
 
 (\*) Text example: [P102838](https://cdli.ucla.edu/P102838). While neither CDLI nor BDTNS segment these two components, the treatment of the term at ePSD and in Zettlekasten indicates that this term should be segmented and treated as a noun.
 
+
+*Example 11*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|udu szimaszgi2|udu|udu[sheep]|N|
+|‘szimaszki sheep’|szimaszgi2|szimaszki[type_of_sheep]|N|
 
 *Example 12*
 
@@ -228,6 +228,10 @@ The standard metrological expression in this period is: numeral –  measurement
 |:----------------:|:---------------------:|:-------------:|:-------------:|
 |masz-gal szimaszgi|masz-gal|maszgal[goat]|N|
 |‘szimaszkian sheep’|szimaszgi|szimaszki[type_of_sheep]|N|
+
+
+
+
 
 
 ## Gurusz Work Assignments
