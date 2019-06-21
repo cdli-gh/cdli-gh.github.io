@@ -219,6 +219,9 @@ The standard metrological expression in this period is: numeral –  measurement
 |zi3 sig15(*)|zi3-sig15|zidsig[flour_type]|N|
 |‘flour type’||||
 
+(\*) Text example: [P102838](https://cdli.ucla.edu/P102838). While neither CDLI nor BDTNS segment these two components, the treatment of the term at ePSD and in Zettlekasten indicates that this term should be segmented and treated as a noun.
+
+
 ## Gurusz Work Assignments
 
 
