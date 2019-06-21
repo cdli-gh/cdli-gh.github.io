@@ -892,7 +892,7 @@ Note: According to Zólyomi’s system, the subordinator suffix –\`a occupies 
 
 (\*) As with compound verbs in general, Jagersma 2010, 471 (26b) and Zolyomi 2017, 189 (337) treat this verb as two separate elements: ki ag2. However, followed here, other interpretations treat this verb as a single word fixed expression: ki-ag2 (see CDLI and BDTNS for the text [P100943](https://cdli.ucla.edu/P100943)). Preterite spellings in the CDLI Ur III administrative corpus (ki-ag2-ga2) seem lacking, but may be obscured by the possessive -ani. Zólyomi 2017, 72 specifies that the semantic object of this verb (the one being loved) should be in the dative (for an attestation of the dative see the year name in [P125272](https://cdli.ucla.edu/P125272)).
 
-*Example 12*
+*Example 13*
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -900,7 +900,7 @@ Note: According to Zólyomi’s system, the subordinator suffix –\`a occupies 
 
 (\*) This non-finite occurs mainly with a preterite spelling in the CDLI Ur III administrative corpus, appearing hundreds of times in the phrase zar3 tab-ba ‘piled sheaves’.
 
-*Example 13*
+*Example 14*
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -923,7 +923,7 @@ zi-ga as a noun: in sequences which lack a predicate, i.e. lists of objects -  �
 In sequences where a verb is impossible ([P411986](https://cdli.ucla.edu/P411986)): ‘and credits [zi-ga] of PN’
 
 
-*Example 14*
+*Example 15*
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -932,7 +932,7 @@ In sequences where a verb is impossible ([P411986](https://cdli.ucla.edu/P411986
 (\*) de6 is, with few exceptions ([P249111](https://cdli.ucla.edu/P249111)), rendered in the non-finite preterite form in this corpus.
 
 
-*Example 15*
+*Example 16*
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -940,7 +940,7 @@ In sequences where a verb is impossible ([P411986](https://cdli.ucla.edu/P411986
 
 (\*) This non-finite ‘strong’ is written with a preterite spelling throughout the CDLI Ur III administrative corpus. The sign representing the verbal stem can be read kal or kalag. The convention in Jagersma 2010, 140 (12) is to read kalag-ga, which makes the preterite spelling even more apparent.
 
-*Example 16*
+*Example 17*
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -949,7 +949,7 @@ In sequences where a verb is impossible ([P411986](https://cdli.ucla.edu/P411986
 (\*) The ePSD2 entry for deg ‘to tear out, to fall’ etc., indicates that this verb is standardly written RI-ga. However, in the Ur III period, the standard spelling (1138 times) seems to be degx(RI)degx(RI), that is, the verb deg is spelled with two RI signs. This should not be confused with a reduplicated stem, it seems to be rather an alternate spelling of the (unreduplicated) verbal stem.
 
 
-*Example 17*
+*Example 18*
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
