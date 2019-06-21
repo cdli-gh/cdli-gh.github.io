@@ -429,7 +429,7 @@ N (is) X – i.e. the silver (is) a loan (better: debt/obligation), where X can 
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------:|:---------------------:|:-------------:|:-------------:|
-|{na4}kin2(*)‘millstone’|{na4}kin2|kin[millstone]|N|
+|{na4}kin2(*) ‘millstone’|{na4}kin2|kin[millstone]|N|
 
 (\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See Zettlekasten p. 274 where the reading is instead {na4}HAR.
 
