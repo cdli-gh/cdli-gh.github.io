@@ -26,6 +26,20 @@ The job of the annotators is to fill in the SEGM and XPOSTAG columns with the ap
 Because the pre-annotating tool bases its suggestions on extant annotated texts, it is initially trained on the ETCSRI corpus, whose language only partially overlaps with that of the Ur III administrative corpus. Thus at first the pre-annotating tool will populate relatively few fields, but as Ur III texts are added to the pre-annotator its dictionary will learn more relevant data and will in turn populate more fields.
 
 
+
+
+
+
+## MTAAC’S Approach to Morphology
+
+The model of Sumerian morphology employed at MTAAC approximates that developed by Gabor Zolyomi, a model demonstrated at the ETCSRI project, and articulated in Zolyomi’s 2017 grammar. Some conventions relating to word categorization and tag sets  invite explanation: i) according to this model, Sumerian adjectives do not constitute a distinct word class. Instead, they are analyzed as non-finite verbal forms; ii) infinitives and participles are not distinguished morphologically from non-finite forms; iii) a non-finite verbal form without a suffix is marked as tenseless (or absolute), and a null morpheme is supplied. Non-finite forms consisting of STEM + .a are marked as preterite. Non-finite forms consisting of STEM + .ed are marked as present-future.
+
+
+
+
+
+
+
 ## Morphological Annotation Guide
 
 The following is a step-by-step guide to annotating .conll files. It has been tested for a streamlined annotation experience.
