@@ -17,7 +17,7 @@ Manually export ATF of texts for annotation from the CDLI database. This can be 
 Use the Python script X to prepare a tokenized and CoNLL-style version of the textual information to facilitate morphological annotation.
 
 3. Morphological annotation  
-Manually annotate the morphology of the texts. In the case of the Ur III administrative texts, MTAAC follows the theory of Sumerian grammar described in Zolyómi 2017. According to this model, Sumerian adjectives are not a distinct word class — an adjectival expression is morphologically a non-finite verbal stem (see below for details). The nature of the writing of Ur III administrative texts, seemingly abbreviated and frequently omitting case markers, compels annotators to carefully adhere to theoretical models of grammar.
+Manually annotate the morphology of the texts. In the case of the Ur III administrative texts, MTAAC follows the theory of Sumerian grammar described in Zólyomi 2017. According to this model, Sumerian adjectives are not a distinct word class — an adjectival expression is morphologically a non-finite verbal stem (see below for details). The nature of the writing of Ur III administrative texts, seemingly abbreviated and frequently omitting case markers, compels annotators to carefully adhere to theoretical models of grammar.
 
 4. Conversion to full annotation set in CoNLL-U Format  
 Using the X Python script, convert the new annotations to the fuller version that will be used by subsequent processes.
