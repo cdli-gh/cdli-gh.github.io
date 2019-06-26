@@ -6,38 +6,12 @@ permalink: /guides/guide_morphology.html
 toc: true
 ---
 
-## Morphological annotation
-We will manually annotate 5.2% of the total corpus, around 4,000 texts, with morphological and lexical information. 20% of these texts will be accompanied by English translations, the remainder will be untranslated. These 4,000 or so texts will constitute our gold corpus.
-
-To facilitate the manual annotation process, ATF transcriptons of the gold corpus are converted to a version of the CoNLL-U format specialized for our corpus, known as CDLI-CoNLL. CDLI-CoNLL is designed to ease data entry and store lexical and morphological data. Once converted, transcriptions are arranged in a table with one word per row and columns for morphological and lexical data. The CDLI-CoNLL files will live separately from but alongside the ATF in the CDLI database.
-
-The CDLI-CoNLL tables contain the following columns:
-
-* ID:  Information about the surface, column, line, and word token, in the format o.col1.1.1 = first column, first line first word. Information about the column can be omitted if the text does not have columns (o.1.1).
-
-* FROM:  The token from the text, i.e. ATF transcription.
-
-* SEGM:  A normalized form of the token using the dictionary form of the word as the stem.
-
-* XPOSTAG:  Morphological tags following ORACC ETCSRI. Morphological tags are separated by periods, surrounding a stem tagged with the part of speech. Implicit morphemes are added in square brackets.
-
-The job of the annotators is to fill in the SEGM and XPOSTAG columns with the appropriate lexical and morphological information. Manual annotation is assisted by a [pre-annotation tool](https://github.com/cdli-gh/morphology-pre-annotation-tool). Taking into account existing annotated texts, the pre-annotation tool will automatically populate unambiguous fields in the CDLI-CoNLL table. It may also make suggestions in additional columns to the right of those normally included in CDLI-CoNLL. In these cases, annotators select the best choice and copy/paste it into the appropriate column. Then annotators fill in any remaining blanks.
-
-Because the pre-annotating tool bases its suggestions on extant annotated texts, it is initially trained on the ETCSRI corpus, whose language only partially overlaps with that of the Ur III administrative corpus. Thus at first the pre-annotating tool will populate relatively few fields, but as Ur III texts are added to the pre-annotator its dictionary will learn more relevant data and will in turn populate more fields.
 
 
 
-
-
-
-## MTAAC’S Approach to Morphology
+## MTAAC’S Approach to Sumerian Morphology
 
 The model of Sumerian morphology employed at MTAAC approximates that developed by Gabor Zólyomi, a model demonstrated at the ETCSRI project, and articulated in Zólyomi’s 2017 grammar. Some conventions relating to word categorization and tag sets  invite explanation: i) according to this model, Sumerian adjectives do not constitute a distinct word class. Instead, they are analyzed as non-finite verbal forms; ii) infinitives and participles are not distinguished morphologically from non-finite forms; iii) a non-finite verbal form without a suffix is marked as tenseless (or absolute), and a null morpheme is supplied. Non-finite forms consisting of STEM + .a are marked as preterite. Non-finite forms consisting of STEM + .ed are marked as present-future.
-
-
-
-
-
 
 
 ## Morphological Annotation Guide
