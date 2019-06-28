@@ -692,6 +692,20 @@ The MTAAC project treats dub-sar constructions as nouns.
 
 (\*) As translated in [P104470](https://cdli.ucla.edu/P104470). For an analysis of this term see Jagersma 2010, 195.
 
+
+*Example 16*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------|:---------------------:|:-------------:|:-------------:|
+|i3-dub PN-ta(*) ‘from the granary of PN’|i3-dub|idub[granary]|N|
+||PN-ta|PN[-ak][-ta]|PN.GEN.ABL|
+
+(\*) Example text: [P102081](https://cdli.ucla.edu/P102081).  Grammatical elements reconstructed on analogy with ki PN-ta statements. See P102278 for example translations.
+
+
+
+
+
 ### Messenger Texts
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
