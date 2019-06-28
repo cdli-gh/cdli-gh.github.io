@@ -115,15 +115,15 @@ Another dependency annotation tool: UD Annotatrix <https://github.com/jonorthwas
 | r.1.1         |kiszib3        |kiszib[seal]            |N              |
 | r.1.2         |a-lu5-lu5      |Alulu[1][-ak]           |PN.GEN         |
 | r.2.1         |iti            |iti[month]              |N              |
-| r.2.2         |diri           |dirig[excess][-'a]      |               |
-| r.3.1         |3(u)           |3(u)[ten]               |               |
-| r.3.2         |               |               |               |
-| r.3.3         |               |               |               |
-| s1.1.1        |               |               |               |
-| s1.2.1        |               |               |               |
-| s1.2.2        |               |               |               |
-| s1.3.1        |               |               |               |
-| s1.3.2        |               |               |               |
+| r.2.2         |diri           |dirig[excess][-'a]      |N.L1           |
+| r.3.1         |mu             |mu[year]                |N              |
+| r.3.2         |si-mu-ru-um{ki}|Simurrum[1][-ø]         |SN.ABS         |
+| r.3.3         |ba-hul         |ba-hulu[destroy][-ø]    |MID.V.3-SG-S   |
+| s1.1.1        |a-lu5-lu5      |Alulu[1]                |PN             |
+| s1.2.1        |dumu           |dumu[child]             |N              |
+| s1.2.2        |inim-{d}szara2 |Inimsara[1]             |PN             |
+| s1.3.1        |kuruszda       |kuruszda[fattener]      |N              |
+| s1.3.2        |{d}szara2-ka   |Szara[-ak][-ak]         |DN.GEN.GEN     |
 
 
 
