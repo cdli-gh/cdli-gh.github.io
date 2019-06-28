@@ -602,7 +602,6 @@ The MTAAC project treats dub-sar constructions as nouns.
 
 *Example 6*
 
-\*\*\*****Complete this example***\*\*\*
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -610,7 +609,7 @@ The MTAAC project treats dub-sar constructions as nouns.
 |‘removed from the capital of PN’|PN|PN[ak]-ta|PN.GEN-ABL|
 ||zig|zig[raise][-ø]|NF.V.ABS|
 
-(\*) Example text: P100775(https://cdli.ucla.edu/P100775). Note: the signs read ugu2 at CDLI are read a-gu3 elsewhere: ePSD, BDTNS, etc. Both readings stand for the noun ugu[capital].  For the analysis of ugu PN-[ak][-a] (GEN.L1) see Sallaberger 1995, 444.  For the analysis of ugu PN-[ak]-ta (GEN.ABL) see Sallaberger 1995, 444. For the analysis of ba-a-gar with L2 see Zolyomi 2017, 81 (90).
+(\*) Example text: [P100775](https://cdli.ucla.edu/P100775). Note: the signs read ugu2 at CDLI are read a-gu3 elsewhere: ePSD, BDTNS, etc. Both readings stand for the noun ugu[capital].  For the analysis of ugu PN-[ak][-a] (GEN.L1) see Sallaberger 1995, 444.  For the analysis of ugu PN-[ak]-ta (GEN.ABL) see Sallaberger 1995, 444. For the analysis of ba-a-gar with L2 see Zolyomi 2017, 81 (90).
 
 *Example 7*
 
