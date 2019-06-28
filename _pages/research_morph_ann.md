@@ -3,6 +3,7 @@ title: Morphology annotation
 sidebar:
   nav: "research"
 permalink: /research/research_morph_ann.html
+toc: true
 ---
 ## Morphological annotation of the gold corpus
 
