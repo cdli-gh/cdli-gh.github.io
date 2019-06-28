@@ -1,5 +1,5 @@
 ---
-title: Syntax annotation
+title: MTAAC Research Process » Syntax annotation
 sidebar:
   nav: "research"
 permalink: /research/research_syntax_ann.html
