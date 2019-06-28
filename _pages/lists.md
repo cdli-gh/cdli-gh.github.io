@@ -796,12 +796,11 @@ The MTAAC project treats dub-sar constructions as nouns.
 (\*) Text example: [P100018](https://cdli.ucla.edu/P100018). BDTNS reconstructs the missing terminative here. For analyses of similar examples, see Jagersma 2010, 614.
 
 
-## Obervations on Phrase Structure
+## Observations on Phrase Structure
+
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
 |a2 ma2 hun-ga2 u3|a2|a[wage]|N|
-
-
 |ma2 bala ak(*)|ma2|ma[ship]|N|
 |‘The wages of the hired boat,|hun-ga2|hug[hire]-a|NF.V.PT|
 |and the transfer done’|u3|u[and]|CNJ|
