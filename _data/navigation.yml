@@ -109,7 +109,7 @@ research:
   - title: Morphology
     url: /research/research_morph_ann.html
   - title: Syntax
-    url: /research/research_syntax.ann.html
+    url: /research/research_syntax_ann.html
 
 - title: Data processing
   children:
