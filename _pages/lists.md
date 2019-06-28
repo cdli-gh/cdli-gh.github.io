@@ -800,8 +800,8 @@ The MTAAC project treats dub-sar constructions as nouns.
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
 |a2 ma2 hun-ga2 u3 ma2 bala ak(*)|a2|a[wage]|N|
-|‘The wages of the hired boat, and the transfer done’|ma2|ma[ship]|N|
-||hun-ga2|hug[hire]-a|NF.V.PT|
+|‘The wages of the hired boat,|ma2|ma[ship]|N|
+|and the transfer done’|hun-ga2|hug[hire]-a|NF.V.PT|
 ||u3|u[and]|CNJ|
 ||ma2|ma[ship]|N|
 ||bala|bala[tax]|N|
