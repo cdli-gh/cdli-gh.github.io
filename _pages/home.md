@@ -2,7 +2,7 @@
 title: Introduction to the research process documentation
 sidebar:
   nav: "research"
-permalink: /research/research_introduction.html
+permalink: /
 toc: true
 ---
 ## What is the team working on?
