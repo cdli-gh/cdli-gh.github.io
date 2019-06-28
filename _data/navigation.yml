@@ -102,7 +102,7 @@ research:
   - title: Data cleaning
     url: /research/research_format_atf.html
   - title: Brute pre-processing
-    url: research_lem.html
+    url: /research/research_lem.html
 
 - title: Manual annotation
   children:
