@@ -786,7 +786,7 @@ The MTAAC project treats dub-sar constructions as nouns.
 
 (\*) For an example see Jagersma 2010, 250 (27).
 
-###Reason Clauses
+### Reason Clauses
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -794,6 +794,21 @@ The MTAAC project treats dub-sar constructions as nouns.
 |‘because of X (here: because of PN)’|szu-szu-mu-dar-sze3|Szuszumudar[1]-sze|PN.TERM|
 
 (\*) Text example: [P100018](https://cdli.ucla.edu/P100018). BDTNS reconstructs the missing terminative here. For analyses of similar examples, see Jagersma 2010, 614.
+
+
+## Obervations on Phrase Structure
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------|:---------------------:|:-------------:|:-------------:|
+|a2 ma2 hun-ga2 u3 ma2 bala ak(*)|a2|a[wage]|N|
+|‘The wages of the hired boat, and the transfer done’|ma2|ma[ship]|N|
+||hun-ga2|hug[hire]-a|NF.V.PT|
+||u3|u[and]|CNJ|
+||ma2|ma[ship]|N|
+||bala|bala[tax]|N|
+||ak|ak[do][-ø][-ak]|NF.V.ABS.GEN|
+
+(\*) Text example: [P102701](https://cdli.ucla.edu/P102701). The interpretation of these lines follows Jagersma 2010 645 (81) ‘wages of the hirelings’ and [P130219](https://cdli.ucla.edu/P130219) r. 1 ‘barge punted and transfer done’. That the conjunction u3 does not alter phrase final structure, the genitive of belonging to a2 appearing at the end of the phrase, is indicated by Jagersma 2010 p. 99 (79).
+
 
 
 ## ‘Adjectives’ (Non-Finite)
