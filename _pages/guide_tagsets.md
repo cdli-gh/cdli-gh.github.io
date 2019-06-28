@@ -48,8 +48,9 @@ ETCSL: <http://etcsl.orinst.ox.ac.uk/edition2/etcslhelp.php#propernouns>
 
 
 |Named Entities|
-|:---|:---|:---|:---|
 |ORACC||ETCSL||
+|:---|:---|:---|:---|
+
 |DN|Divine Name|DN|divine name|
 |EN|Ethnos Name|EN|ethnic name|
 |GN|Geographical Name*|GN|geographical name|
