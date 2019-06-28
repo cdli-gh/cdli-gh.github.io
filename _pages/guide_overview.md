@@ -96,27 +96,27 @@ Another dependency annotation tool: UD Annotatrix <https://github.com/jonorthwas
 
 
 
-| #ID           | FORM          | SEGM          |XPOSTAG        |
-| ------------- |:-------------:| -------------:| -------------:|
-| 0.1.1         | 3(u)          |3(u)[ten]      |NU             |
-| 0.1.2         |               |               |               |
-| 0.1.3         |               |               |               |
-| 0.2.1         |               |               |               |
-| 0.2.2         |               |               |               |
-| 0.3.1         |               |               |               |
-| 0.3.2         |               |               |               |
-| 0.3.3         |               |               |               |
-| 0.3.4         |               |               |               |
-| 0.4.1         |               |               |               |
-| 0.4.2         |               |               |               |
-| 0.4.3         |               |               |               |
-| 0.5.1         |               |               |               |
-| 0.5.2         |               |               |               |
-| r.1.1         |               |               |               |
-| r.1.2         |               |               |               |
-| r.2.1         |               |               |               |
-| r.2.2         |               |               |               |
-| r.3.1         |               |               |               |
+| #ID           | FORM          | SEGM                |XPOSTAG        |
+| ------------- |:-------------:| ----------------------:| -------------:|
+| 0.1.1         | 3(u)          |3(u)[ten]               |NU             |
+| 0.1.2         | sila3         |sila[unit]              |N              |
+| 0.1.3         | sze           |sze[barley]             |N              |
+| 0.2.1         | a-a-kal-la    |Ayakala[1]              |PN             |
+| 0.2.2         | sagi          |sagi[cup_bearer][-ra]   |N.DAT-H        |
+| 0.3.1         | 3(u)          |3(u)[ten]               |NU             |
+| 0.3.2         | sila3         |sila[unit]              |N              |
+| 0.3.3         |lu2-dinger-ra  |Ludingira[1]            |PN             |
+| 0.3.4         |sagi           |sagi[cup_bearer][-ra]   |N.DAT-H        |
+| 0.4.1         |sza3-gal       |szaggal[fodder]         |N              |
+| 0.4.2         |udu            |udu[sheep]              |N              |
+| 0.4.3         |niga           |niga[fattened][-ø][-sze]|N.V.ABS.TERM   |
+| 0.5.1         |ki             |ki[place]               |N              |
+| 0.5.2         |gu-du-du-ta    |Gududu[1][-ak]-ta       |PN.GEN.ABL     |
+| r.1.1         |kiszib3        |kiszib[seal]            |N              |
+| r.1.2         |a-lu5-lu5      |Alulu[1][-ak]           |PN.GEN         |
+| r.2.1         |iti            |iti[month]              |N              |
+| r.2.2         |diri           |dirig[excess][-'a]      |               |
+| r.3.1         |3(u)           |3(u)[ten]               |               |
 | r.3.2         |               |               |               |
 | r.3.3         |               |               |               |
 | s1.1.1        |               |               |               |
