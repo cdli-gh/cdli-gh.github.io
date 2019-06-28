@@ -1,7 +1,7 @@
 ---
 title: Atom configuration
 sidebar:
- nav: "guide"
+ nav: "guides"
 permalink: /guides/guide_atom.html
 toc: true
 ---
