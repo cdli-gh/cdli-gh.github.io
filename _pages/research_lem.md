@@ -6,10 +6,10 @@ permalink: /research/research_lem.html
 toc: true
 ---
 
-## Brute pre-processing
+This page is about brute pre-processing, consisting mainly of tokenization, lemmatization and brute stemming techniques.
 
-### Tokenization
+## Tokenization
 
-### Lemmatization
+## Lemmatization
 
-### Stemming
+## Stemming
