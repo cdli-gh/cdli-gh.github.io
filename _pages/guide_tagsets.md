@@ -6,7 +6,77 @@ permalink: /guides/guide_tagsets.html
 toc: true
 ---
 
-## POS tags
+
+
+
+
+
+
+
+
+## Morphological Tags
+
+
+MTAAC has adapted a set of 92 morphological tags (28 nominal tags, 57 finite verbal tags, 7 non-finite verbal tags) from the Electronic Text Corpus of Sumerial Royal Inscriptions Project (ETCSRI), with modifications. For the full list of these tags, please visit the following ETCSRI URL:
+
+<http://oracc.museum.upenn.edu/etcsri/parsing/index.html>
+
+
+The following nine morphological tags deviate from that found at ETCSRI and are specific to the MTAAC project:
+
+                                      
+|                                               | ETCSRI        | MTAAC          |
+| --------------------------------------------- |:-------------:| :-------------:|
+| Finite Verbal Stem                            |STEM           | V              |
+| Finite Plural Stem                            |STEM-PL        | V.PL           |
+| Finite Reduplicated Stem                      |STEM-RDP       | V.RDP          |
+| Non-finite Verbal Stem Abolsute               |STEM.ABS       | NF.V.ABS       |
+| Non-finite Verbal Stem Preterite              |STEM.SUB       | NF.V.PT        |
+| Non-finite Verbal Stem Present-Future         |STEM.PF        | NF.V.F         |
+| Non-Finite Plural Stem                        |STEM-PL        | NF.V.PL        |
+| Non-Finite Reduplicated Stem                  |STEM-RDP       | NF.V.RDP       |
+| Non-Finite Present-Future Stem                |STEM-PF        | NF.V.PF        |
+
+
+
+
+
+## Named Entities
+ORACC: <http://oracc.museum.upenn.edu/doc/help/languages/propernouns/index.html>  
+
+ETCSL: <http://etcsl.orinst.ox.ac.uk/edition2/etcslhelp.php#propernouns>  
+
+
+|Named Entities|
+|:---|:---|:---|:---|
+|ORACC||ETCSL||
+|DN|Divine Name|DN|divine name|
+|EN|Ethnos Name|EN|ethnic name|
+|GN|Geographical Name*|GN|geographical name|
+|MN|Month Name|MN|month name|
+|ON**|Object Name|ON**|other name|
+|PN|Personal Name|PN|personal name|
+|RN|Royal Name|RN|royal name|
+|SN|Settlement Name|SN|settlement name|
+|TN|Temple Name|TN|temple name|
+|WN|Watercourse Name|WN|watercourse name|
+|AN|Agricultural (locus) Name|
+|CN|Celestial Name|
+|FN|Field Name|
+|LN|Line Name (ancestral clan)|
+|QN|Quarter Name (city area)|
+|YN|Year Name|
+
+* Lands and other geographical entities without their own tag.  
+** Note the different usages of the ON tag.
+
+
+
+
+
+
+
+## Part of Speech (POS) tags
 ORACC: <http://oracc.museum.upenn.edu/doc/help/languages/akkadian/index.html>  (scroll down to half the page) 
 
 
@@ -73,34 +143,9 @@ Penn: <https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.ht
 |||||PUNCT|punctuation|
 |||||X|Other|
 
-## Named Entities
-ORACC: <http://oracc.museum.upenn.edu/doc/help/languages/propernouns/index.html>  
-
-ETCSL: <http://etcsl.orinst.ox.ac.uk/edition2/etcslhelp.php#propernouns>  
 
 
-|Named Entities|
-|:---|:---|:---|:---|
-|ORACC||ETCSL||
-|DN|Divine Name|DN|divine name|
-|EN|Ethnos Name|EN|ethnic name|
-|GN|Geographical Name*|GN|geographical name|
-|MN|Month Name|MN|month name|
-|ON**|Object Name|ON**|other name|
-|PN|Personal Name|PN|personal name|
-|RN|Royal Name|RN|royal name|
-|SN|Settlement Name|SN|settlement name|
-|TN|Temple Name|TN|temple name|
-|WN|Watercourse Name|WN|watercourse name|
-|AN|Agricultural (locus) Name|
-|CN|Celestial Name|
-|FN|Field Name|
-|LN|Line Name (ancestral clan)|
-|QN|Quarter Name (city area)|
-|YN|Year Name|
 
-* Lands and other geographical entities without their own tag.  
-** Note the different usages of the ON tag.
 
 ## Morphological tags
 
