@@ -1,5 +1,5 @@
 ---
-title: Text selection for the Gold Corpus
+title: MTAAC Research Process >> Text Selection
 permalink: /research/research_select_corpus.html
 sidebar:
   nav: "research"
