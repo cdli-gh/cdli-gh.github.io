@@ -1,7 +1,7 @@
 ---
 title: Site Structure
 sidebar:
- nav: "guide"
+ nav: "guides"
 permalink: /guides/cdli_struct_site.html
 toc: true
 ---
