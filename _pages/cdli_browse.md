@@ -1,7 +1,7 @@
 ---
 title: Browse CDLI
 sidebar:
- nav: "guide"
+ nav: "guides"
 permalink: /guides/cdli_browse.html
 toc: true
 ---
