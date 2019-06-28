@@ -1,7 +1,7 @@
 ---
 title: CoNLL-U to Brat
 sidebar:
- nav: "guide"
+ nav: "guides"
 permalink: /guides/guide_conll2brat.html
 toc: true
 ---
