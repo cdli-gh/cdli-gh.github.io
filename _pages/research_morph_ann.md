@@ -1,5 +1,5 @@
 ---
-title: Morphology annotation
+title: MTAAC Research Process » Morphology annotation
 sidebar:
   nav: "research"
 permalink: /research/research_morph_ann.html
