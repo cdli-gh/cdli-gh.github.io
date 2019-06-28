@@ -3,6 +3,7 @@ title: Corpus tool
 sidebar:
   nav: "research"
 permalink: /research/research_ctool.html
+toc: true
 ---
 ## Corpus analysis tools review
 
