@@ -18,7 +18,7 @@ In order to prepare the required texts for the gold corpus, a selection must fir
 These criteria have been defined based on ongoing discussions between E. Pagé-Perron,  C. Chiarcos, I. Khait, L. Reckling and R. K. Englund.
 
 
-## Extracting potential candidates from the database
+### Extracting potential candidates from the database
 
 In order to generate a list with additional information about the texts from which to choose, we first extracted transliterated public texts with the required information for identifying and classifying the texts.
 
@@ -35,7 +35,7 @@ This results in a selection of 70,333 texts in total.
 The resulting data was extracted in TSV format and is available in the [gold corpus repository](https://github.com/cdli-gh/mtaac_gold_corpus/tree/master/scripts/gold_corpus).
 
 
-## Analyzing the data to provide more information
+### Analyzing the data to provide more information
 
 
 
