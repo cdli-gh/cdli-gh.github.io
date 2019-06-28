@@ -1,11 +1,13 @@
 ---
+MTAAC Research Process >>
 title: MTAAC Research Process >> Text Selection
 permalink: /research/research_select_corpus.html
 sidebar:
   nav: "research"
 toc: true
 ---
-## Selection criteria
+## Text Selection
+### Selection criteria
 In order to prepare the required texts for the gold corpus, a selection must first be made to ensure an adequate repartition of texts based on various criteria, such as:
 
 - provenience of text (distribution)
