@@ -67,7 +67,7 @@ guides:
   - title: CDLI core structure
     url: /guides/cdli_struct_core.html
   - title: Accessibility
-    url: /guides/cdli_struct_files.html
+    url: /guides/cdli_accessibility.html
   - title: Database structure
     url: /guides/cdli_struct_db.html
   - title: Server architecture
