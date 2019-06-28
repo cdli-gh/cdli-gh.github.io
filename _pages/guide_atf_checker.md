@@ -1,11 +1,8 @@
 ---
 title: ATF format checker
 sidebar:
-  nav: "guides"
-permalink: /guide_atf_ckecker.html
-folder: guide
-summary: 
+  nav: "guide"
+permalink: /guide/guide_atf_checker.html
+toc: true
 ---
-
-## ATF Format checker
-
+## Section
