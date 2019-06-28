@@ -1,7 +1,7 @@
 ---
 title: Accessibility
 sidebar:
- nav: "guide"
+ nav: "guides"
 permalink: /guides/gcdli_accessibility.html
 toc: true
 ---
