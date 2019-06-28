@@ -1,5 +1,5 @@
 ---
-title: Corpus tool
+title: MTAAC Research Process » Corpus tool
 sidebar:
   nav: "research"
 permalink: /research/research_ctool.html
