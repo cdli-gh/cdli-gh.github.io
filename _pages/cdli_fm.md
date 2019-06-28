@@ -1,7 +1,7 @@
 ---
 title: Filemaker Interface
 sidebar:
- nav: "guide"
+ nav: "guides"
 permalink: /guides/cdli_fm.html
 toc: true
 ---
