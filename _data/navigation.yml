@@ -8,7 +8,6 @@ main:
 
 
 guides:
-- title: "**Guides and references**"
 - title: Formats
   children:
   - title: ATF format
@@ -93,8 +92,6 @@ guides:
     url: https://cdli.ucla.edu
 
 research:
-- title: "**Research Process**"
-
 - title: Data pre-processing
   children:
   - title: Text selection
