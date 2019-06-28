@@ -1,12 +1,8 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-title: Conversion from ATF to CDLI-CoNLL
+title: ATF to CoNLL format
+sidebar:
+  nav: "guide"
+permalink: /guide/guide_ATF2conll.html
+toc: true
 ---
-## Conversion from ATF to CoNLL
+## Section
