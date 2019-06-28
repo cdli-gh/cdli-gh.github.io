@@ -1,18 +1,14 @@
 # main links
 main:
-- title: "Guides and references"
-  url: /
 - title: "MTAAC research process"
-  url: /research/research_introduction.html
+  url: /
+  
+- title: "Guides and references"
+  url: /guides/intro.html
+
 
 guides:
 - title: "**Guides and references**"
-- title: Use CDLI
-  children:
-  - title: Search CDLI
-    url: /guides/cdli_search.html
-  - title: Browse CDLI
-    url: /guides/cdli_browse.html
 - title: Formats
   children:
   - title: ATF format
@@ -23,33 +19,38 @@ guides:
     url: /guides/cdli_format_conllu.html
   - title: Brat standoff format
     url: /guides/cdli_format_brat.html
-- title: Infrastructure
-  children:
-  - title: Server architecture
-    url: /guides/cdli_struct_server.html
-  - title: CDLI core structure
-    url: /guides/cdli_struct_core.html
-  - title: Database structure
-    url: /guides/cdli_struct_db.html
-  - title: Site structure
-    url: /guides/cdli_struct_site.html
-  - title: File structure
-    url: /guides/cdli_struct_files.html
+
 - title: Data integrity and conversion
   children:
   - title: ATF Checker
     url: /guides/guide_atf_checker.html
   - title: ATF to CDLI-CoNLL
     url: /guides/guide_ATF2conll.html
+  - title: CDLI-CoNLL to CoNLL-U
+    url: /guides/guide_conll.html
   - title: CoNLL-U to Brat
     url: /guides/guide_conll2brat.html
+  - title: CoNLL-U to RDF
+    url: /guides/guide_conll2rdf.html
+
+- title: Configurations
+  children:
+  - title: Brat configuration
+    url: /guides/guide_editing_brat_configs.html
+  - title: Excel and Calc configuration
+    url: /guides/guide_calc.html
+  - title: Atom configuration
+    url: /guides/guide_atom.html
+
 - title: Annotation of Sumerian
   children:
   - title: Annotation overview
     url: /guides/guide_overview.html
   - title: Tagsets
     url: /guides/guide_tagsets.html
-  - title: Morphology
+  - title: Lemmatization
+    url: /guides/guide_lemmatization.html
+  - title: Morphology overview
     url: /guides/guide_morphology.html
   - title: Dates
     url: /guides/month_names.html
@@ -59,14 +60,31 @@ guides:
     url: /guides/verbal_chain_slot_system.html
   - title: Syntax
     url: /guides/guide_syntax.html
-  - title: Semantics
-    url: /guides/guide_semantics.html
-  - title: Lemmatization
-    url: /guides/guide_lemmatization.html
-- title: Configurations
+
+- title: Infrastructure
   children:
-  - title: Editing Brat configurations
-    url: /guides/guide_editing_brat_configs.html
+  - title: Site structure
+    url: /guides/cdli_struct_site.html
+  - title: CDLI core structure
+    url: /guides/cdli_struct_core.html
+  - title: Accessibility
+    url: /guides/cdli_struct_files.html
+  - title: Database structure
+    url: /guides/cdli_struct_db.html
+  - title: Server architecture
+    url: /guides/cdli_struct_server.html
+
+- title: Use CDLI
+  children:
+  - title: Corpus tool
+    url: /guides/cdli_corpus.html
+  - title: Search CDLI
+    url: /guides/cdli_search.html
+  - title: Browse CDLI
+    url: /guides/cdli_browse.html
+  - title: "Filemaker Interface"
+    url: /guides/cdli_fm.html
+
 - title: Project homes
   children:
   - title: "MTAAC home"
@@ -76,70 +94,36 @@ guides:
 
 research:
 - title: "**Research Process**"
+
 - title: Data pre-processing
   children:
-  - title: Text selection for the Gold Corpus
+  - title: Text selection
     url: /research/research_select_corpus.html
+  - title: Data cleaning
+    url: /research/research_format_atf.html
+  - title: Brute pre-processing
+    url: research_lem.html
+
+- title: Manual annotation
+  children:
   - title: Morphology
     url: /research/research_morph_ann.html
   - title: Syntax
     url: /research/research_syntax.ann.html
 
-  - title: Preliminary cleaning
-    url: /research/research_format_atf.html
-  - title: ATF Checkers
-    url: /research/research_atf_check.html
-  - title: Texts selection
-    url: /research/research_select.html
-  - title: Tokenization and lemmatization
-    url: research_lem.html
-  - title: Lemmatization
-    url: /research/research_lemmatization.html
-
-  - title: Semantics
-    url: /research/research_sem_ann.html
-  - title: Automated Annotation
-    children:
-    - title: Annotations projection
-      url: /research/style.html
-    - title: Morphology
-      url: /research/accessibility.html
-    - title: Syntax
-      url: /research/accessibility.html
-  - title: Machine translation
-    children:
-    - title: Annotations projection
-      url: /research/style.html
-    - title: Morphology
-      url: /research/accessibility.html
-    - title: Syntax
-      url: /research/accessibility.html
-  - title: Infrastructure
-    children:
-    - title: Database design
-      url: /research/style.html
-    - title: Corpus analysis
-      url: /research/accessibility.html
-    - title: Linked Open Data
-      url: /research/research_lod.html
-
-- title: Interface
+- title: Data processing
   children:
+  - title: Automated Annotation
+    url: /research/research_aa.html
+  - title: Machine translation
+    url: /research/research_mt.html
+
+- title: Data sharing
+  children:
+  - title: Linked Dictionaries
+    url: /research/research_lod.html
   - title: Corpus tool
     url: research/research_ctool.html
-  - title: Filemaker
-    url: /research/research_fm.html
-
-
-
-  - title: Design
-    children:
-    - title: Style guidelines
-      url: /research/cdli_style.html
-
-    - title: Accesibility guidelines
-      url: /research/cdli_ accessibility.html
-
 
 - title: Project homes
   children:
