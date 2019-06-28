@@ -1,6 +1,6 @@
 ---
 title: MTAAC and CDLI Documentation
-permalink: /
+permalink: /guides/guides_intro.html
 sidebar:
   nav: "guides"
 toc: true
