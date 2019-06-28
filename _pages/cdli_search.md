@@ -3,6 +3,7 @@ title: "Using CDLI Search"
 permalink: /guides/cdli_search.html
 sidebar:
   nav: "guides"
+toc: true
 ---
 
 The CDLI online database contains, as of 1 December 2016, catalogue information for approximately 322,500 cuneiform texts (plus 8,500 entries representing composite texts), 210,000 images, and 2.73 million lines of transliteration and related annotation. Search functions of the website are powered by a MySQL database developed and improved over time by UCLA computer science graduate students Marjan Yahyanejad, Saurabh Trivedi, Oren Freiberg, Stoytcho Stoytchev, Ryan Evans, Eunice Yuh-Jie Chen, Aashith Kamath, Saurabh Trikande, Prashant Rajput, and University of Toronto ANE graduate student Émilie Pagé-Perron.
