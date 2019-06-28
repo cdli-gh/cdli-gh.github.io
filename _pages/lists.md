@@ -702,6 +702,13 @@ The MTAAC project treats dub-sar constructions as nouns.
 
 (\*) Example text: [P102081](https://cdli.ucla.edu/P102081). Grammatical elements reconstructed on analogy with ki PN-ta statements. See [P102278](https://cdli.ucla.edu/P102278) for example translations.
 
+*Example 17*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------|:---------------------:|:-------------:|:-------------:|
+|gu2-na(*) ‘tribute’|gu2-na|gun[tribute]-ak|N.GEN|
+
+(\*) Example text: [P102129](https://cdli.ucla.edu/P102129) (with parallel text [P312548](https://cdli.ucla.edu/P312548)). See ePSD entry for for GUN; example translation SACT 1 #119. See discussion in Sigrist Drehem p. 100. 
 
 
 
