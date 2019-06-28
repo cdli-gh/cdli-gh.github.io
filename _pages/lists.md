@@ -607,7 +607,9 @@ The MTAAC project treats dub-sar constructions as nouns.
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
 |ugu PN zig|ugu2|ugu[capital]|N|
-|e.g. ugu PN[-ak][-ta] zig ‘removed from the capital of PN’| | | |
+|ugu PN[-ak][-ta] zig|PN|PN[ak]-ta|PN.GEN-ABL|
+|‘removed from the capital of PN’|zig][zig[raise][-ø]|NF.V.ABS|
+
 
 *Example 7*
 
