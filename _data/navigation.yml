@@ -84,6 +84,19 @@ guides:
   - title: "Filemaker Interface"
     url: /guides/cdli_fm.html
 
+- title: Contribute to CDLI CDLI
+  children:
+  - title: Photo, line art, PDF, etc
+    url: /guides/contrib_photo.html
+  - title: Collection/catalogue data
+    url: /guides/contrib_cat.html
+  - title: Trasnliterations, transcriptions, translations
+    url: /guides/contrib_atf.html
+  - title: Annotations
+    url: /guides/contrib_ann.html
+  - title: Infrastructure and code
+    url: /guides/contrib_code.html    
+
 - title: Project homes
   children:
   - title: "MTAAC home"
