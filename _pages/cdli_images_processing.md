@@ -1,5 +1,5 @@
 ---
-title: Image processing workflow for CDLI storage and display
+title: Image processing workflow
 sidebar:
  nav: "guides"
 permalink: /guides/cdli_imgages_processing.html
