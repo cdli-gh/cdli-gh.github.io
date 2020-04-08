@@ -84,10 +84,10 @@ guides:
   - title: "Filemaker Interface"
     url: /guides/cdli_fm.html
 
-- title: Contribute to CDLI CDLI
+- title: Images, metadata and text contribution to CDLI
   children:
-  - title: Photo, line art, PDF, etc
-    url: /guides/contrib_photo.html
+  - title: "Images creation, processing and storing"
+    url: /guides/cdli_imgages_processing.html
   - title: Collection/catalogue data
     url: /guides/contrib_cat.html
   - title: Trasnliterations, transcriptions, translations
