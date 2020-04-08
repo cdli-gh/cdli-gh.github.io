@@ -6,7 +6,7 @@ permalink: /guides/cdli_images_processing.html
 toc: true
 ---
 
-This page explains how CDLI creates, processes, stores and display digital images.
+This page explains how CDLI creates, processes, stores and display digital images. For an extensive overview of the thoughts that have been put in the methods developed to capture and store image data representing cuneiform artifacts, please read "Looking both forward and back: imaging cuneiform" by Jacob L Dahl, Hendrik Hameeuw and Klaus Wagensonner. https://cdli.ucla.edu/pubs/cdlp/cdlp0014_20190319.pdf 
 
 ## Images capture
 Images can be acquired using different hardware, such as a photo camera, a scanner or a 3D scanner. Below you can find specific instructions in using these various tools for the production of images that can be used or stored by CDLI.
@@ -16,7 +16,17 @@ Images can be acquired using different hardware, such as a photo camera, a scann
 Scanning cuneiform tablets is a very speedy and cost efficient method for image acquisition. Instructions are temporarilly availeble on CDLI Wiki: http://cdli.ox.ac.uk/wiki/doku.php?id=submission_guidelines#guidelines_for_scanning_tablets
 
 
-### Photographing artifacts
+### Photographing tablets and other objects
+
+
+### Photographing seals method 1: 
+
+
+### Photographing seals method 2: Turn-table method
+Until the CDLN are back online, see a PDF of for a description of Klaus Wagensonner's method
+https://www.academia.edu/6997535/Digitizing_in_the_round. This section will be updated based on recent improvements both of hardware and workflow. 
+
+### Photographing seals method 3: 
 
 
 ### Reflectance Transformation Imaging (RTI) Dome
