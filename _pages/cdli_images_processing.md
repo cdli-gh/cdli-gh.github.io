@@ -2,7 +2,7 @@
 title: CDLI Image Processing Workflow
 sidebar:
  nav: "guides"
-permalink: /guides/cdli_imgages_processing.html
+permalink: /guides/cdli_images_processing.html
 toc: true
 ---
 
