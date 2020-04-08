@@ -8,7 +8,7 @@ toc: true
 
 This page explains how CDLI creates, processes, stores and display digital images.
 
-## Creation of images
+## Images capture
 Images can be acquired using different hardware, such as a photo camera, a scanner or a 3D scanner. Below you can find specific instructions in using these various tools for the production of images that can be used or stored by CDLI.
 
 
@@ -17,6 +17,14 @@ Scanning cuneiform tablets is a very speedy and cost efficient method for image 
 
 
 ### Photographing artifacts
+
+
+### Reflectance Transformation Imaging (RTI) Dome
+
+### Photography for photogrametry
+
+
+### 3D scanning
 
 
 ### Scanning line art
