@@ -46,6 +46,15 @@ Anyone interested in storing such images at CDLI should write to us at cdli@ucla
 
 ### Archival files
 
+#### Creating fatcrosses
+
+#### Archival images storage specifications
 
 ### Web images
+
+#### Image files arboresence
+
+#### Images types
+
+#### Images quality and size
 
