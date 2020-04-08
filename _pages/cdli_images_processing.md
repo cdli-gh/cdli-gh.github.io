@@ -13,8 +13,11 @@ Images can be acquired using different hardware, such as a photo camera, a scann
 
 
 ### Scanning artifacts
+Scanning cuneiform tablets is a very speedy and cost efficient method for image acquisition. Instructions are temporarilly availeble on CDLI Wiki: http://cdli.ox.ac.uk/wiki/doku.php?id=submission_guidelines#guidelines_for_scanning_tablets
+
 
 ### Photographing artifacts
+
 
 ### Scanning line art
 
@@ -26,6 +29,11 @@ Images can be acquired using different hardware, such as a photo camera, a scann
 ## Storage of images
 
 ### Raw / original files
+At this time, CDLI will store Raw images of scanned tablets, and original photographs. We hope to be able to accept Dome raw photos, photos for fotogrametry and 3d scans raw data in the future.   
+
+Files should be named according to the artifact they concern and to the acquisition process.  
+
+Anyone interested in storing such images at CDLI should write to us at cdli@ucla.edu
 
 
 ### Archival files
