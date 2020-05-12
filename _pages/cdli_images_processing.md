@@ -62,9 +62,14 @@ Anyone interested in storing such images at CDLI should write to us at cdli@ucla
 
 ### Web images
 
+
+
 #### Image files arboresence
 
 #### Images types
 
 #### Images quality and size
+##### Main images
 
+##### Thumbmails
+- The maximum size for trhumbnails is 300 X 800 pixels.
