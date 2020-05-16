@@ -6,7 +6,7 @@ sidebar:
 toc: true
 ---
 
-This documentation site was created as part of the [MTAAC](https://cdli-gh.github.io/mtaac/) project to document its research process and tool development and to supplement the code and data deliverables with extensive explanations and walkthrough to encourage our colleagues to reuse our work.
+This documentation site was created as part of the [MTAAC](https://cdli-gh.github.io/mtaac/) project to document its research process and tool development and to supplement the code and data deliverables with extensive explanations and walkthrough to encourage our colleagues to reuse our work. Additions and maintenance is provided by [CDLI](https://cdli.ucla.edu/) staff.
 
 Participants in the project and contributors to this documentation are:
 
