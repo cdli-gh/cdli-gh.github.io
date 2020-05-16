@@ -47,24 +47,54 @@ https://www.academia.edu/6997535/Digitizing_in_the_round. This section will be u
 ## Storage of images
 
 ### Raw / original files
-At this time, CDLI will store Raw images of scanned tablets, and original photographs. We hope to be able to accept Dome raw photos, photos for fotogrametry and 3d scans raw data in the future.   
+At this time, CDLI will store raw (generally tiff format) images of scanned tablets, and original photographs. We hope to be able to accept dome raw photos, photos for fotogrametry, and 3d scans raw data, in the future.   
 
 Files should be named according to the artifact they concern and to the acquisition process.  
 
-Anyone interested in storing such images at CDLI should write to us at cdli@ucla.edu
-
+Anyone interested in storing such images at CDLI should write to us at cdli@ucla.edu  
 
 ### Archival files
+Archival images are the core images from which all images are derived. They are based on processed raw images. In the case of tablet photos, this involves assembling a tight fatcross, cleaning the background and other adjustement tasks which are outlined in the "Creating fatcrosses" section below. 
 
 #### Creating fatcrosses
 
+
+#### Archiving line art
+
+
 #### Archival images storage specifications
 
+
 ### Web images
+Web images are processed version of our archival stock in formats optimized for web viewing. 
+#### Digital library files arboresence
+All our images are shared from the CDLI digital library directory at https://cdli.ucla.edu/dl/. The tree structure of the digital library looks like follows: 
 
+├── lineart
+│   └── Pxxxxxx_l.jpg
+│   └── Pxxxxxx_ld.jpg
+│   └── Pxxxxxx_ls.jpg
+├── pdf
+│   └── Pxxxxxx.pdf
+├── photo
+│   └── Pxxxxxx.jpg
+│   └── Pxxxxxx_d.jpg
+│   └── Pxxxxxx_e.jpg
+├── ptm
+│   └── Pxxxxxx_o
+│       └── x_x.jpg
+│   └── Pxxxxxx_r
+│   └── Pxxxxxx_x(x(x))
+├── svg
+├── tn_lineart
+│   └── Pxxxxxx_l.jpg
+│   └── Pxxxxxx_ld.jpg
+│   └── Pxxxxxx_ls.jpg
+├── tn_photo
+│   └── Pxxxxxx.jpg
+│   └── Pxxxxxx_d.jpg
+│   └── Pxxxxxx_e.jpg
 
-
-#### Image files arboresence
 
 #### Images types
 
