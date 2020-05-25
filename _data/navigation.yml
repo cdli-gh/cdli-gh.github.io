@@ -81,8 +81,10 @@ guides:
     url: /guides/cdli_search.html
   - title: Browse CDLI
     url: /guides/cdli_browse.html
-  - title: "Filemaker Interface"
-    url: /guides/cdli_fm.html
+  - title: Browse CDLI
+    url: /guides/cdli_browse.html
+  - title: "User Access and Privileges"
+    url: /guides/cdli_privileges.html
 
 - title: Images, metadata and text contribution to CDLI
   children:
