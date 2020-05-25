@@ -39,7 +39,7 @@ Editors are generally given their privilege in order for them to contribute new 
 #### Linguistic annotations
 In the same fashion as the transliterations, editors can both add and edit linguistic annotations, from the interface or by uploading batches of annotations in a file. 
 
-#### Linguistic annotations
+#### CDLI Tablet
 Editors can create new cdli tablet entries, modify exiting ones and assign a date for entries. 
 
 
