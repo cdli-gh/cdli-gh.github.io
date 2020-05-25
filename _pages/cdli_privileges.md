@@ -8,6 +8,19 @@ toc: true
 
 ## Logging in and 2FA
 
+In order to maintain a user account at CDLI, it is necessary to install the Google Authenticator app on an alternate device. The app is available here:  
+
+- Android devices : https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_CA
+- Apple devices : https://apps.apple.com/us/app/google-authenticator/id388497605
+- Windows (surface) decives: https://www.microsoft.com/en-us/p/authenticator/9nblggh08h54?activetab=pivot:overviewtab
+ 
+ 
+ 
+ ....
+ 
+ Google authenticator basically works as a secret keyring. When logging in, you will not be promped on your device, you have to start Google Authenticator and enter the pass number showing at the time of your login. 
+
+
 
 
 ## User Privileges
