@@ -34,7 +34,7 @@ User will be prompted to set up 2FA when the user registers or when a user reque
 
 1. After the user submits the registration form, the user will be prompted to set up 2FA (as shown below)
 
-    ![Two Factor Authentication Setup](assets/image/Two_Factor_Authentication_Setup.png)
+    ![Two Factor Authentication Setup](/assets/image/Two_Factor_Authentication_Setup.png)
 
     From the above image,
 
@@ -74,10 +74,10 @@ User has to be ready with code generated on Google Authenticator.
 
 1. On submitting the login form, the user will be prompted to 2FA verification (as shown below).
 
-    ![Two Factor Authentication Setup](assets/image/Two_Factor_Authentication_Verify.png)
+    ![Two Factor Authentication Setup](/assets/image/Two_Factor_Authentication_Verify.png)
 
 2. Enter the code generated on **Google Authenticator** (as shown below)
 
-    ![Two Factor Authentication Setup](assets/image/Two_Factor_Authentication_Code.png)
+    ![Two Factor Authentication Setup](/assets/image/Two_Factor_Authentication_Code.png)
 
 3. Click **Submit** to complete the verification.
