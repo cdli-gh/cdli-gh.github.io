@@ -12,7 +12,7 @@ The MTAAC project develops and applies new computerized methods to translate and
 The CDLI Framework Update project is a synergetic project concerned with the complete overhaul of the CDLI platform whewre we store and display our data. 
 
 
-## Overview of the resesrch process
+## Overview of the research process
 
 
 
