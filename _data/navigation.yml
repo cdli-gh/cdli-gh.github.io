@@ -9,7 +9,7 @@ main:
 
 guides:
 - title: List of all data and tools
-  url: /guides/guides_tools_list.html
+  url: /guides/guide_tools_list.html
 - title: Formats
   children:
   - title: ATF format
