@@ -7,8 +7,8 @@ toc: true
 ---
 
 ## Data
-- Daily transliterations dump from cdli 
-- Daily text metadata dump from cdli
+- Daily transliterations dump from cdli https://github.com/cdli-gh/data 
+- Daily text metadata dump from cdli https://github.com/cdli-gh/data
 - Manually annotated morphology gold corpus https://github.com/cdli-gh/mtaac_gold_corpus/tree/workflow/morph/to_dict
 - Syntactically pre-annotated texts https://github.com/cdli-gh/MTAAC_syntax_preannotated 
 - MTAAC and Framework Google drive https://drive.google.com/drive/u/0/folders/0B8-deXARunnhU2FHVzVqLXA4N3M 
@@ -31,6 +31,7 @@ https://github.com/cdli-gh/mtaac_work/tree/master/lod/metadata
 
 ## ML Tools and and Other Tools
 - SRL tool for Sumerian https://github.com/cdli-gh/Semantic-Role-Labeler
+- Translation pipeline (POS and NE tagging, ATF in, ATF with translation ATF out, and POS/NE CoNLL out) https://github.com/cdli-gh/Sumerian-Translation-Pipeline
 
 
 ## Visualization, search, browse
