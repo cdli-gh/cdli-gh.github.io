@@ -32,11 +32,13 @@ https://github.com/cdli-gh/mtaac_work/tree/master/lod/metadata
 ## ML Tools and and Other Tools
 - SRL tool for Sumerian https://github.com/cdli-gh/Semantic-Role-Labeler
 - Translation pipeline (POS and NE tagging, ATF in, ATF with translation ATF out, and POS/NE CoNLL out) https://github.com/cdli-gh/Sumerian-Translation-Pipeline
+- New MT models (Summer 2020) https://github.com/cdli-gh/Semi-Supervised-NMT-for-Sumerian-English
 
 
 ## Visualization, search, browse
 - CDLI new framework (alpha)  https://gitlab.com/cdli/framework
 - Multilayer annotation query tool CQP4RDF https://github.com/cdli-gh/cqp4rdf
+- Viz and manipulate CoNLL-U syntax https://github.com/cdli-gh/sumerian-syntax-tree
 
 
 
