@@ -9,7 +9,7 @@ toc: true
 ## Data
 - Daily transliterations dump from cdli 
 - Daily text metadata dump from cdli
-- Manually annotated morphology gold corpus https://github.com/cdli-gh/mtaac_gold_corpus/tree/workflow/morph/to_dict 
+- Manually annotated morphology gold corpus [https://github.com/cdli-gh/mtaac_gold_corpus/tree/workflow/morph/to_dict]
 - Syntactically pre-annotated texts https://github.com/cdli-gh/MTAAC_syntax_preannotated 
 - MTAAC and Framework Google drive https://drive.google.com/drive/u/0/folders/0B8-deXARunnhU2FHVzVqLXA4N3M 
 
