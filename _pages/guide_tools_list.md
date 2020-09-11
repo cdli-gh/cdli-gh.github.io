@@ -37,6 +37,7 @@ https://github.com/cdli-gh/mtaac_work/tree/master/lod/metadata
 - Syntax pre-annotator https://github.com/cdli-gh/mtaac_syntax_pipeline 
 
 ## ML Tools and and Other Tools
+- ATF parser? https://github.com/cdli-gh/mtaac-package
 - SRL tool for Sumerian https://github.com/cdli-gh/Semantic-Role-Labeler
 - Translation pipeline (POS and NE tagging, ATF in, ATF with translation ATF out, and POS/NE CoNLL out) https://github.com/cdli-gh/Sumerian-Translation-Pipeline
 - NMT (Summer 2019) https://github.com/cdli-gh/Machine-Translation
@@ -50,6 +51,7 @@ https://github.com/cdli-gh/mtaac_work/tree/master/lod/metadata
 - Viz and manipulate CoNLL-U syntax https://github.com/cdli-gh/sumerian-syntax-tree
 - Commodities visualization https://github.com/cdli-gh/cdli-accounting-viz 
 - CTS Server https://github.com/cdli-gh/cdli-cts-server 
+- Scaife viewer https://github.com/cdli-gh/scaife
 - CDLI Framework API client https://github.com/cdli-gh/framework-api-client
 
 
