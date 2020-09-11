@@ -11,9 +11,9 @@ toc: true
 - Daily text metadata dump from cdli https://github.com/cdli-gh/data
 - Manually annotated morphology gold corpus https://github.com/cdli-gh/mtaac_gold_corpus/tree/workflow/morph/to_dict
 - Syntactically pre-annotated texts https://github.com/cdli-gh/MTAAC_syntax_preannotated 
-- MTAAC and Framework Google drive https://drive.google.com/drive/u/0/folders/0B8-deXARunnhU2FHVzVqLXA4N3M 
 - RDF Ur III texts https://github.com/cdli-gh/rdf_converted_data 
 - Data preprared fro SMT https://github.com/cdli-gh/mtaac_cdli_ur3_corpus 
+- MTAAC and Framework Google drive https://drive.google.com/drive/u/0/folders/0B8-deXARunnhU2FHVzVqLXA4N3M 
 
 ## Converters and checkers
 - metadata converter (CSV to TTL-RDF) 
