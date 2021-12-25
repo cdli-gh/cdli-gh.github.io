@@ -78,6 +78,7 @@ User has to be ready with code generated on Google Authenticator.
 
 2. Enter the code generated on **Google Authenticator** (as shown below)
 
-    ![Two Factor Authentication Setup](/assets/image/Two_Factor_Authentication_Code.png)
+    ![Two Factor Authentication Setup](/assets/image/Two_Factor_Authentication_Code.png)  
+    Do not add a space in the code, input all 6 didgits one after another.
 
 3. Click **Submit** to complete the verification.
