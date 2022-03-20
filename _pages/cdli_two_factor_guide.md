@@ -12,19 +12,25 @@ Two-factor Authentication (2FA), sometimes referred to as two-step verification 
 
 Two-factor authentication provides a higher level of security than authentication methods that depend on single-factor authentication (SFA), in which the user provides only one factor -- typically, a password or passcode. Two-factor authentication methods rely on a user providing a password, as well as a second factor, usually either a security token or a biometric factor, such as a fingerprint or facial scan.
 
- ## [Click Here to setup 2FA for chrome browser](#setup-guide-for-google-chrome-users)
-
 ## How to set up Two Factor for CDLI?
 
+## 1) [If you have a smartphone (GAuth)](#setup-guide-for-smartphone-users)
+
+## 2) [No smartphone: Chrome on a computer (GAuth plugin)](#setup-guide-for-google-chrome-users)
+<br/>
+<br/>
+
+# Setup Guide for Smartphone Users
+if you do not have access to a **smartphone** and are a **Google Chrome** user, [Click Here](#setup-guide-for-google-chrome-users)
 ### Pre Requirements : 
 
 1. Download **Google Authenticator** application on your device.
 
-    For Android devices, Playstore Link : [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
+    - For Android devices, Playstore Link : [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 
-    For IOS devices, Appstore Link : [Google Authenticator](https://apps.apple.com/in/app/google-authenticator/id388497605) 
+    - For IOS devices, Appstore Link : [Google Authenticator](https://apps.apple.com/in/app/google-authenticator/id388497605) 
 
-    Google Help answer : [Install Google Authenticator](https://support.google.com/accounts/answer/1066447)
+    - Google Help answer : [Install Google Authenticator](https://support.google.com/accounts/answer/1066447)
 
 ### Steps :
 
@@ -89,10 +95,9 @@ User has to be ready with code generated on Google Authenticator.
 <br/>
 
 # Setup Guide for Google Chrome Users
-This guide will walk you through the steps required to setup the **GAuth Authenticator in Google Chrome**. By the end of this guide, you will have a plugin that helps to verify user identities before granting them access to websites and services, using two-factor Authentication.
-
+This guide is intended towards people with no access to smartphone. If you have a smartphone, please follow the [instructions for smartphone users](#setup-guide-for-smartphone-users). This Guide will walk you through the steps required to setup the **GAuth Authenticator in Google Chrome**. By the end of this guide, you will be able to use **2FA** authentication to login to **OUR WEBSITE**.
 #### Install GAuth Authenticator :
-GAuth Authenticator can be found and downloaded from the Chrome Store or simply visit- https://chrome.google.com/webstore/detail/gauth-authenticator/ilgcnhelpchnceeipipijaljkblbcobl
+GAuth Authenticator can be found and downloaded from the **Chrome Store**, simply visit- https://chrome.google.com/webstore/detail/gauth-authenticator/ilgcnhelpchnceeipipijaljkblbcobl
 
 #### Adding the extension to chrome browser :
 Click on the **Add to Chrome** button located on the right. A pop-up appears on the screen asking for your confirmation to add the extension to your chrome browser.
