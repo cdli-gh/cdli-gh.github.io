@@ -101,30 +101,30 @@ GAuth Authenticator can be found and downloaded from the **Chrome Store**, simpl
 
 #### Adding the extension to chrome browser :
 Click on the **Add to Chrome** button located on the right. A pop-up appears on the screen asking for your confirmation to add the extension to your chrome browser.
-[![Screenshot-12.jpg](https://i.postimg.cc/0Qr5bTNC/Screenshot-12.jpg)](https://postimg.cc/TLMvsHgy)
+![Screenshot-12.jpg](/assets/image/Screenshot-12.jpg)
 
 #### Enabling extension :
 1) To enable the extension, click on the **manage extensions** icon on the toolbar and search for **GAuth Authenticator**.
 2) Click on the three vertical dots present at the immediate right of our extension.
 3) (optional) You can pin the extension to the quickaccess toolbar for easier access by clicking on the **pin** icon.
-[![Screenshot-13.jpg](https://i.postimg.cc/pVzrztZ0/Screenshot-13.jpg)](https://postimg.cc/23jCNMgv)
+![Screenshot-13.jpg](/assets/image/Screenshot-13.jpg)
 
 #### Login to your account for any desired website :
 You can login to an existing account or create a new one.
 
 #### Now it's time to set up our two factor authenticator (2FA) :
 1) Once you successfully login to the website, browse to my **account/ manage account > settings> security** and scroll down to find two Factor Authentication (2FA).
-[![Screenshot-14.jpg](https://i.postimg.cc/wB1TvKMQ/Screenshot-14.jpg)](https://postimg.cc/mcGGX5QP)
+![Screenshot-14.jpg](/assets/image/Screenshot-14.jpg)
 2) Follow the instructions mentioned to setup **2FA**.
 3) Once the above steps are done and you enable 2FA, another pop up window appears displaying a **MANUAL KEY** which is a random combination of letters and numbers. Copy the MANUAL KEY.
-[![Screenshot-15.jpg](https://i.postimg.cc/qMBrqfZ6/Screenshot-15.jpg)](https://postimg.cc/XXPm1PWn)
+![Screenshot-15.jpg](/assets/image/Screenshot-15.jpg)
 4) Browse back to your GAuth Authenticator and click on the **edit** icon on the top right corner of the window.
 5) Click on **"+Add"** button present under the **One-time passwords** bar. This allows you to add and setup mutliple 2FA for multiple websites and manage it in a single space.
-[![Screenshot-16.jpg](https://i.postimg.cc/vms38y3p/Screenshot-16.jpg)](https://postimg.cc/68Mdzks0)
+![Screenshot-16.jpg](/assets/image/Screenshot-16.jpg)
 6) Set the **Account Name** to your desired choice. eg- ("Gitlab" for gitlab login).
 7) Now paste the MANUAL KEY that we copied earlier and paste it in the **Secret Key** tab. simply click on the **"+Add"** button below to complete the process.
-[![Screenshot-17.jpg](https://i.postimg.cc/Kv3NnjW6/Screenshot-17.jpg)](https://postimg.cc/dLvrFsw6)
+![Screenshot-17.jpg](/assets/image/Screenshot-17.jpg)
 
 Do this for any number of websites you want. You can manage all of these One-time passwords from a single space which makes it very convenient to use. keep in mind the **timer** on the top right side. It tells you the remaining time you have, to enter the 2FA password before it expires and asks you to enter another newly generated password!
-[![Screenshot-18.jpg](https://i.postimg.cc/hvDYDd1z/Screenshot-18.jpg)](https://postimg.cc/7GR9Xbcw)
+![Screenshot-18.jpg](/assets/image/Screenshot-18.jpg)
 ##### You have successfully added 2FA and extra security to your favourite website!
