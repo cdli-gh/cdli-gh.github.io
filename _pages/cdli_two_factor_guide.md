@@ -14,15 +14,23 @@ Two-factor authentication provides a higher level of security than authenticatio
 
 ## How to set up Two Factor for CDLI?
 
+## 1) [If you have a smartphone (GAuth)](#setup-guide-for-smartphone-users)
+
+## 2) [No smartphone: Chrome on a computer (GAuth plugin)](#setup-guide-for-google-chrome-users)
+<br/>
+<br/>
+
+# Setup Guide for Smartphone Users
+if you do not have access to a **smartphone** and are a **Google Chrome** user, [Click Here](#setup-guide-for-google-chrome-users)
 ### Pre Requirements : 
 
 1. Download **Google Authenticator** application on your device.
 
-    For Android devices, Playstore Link : [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
+    - For Android devices, Playstore Link : [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 
-    For IOS devices, Appstore Link : [Google Authenticator](https://apps.apple.com/in/app/google-authenticator/id388497605) 
+    - For IOS devices, Appstore Link : [Google Authenticator](https://apps.apple.com/in/app/google-authenticator/id388497605) 
 
-    Google Help answer : [Install Google Authenticator](https://support.google.com/accounts/answer/1066447)
+    - Google Help answer : [Install Google Authenticator](https://support.google.com/accounts/answer/1066447)
 
 ### Steps :
 
@@ -82,3 +90,49 @@ User has to be ready with code generated on Google Authenticator.
     Do not add a space in the code, input all 6 didgits one after another.
 
 3. Click **Submit** to complete the verification.
+
+<br/>
+<br/>
+
+# Setup Guide for Google Chrome Users
+This guide is intended towards people with no access to smartphone. If you have a smartphone, please follow the [instructions for smartphone users](#setup-guide-for-smartphone-users). This Guide will walk you through the steps required to setup the **GAuth Authenticator in Google Chrome**. By the end of this guide, you will be able to use **2FA** authentication to login to **CDLI WEBSITE**.
+<br/>
+<br/>
+
+#### Install GAuth Authenticator :
+GAuth Authenticator can be found and downloaded from the **Chrome Store**, simply visit- https://chrome.google.com/webstore/detail/gauth-authenticator/ilgcnhelpchnceeipipijaljkblbcobl
+<br/>
+
+#### Adding the extension to chrome browser :
+Click on the **Add to Chrome** button located on the right. A pop-up appears on the screen asking for your confirmation to add the extension to your chrome browser.
+![Screenshot-12.jpg](/assets/image/Screenshot-12.jpg)
+<br/>
+
+#### Enabling extension :
+1) To enable the extension, click on the **manage extensions** icon on the toolbar and search for **GAuth Authenticator**.
+2) Click on the three vertical dots present at the immediate right of our extension.
+3) (optional) You can pin the extension to the quickaccess toolbar for easier access by clicking on the **pin** icon.
+![Screenshot-13.jpg](/assets/image/Screenshot-13.jpg)
+<br/>
+
+#### Now it's time to set up our two factor authenticator (2FA) :
+1) Once you successfully register your account, you will see a **SET-UP KEY** which is a complex combination of letters and numbers. Please copy the **SET-UP KEY**.
+![cdli-2fa.jpg](/assets/image/cdli-2fa.jpg)
+<br/>
+
+2) Follow the instructions mentioned to setup **2FA**.Please note that, all of the above process needs to be done in **120 seconds**! else you would have to follow the above step again.
+4) Browse back to your GAuth Authenticator and click on the **edit** icon on the top right corner of the window.
+5) Click on **"+Add"** button present under the **One-time passwords** bar. This allows you to add and setup mutliple 2FA for multiple websites and manage it in a single space.
+![Screenshot-16.jpg](/assets/image/Screenshot-16.jpg)
+<br/>
+
+6) Set the **Account Name** to your desired choice.
+7) Now paste the SET-UP KEY that we copied earlier and paste it in the **Secret Key** tab. simply click on the **"+Add"** button below to complete the process.
+![Screenshot-17.jpg](/assets/image/Screenshot-17.jpg)
+<br/>
+
+Keep in mind the **timer** on the top right side. It tells you the remaining time you have to enter the 2FA password before it expires and asks you to enter another newly generated password!
+![Screenshot-18.jpg](/assets/image/Screenshot-18.jpg)
+<br/>
+
+#### Congratulations, you can now use your new cdli account!
