@@ -95,22 +95,25 @@ User has to be ready with code generated on Google Authenticator.
 <br/>
 
 # Setup Guide for Google Chrome Users
-This guide is intended towards people with no access to smartphone. If you have a smartphone, please follow the [instructions for smartphone users](#setup-guide-for-smartphone-users). This Guide will walk you through the steps required to setup the **GAuth Authenticator in Google Chrome**. By the end of this guide, you will be able to use **2FA** authentication to login to **OUR WEBSITE**.
+This guide is intended towards people with no access to smartphone. If you have a smartphone, please follow the [instructions for smartphone users](#setup-guide-for-smartphone-users). This Guide will walk you through the steps required to setup the **GAuth Authenticator in Google Chrome**. By the end of this guide, you will be able to use **2FA** authentication to login to **CDLI WEBSITE**.
+<br/>
+<br/>
+
 #### Install GAuth Authenticator :
 GAuth Authenticator can be found and downloaded from the **Chrome Store**, simply visit- https://chrome.google.com/webstore/detail/gauth-authenticator/ilgcnhelpchnceeipipijaljkblbcobl
+<br/>
 
 #### Adding the extension to chrome browser :
 Click on the **Add to Chrome** button located on the right. A pop-up appears on the screen asking for your confirmation to add the extension to your chrome browser.
 ![Screenshot-12.jpg](/assets/image/Screenshot-12.jpg)
+<br/>
 
 #### Enabling extension :
 1) To enable the extension, click on the **manage extensions** icon on the toolbar and search for **GAuth Authenticator**.
 2) Click on the three vertical dots present at the immediate right of our extension.
 3) (optional) You can pin the extension to the quickaccess toolbar for easier access by clicking on the **pin** icon.
 ![Screenshot-13.jpg](/assets/image/Screenshot-13.jpg)
-
-#### Register your Account 
-Please register your account in the CDLI website.
+<br/>
 
 #### Now it's time to set up our two factor authenticator (2FA) :
 1) Once you successfully register your account, you will see a **SET-UP KEY** which is a complex combination of letters and numbers. Please copy the **SET-UP KEY**.
@@ -119,10 +122,11 @@ Please register your account in the CDLI website.
 4) Browse back to your GAuth Authenticator and click on the **edit** icon on the top right corner of the window.
 5) Click on **"+Add"** button present under the **One-time passwords** bar. This allows you to add and setup mutliple 2FA for multiple websites and manage it in a single space.
 ![Screenshot-16.jpg](/assets/image/Screenshot-16.jpg)
-6) Set the **Account Name** to your desired choice. eg- ("Gitlab" for gitlab login).
+6) Set the **Account Name** to your desired choice.
 7) Now paste the SET-UP KEY that we copied earlier and paste it in the **Secret Key** tab. simply click on the **"+Add"** button below to complete the process.
 ![Screenshot-17.jpg](/assets/image/Screenshot-17.jpg)
-
-Do this for any number of websites you want. You can manage all of these One-time passwords from a single space which makes it very convenient to use. keep in mind the **timer** on the top right side. It tells you the remaining time you have, to enter the 2FA password before it expires and asks you to enter another newly generated password!
+Keep in mind the **timer** on the top right side. It tells you the remaining time you have to enter the 2FA password before it expires and asks you to enter another newly generated password!
 ![Screenshot-18.jpg](/assets/image/Screenshot-18.jpg)
-##### You have successfully added 2FA and extra security to your favourite website!
+<br/>
+
+#### Congratulations, you can now use your new cdli account!
