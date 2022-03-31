@@ -118,13 +118,19 @@ Click on the **Add to Chrome** button located on the right. A pop-up appears on 
 #### Now it's time to set up our two factor authenticator (2FA) :
 1) Once you successfully register your account, you will see a **SET-UP KEY** which is a complex combination of letters and numbers. Please copy the **SET-UP KEY**.
 ![cdli-2fa.jpg](/assets/image/cdli-2fa.jpg)
+<br/>
+
 2) Follow the instructions mentioned to setup **2FA**.Please note that, all of the above process needs to be done in **120 seconds**! else you would have to follow the above step again.
 4) Browse back to your GAuth Authenticator and click on the **edit** icon on the top right corner of the window.
 5) Click on **"+Add"** button present under the **One-time passwords** bar. This allows you to add and setup mutliple 2FA for multiple websites and manage it in a single space.
 ![Screenshot-16.jpg](/assets/image/Screenshot-16.jpg)
+<br/>
+
 6) Set the **Account Name** to your desired choice.
 7) Now paste the SET-UP KEY that we copied earlier and paste it in the **Secret Key** tab. simply click on the **"+Add"** button below to complete the process.
 ![Screenshot-17.jpg](/assets/image/Screenshot-17.jpg)
+<br/>
+
 Keep in mind the **timer** on the top right side. It tells you the remaining time you have to enter the 2FA password before it expires and asks you to enter another newly generated password!
 ![Screenshot-18.jpg](/assets/image/Screenshot-18.jpg)
 <br/>
