@@ -109,20 +109,18 @@ Click on the **Add to Chrome** button located on the right. A pop-up appears on 
 3) (optional) You can pin the extension to the quickaccess toolbar for easier access by clicking on the **pin** icon.
 ![Screenshot-13.jpg](/assets/image/Screenshot-13.jpg)
 
-#### Login to your account for any desired website :
-You can login to an existing account or create a new one.
+#### Register your Account 
+Please register your account in the CDLI website.
 
 #### Now it's time to set up our two factor authenticator (2FA) :
-1) Once you successfully login to the website, browse to my **account/ manage account > settings> security** and scroll down to find two Factor Authentication (2FA).
-![Screenshot-14.jpg](/assets/image/Screenshot-14.jpg)
-2) Follow the instructions mentioned to setup **2FA**.
-3) Once the above steps are done and you enable 2FA, another pop up window appears displaying a **MANUAL KEY** which is a random combination of letters and numbers. Copy the MANUAL KEY.
-![Screenshot-15.jpg](/assets/image/Screenshot-15.jpg)
+1) Once you successfully register your account, you will see a **SET-UP KEY** which is a complex combination of letters and numbers. Please copy the **SET-UP KEY**.
+![cdli-2fa.jpg](/assets/image/cdli-2fa.jpg)
+2) Follow the instructions mentioned to setup **2FA**.Please note that, all of the above process needs to be done in **120 seconds**! else you would have to follow the above step again.
 4) Browse back to your GAuth Authenticator and click on the **edit** icon on the top right corner of the window.
 5) Click on **"+Add"** button present under the **One-time passwords** bar. This allows you to add and setup mutliple 2FA for multiple websites and manage it in a single space.
 ![Screenshot-16.jpg](/assets/image/Screenshot-16.jpg)
 6) Set the **Account Name** to your desired choice. eg- ("Gitlab" for gitlab login).
-7) Now paste the MANUAL KEY that we copied earlier and paste it in the **Secret Key** tab. simply click on the **"+Add"** button below to complete the process.
+7) Now paste the SET-UP KEY that we copied earlier and paste it in the **Secret Key** tab. simply click on the **"+Add"** button below to complete the process.
 ![Screenshot-17.jpg](/assets/image/Screenshot-17.jpg)
 
 Do this for any number of websites you want. You can manage all of these One-time passwords from a single space which makes it very convenient to use. keep in mind the **timer** on the top right side. It tells you the remaining time you have, to enter the 2FA password before it expires and asks you to enter another newly generated password!
