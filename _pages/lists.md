@@ -663,7 +663,7 @@ The MTAAC project treats dub-sar constructions as nouns.
 (\*) Text example: [P100018](https://cdli.ucla.edu/P100018). BDTNS reconstructs the missing terminative here. For analyses of similar examples, see Jagersma 2010, 614.
 
 
-## Observations on Phrase Structure
+## Phrase Structure
 
 ### Conjunctions
 
