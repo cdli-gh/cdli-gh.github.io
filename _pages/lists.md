@@ -75,7 +75,7 @@ toc: true
 
 (\*\*\*) This term is not explained at ePSD or in Zettlekasten, it is, however, discussed by Gomi 1996, 144–146. Gomi examines terminology relating to difference measures (i.e. when cereals are poured from a larger to a smaller container, the excess is the difference). It would appear that this term is genitival: ‘difference of the gur’.
 
-##Quantity
+## Quantity
 The standard metrological expression in this period is: numeral –  measurement – measured item, e.g. 15 gig4 ku3-babbar ‘fifteen shekels of silver’ (Jagersma 2010, 253).
 
 *Example 1*
@@ -115,7 +115,7 @@ The standard metrological expression in this period is: numeral –  measurement
 
 
 
-##Labour
+## Labour
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------:|:---------------------:|:-------------:|:-------------:|
@@ -124,7 +124,7 @@ The standard metrological expression in this period is: numeral –  measurement
 
 (\*) For an example see Jagersma 2010, 251 (32).
 
-##Quality
+## Quality
 
 *Example 1*
 
@@ -278,7 +278,7 @@ The standard metrological expression in this period is: numeral –  measurement
 
 (\*) Example text: [P112711] (https://cdli.ucla.edu/P112711). While the comitative on the noun here is perhaps unexpected, this interpretation seems justified when compared with CDLI translations of a-da gub-ba, i.e. P209503 “at the water(works) stationed.”
 
-###Purpose Designations
+### Purpose Designations
 
 N (is) X – i.e. the silver (is) a loan (better: debt/obligation), where X can be a loan, a brideprice, interest etc.
 
@@ -1102,3 +1102,4 @@ Texts of this type annotated so far: [P100148](https://cdli.ucla.edu/P100148), [
 |:----------------|:---------------------:|:-------------:|:-------------:|
 |ku6 sagkesz2|ku6|kud[fish]|N|
 |([P121584](https://cdli.ucla.edu/P121584))|sag-kesz2|sagkesz[state\_of\_goods]|N|
+
