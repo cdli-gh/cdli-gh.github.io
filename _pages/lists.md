@@ -48,7 +48,8 @@ toc: true
 
 (\*) See Jagersma 2010, 261-262 for a discussion of the igi #-gal2 fraction formula. When igi #-gal2 is a participant in the sentence, for example ‘one sixtieth was dispersed,’ the formula will act as a noun phrase taking a case marker (TERM, ABL, ABS, etc.). However, when the fraction is a metrological expression, simply quantifying a substance ‘one sixth of oil,’ it is not a participant in the sentence and is not marked for case.
 
-## Units
+## Modifying Commodities
+### Units
 
 ***Example 1***
 
@@ -75,7 +76,7 @@ toc: true
 
 (\*\*\*) This term is not explained at ePSD or in Zettlekasten, it is, however, discussed by Gomi 1996, 144–146. Gomi examines terminology relating to difference measures (i.e. when cereals are poured from a larger to a smaller container, the excess is the difference). It would appear that this term is genitival: ‘difference of the gur’.
 
-## Quantity
+### Quantity
 The standard metrological expression in this period is: numeral –  measurement – measured item, e.g. 15 gig4 ku3-babbar ‘fifteen shekels of silver’ (Jagersma 2010, 253).
 
 *Example 1*
@@ -115,7 +116,7 @@ The standard metrological expression in this period is: numeral –  measurement
 
 
 
-## Labour
+### Labour
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------:|:---------------------:|:-------------:|:-------------:|
@@ -124,7 +125,7 @@ The standard metrological expression in this period is: numeral –  measurement
 
 (\*) For an example see Jagersma 2010, 251 (32).
 
-## Quality
+### Quality
 
 *Example 1*
 
@@ -231,10 +232,10 @@ The standard metrological expression in this period is: numeral –  measurement
 
 
 
+## Individual constructions
 
 
-
-## Gurusz Work Assignments
+### Gurusz Work Assignments
 
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
@@ -248,7 +249,7 @@ The standard metrological expression in this period is: numeral –  measurement
 
 (\*) Example text: [P101135](https://cdli.ucla.edu/P101135). For u4 #-sze, see Jagersma 2010, 251 (#34, 35). In most texts, it isn’t obvious that the locative case is the intended case marker (as it is not written).  However, in rare cases, the locative case is explicit in the writing kab-ku5-a: [P100526](https://cdli.ucla.edu/P100526), [P112626](https://cdli.ucla.edu/P112626), [P112716](https://cdli.ucla.edu/P112716), [P120290](https://cdli.ucla.edu/P120290), [P127121](https://cdli.ucla.edu/P127121). In comparable contexts another assignment location, the kisur ‘threshing floor’, is occasionally spelled ki-su7-ka, with the final a being the locative.
 
-### Gurusz Functions
+#### Gurusz Functions
 
 *Example 1*
 
@@ -361,7 +362,15 @@ N (is) X – i.e. the silver (is) a loan (better: debt/obligation), where X can 
 (\*) In 244 attestations of this term in the CDLI Ur III administrative corpus, the non-finite is written with a preterite spelling; in some 90 other instances, it is spelled with a tenseless (ABS) spelling: sze gurx(\|SZE.KIN\|). In [P101066](https://cdli.ucla.edu/P101066), this term seems to designate a work assignment: # workers for 1 day: barley harvest.
 
 
+### dub-sar Constructions / Compound Nouns
 
+The MTAAC project treats dub-sar constructions as nouns.
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|maš2-ga2-ga2(\*) ‘the interest is established’|masz2-ga2-ga2|maszgaga[established\_interest]|N|
+
+(\*) For translation see Garfinkle 2004, 11. Note: dub-sar constructions are analyzed as compound nouns in Zólyomi 2017, 92; often they consist of a noun + non-finite verbal form (dub=ø sar-ø : tablet=ABS write-TL) “he who writes tablets”. However, at [ETCSRI](http://oracc.museum.upenn.edu/etcsri/), dub-sar is simply tagged N1 (noun phrase one – head), i.e. it is analyzed as a noun. This convention is followed for MTAAC.
 
 
 
@@ -497,17 +506,6 @@ N (is) X – i.e. the silver (is) a loan (better: debt/obligation), where X can 
 |sza3-ze2(*) ‘archive label’|sza3-ze2|szaze[archive_label]|N|
 
 (\*) Example text: [P102404](https://cdli.ucla.edu/P102404). This term is segmented in the BDTNS transliteration and discussed in ASJ 10 p. 245.  See also Zettlekasten p. 605. Scholars have no translation for the term as a whole (the meaning of ze2 is unclear); the rough desciption ‘archive label’ is the closest translation available.
-
-
-## dub-sar Constructions / Compound Nouns
-
-The MTAAC project treats dub-sar constructions as nouns.
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|maš2-ga2-ga2(\*) ‘the interest is established’|masz2-ga2-ga2|maszgaga[established\_interest]|N|
-
-(\*) For translation see Garfinkle 2004, 11. Note: dub-sar constructions are analyzed as compound nouns in Zólyomi 2017, 92; often they consist of a noun + non-finite verbal form (dub=ø sar-ø : tablet=ABS write-TL) “he who writes tablets”. However, at [ETCSRI](http://oracc.museum.upenn.edu/etcsri/), dub-sar is simply tagged N1 (noun phrase one – head), i.e. it is analyzed as a noun. This convention is followed for MTAAC.
 
 ## Named Entities
 
