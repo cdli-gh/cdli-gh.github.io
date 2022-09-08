@@ -884,8 +884,9 @@ In sequences where a verb is impossible ([P411986](https://cdli.ucla.edu/P411986
 
 (\*) Text example: [P100958](https://cdli.ucla.edu/P100958). For an analysis and reconstructed genitive see Jagersma 2010, 255 (54).
 
+### Verbs
 
-## Verbal Forms in the List Section
+#### Verbal Forms in the List Section
 
 *Example 1*
 
@@ -934,7 +935,7 @@ In sequences where a verb is impossible ([P411986](https://cdli.ucla.edu/P411986
 | |ba-zal-la|ba-zal[pass][-ø]-‘a|MID.V.3-SG-S.L1|
 
 
-## List Texts (No Verb in the Closing Note)
+### List Texts (No Verb in the Closing Note)
 
 Texts of this type annotated so far: [P100148](https://cdli.ucla.edu/P100148), [P100149](https://cdli.ucla.edu/P100149), [P100908](https://cdli.ucla.edu/P100908), [P100937](https://cdli.ucla.edu/P100937), [P101040](https://cdli.ucla.edu/P101040), [P101122](https://cdli.ucla.edu/P101122), [P101120](https://cdli.ucla.edu/P101120), [P101161](https://cdli.ucla.edu/P101161), [P101171](https://cdli.ucla.edu/P101171), [P101173](https://cdli.ucla.edu/P101173), [P101199](https://cdli.ucla.edu/P101199), [P101215](https://cdli.ucla.edu/P101215), [P101216](https://cdli.ucla.edu/P101216), [P101219](https://cdli.ucla.edu/P101219), [P101236](https://cdli.ucla.edu/P101236), [P101249](https://cdli.ucla.edu/P101249). In many cases, texts with no verb in the closing note may be messenger texts, which can feature repeated sequences of MAT PN followed by the total (szunigin). See McNeil 1971, 93 ‘Group B’ for messenger texts of this sort from Umma. Indications a text is of this sort: MAT is a small ration of beer, bread, oil, onion, potash; text is from Umma or Girsu; PN is an official i.e. sukkal; gaba, the frontier, is mentioned; the text ends with a list of totals. While the case marker for PN is not explicit in the texts, scholars translate these sequences in a dative sense ‘MAT for PN’ (Liu forthcoming, #17-21). In some texts featuring the verb ba-zi, “messengers” are clearly the recipients of disbursements (Sigrist 1995, #47); in disbursement texts featuring the spelling ba-an-na-zi, the dative relationship between MAT and PN is made explicit by a written -ra case marker.
 
