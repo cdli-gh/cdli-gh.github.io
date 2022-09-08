@@ -372,142 +372,9 @@ The MTAAC project treats dub-sar constructions as nouns.
 
 (\*) For translation see Garfinkle 2004, 11. Note: dub-sar constructions are analyzed as compound nouns in Zólyomi 2017, 92; often they consist of a noun + non-finite verbal form (dub=ø sar-ø : tablet=ABS write-TL) “he who writes tablets”. However, at [ETCSRI](http://oracc.museum.upenn.edu/etcsri/), dub-sar is simply tagged N1 (noun phrase one – head), i.e. it is analyzed as a noun. This convention is followed for MTAAC.
 
-
-
-## Problem Terms
-
-*Example 1*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|e sa-dur2-ra(\*)|e|eg[levee]|N|
-|‘lower levee’|sa-dur2-ra|sadurra[bottom]|N|
-
-(\*) Example text: P142759[P142759](https://cdli.ucla.edu/P142759). This term does not appear at ePSD or in Zettlekasten. BDTNS treats it as a fixed single word form: e-sa-dur2-ra, word segmentation here follows CDLI convention. Its meaning and used is discussed in Civil 1994, 125.
-
-
-*Example 2*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|e2-tum(\*)|e2-tum|bitum[administrative_term]|N|
-|(administrative term)| | | |
-
-(\*) Maeda ****, 253 provides proof that e2-tum is to be read bi2-tum and suggests that the meaning of the word in administrative contexts is ‘property/ estate’. However, a recent entry in ePSD2 indicates that there is still considerable uncertainty regarding the lexical value of the word. The more general value from the ePSD2 has been adopted here.
-
-
-*Example 3*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|MAT {kuz}du10-gan ti-bala-a-sze3(\*)|{kusz}du10-gan|duggan[bag]|N|
-|‘X for the portentous leather bag’|ti-bala-a-sze3|tibala[sign]-sze|N.TERM|
-
-(\*) Example text: [P101147](https://cdli.ucla.edu/P101147). Etymologically, du10-gan is a leather bag; the other elements are tibala ‘sign’; see the ePSD entry for tibala where du10-gan-ti-bal-a is referenced. This item seems to have been used to store clay tablets or metals (Stol ****, 537). The word is loaned into Akkadian — see the CDA entry for *tukantibalā’um*, where it is translated simply ‘leather bag’. The word is segmented into to separate words at MTAAC, as the word duggan seems to be independent.
-
-*Example 4*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|sig4 ar-ha(\*)|sig4|szeg[brick]|N|
-|‘half-brick’|arha|arha[half-brick]|N|
-
-(\*) Example text [P101171](https://cdli.ucla.edu/P101171), where it occurs in the sequence PN lu-ki4-gi sig4 ar-ha ‘PN, the half-brick errand runner’. This lexeme is not easily located in any lexical resources, however see the ePSD2 entry arha ‘half brick’ where there are listed Ur III instances include the spelling sig4 ar-ha. See also [Heimpel 2004](https://cdli.ucla.edu/files/publications/cdlj2004_001.pdf), 2.2.1.
-
-
-*Example 5*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|KA-us2-sa2(\*)|KA-us2-sa2|ka’usa[profession_type]|N|
-|‘the ka’usa’| | | |
-
-(\*) Occurring only 39 times with the segmentation nig2-ki-zah and 6 times as nig2 ki-zah in the CDLI Ur III administrative corpus, the meaning of this term is, unfortunately, not clear. It does not feature at ePSD or ePSD2; according to Zettlekasten, Westenholz understood it as ‘provisions for the place of disappearance.’ Sigrist 1992, 192 stresses that the term is not precisely understood. Sallaberger Kalender, 43 understands it as an offering on the occasion of the disappearance of the god. Given the obscurity of the word, a generalized lexical value has been selected for above tag.
-
-*Example 6*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|MAT du6-ur3(\*)|du6-ur3|du’ur[cultic_mound]|N|
-|‘materials for the du-ur’| | | |
-
-(\*) Example text: [P101455](https://cdli.ucla.edu/P101455). This cultic local is discussed briefly in Sigrist 1992, 146. Beyond the fact that it could receive deliveries in administrative texts, nothing is known about the du6-ur3. It does not feature in any of the lexical resources.
-
-
-*Example 7*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|{na4}kin2(*) ‘millstone’|{na4}kin2|kin[millstone]|N|
-
-(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See Zettlekasten p. 274 where the reading is instead {na4}HAR.
-
-
-*Example 8*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|{na4}kin2 zi-bi2(*)|{na4}kin2 |kin[mill]|N|
-|‘cumin mill’|zi-bi2| zibim[cumin]|N|
-
-(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See Zettlekasten p. 274 where the reading is instead {na4}HAR. For zi-bi2 see entry zi-bi at ePSD ‘cumin’; for the spelling zi-bi2 see RA 86 99, where Lafont reads zi-bi2 ‘cumin’.
-
-
-*Example 9*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|{na4}kin2 AB.KID(*)|{na4}kin2|kin[mill]|N|
-|‘? mill’|AB.KID|AB.KID[unknown]|N|
-
-(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See Zettlekasten p. 274 where the reading is instead {na4}HAR. AB.KID is currently undeciphered in the lexical resources.
-
-
-*Example 10*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|šu se3-ga(*)|šu|šu[hand][-e]|N.L3-NH|
-|‘placed(?)’|se3-ga|sig[place]-a|NF.V.PT|
-
-(\*) This compound verb is problematic. While it is read se3-ga at CDLI, BDTNS read si3-ga (allowing for the interpretation of the verb sig ‘to place’). The compound šu…sig  is not explicated at ePSD nor in Thomsen’s grammar, nor in Karahashi’s study of compound verbs based on body parts; the approximate lexical range ‘to place’ is a surmise.
-
-
-*Example 11*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|{gesz}si ‘sprout tree’|{gesz}si|si[sprout_tree]|N|
-
-
-
-*Example 12*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|i3-dub(*) ‘granary’|i3-dub|idub[granary]|N|
-
-(\*) See Jagersma p. 128 where i3-dub is taken as a substantived form, specifically a headless relative clause ‘what is heaped up’, not unlike the substantivised form of mu-ku common in this corpus. We follow here the treatment of the term as a noun at ePSD.
-
-
-*Example 13*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|gig(*) ‘wheat’|gig|kib[wheat]|N|
-
-(\*) Example text: [P102345](https://cdli.ucla.edu/P102345). This term has previously been dealt with as gig[resin] at MTAAC. However, given the CDLI translation ‘wheat’ for this term, it is likely that gig is to be read kib “wheat” here. See relevant ePSD entry.
-
-
-*Example 14*
-
-|Context            |FORM                    |SEGM           |XPOSTAG     |
-|:----------------:|:---------------------:|:-------------:|:-------------:|
-|sza3-ze2(*) ‘archive label’|sza3-ze2|szaze[archive_label]|N|
-
-(\*) Example text: [P102404](https://cdli.ucla.edu/P102404). This term is segmented in the BDTNS transliteration and discussed in ASJ 10 p. 245.  See also Zettlekasten p. 605. Scholars have no translation for the term as a whole (the meaning of ze2 is unclear); the rough desciption ‘archive label’ is the closest translation available.
-
 ## Named Entities
+
+### NE POS tags
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -532,7 +399,7 @@ The MTAAC project treats dub-sar constructions as nouns.
 |||||
 |EN -- Ethnic Name|Martu|Martu[1]|EN|
 
-## Gentilics
+### Gentilics
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -541,7 +408,7 @@ The MTAAC project treats dub-sar constructions as nouns.
 
 (\*) Example text: [P100148](https://cdli.ucla.edu/P100148) (where the PN GN happens to be in the dative in the context of that text, not indicated here). Sumerian gentilics like this should be taken as being in apposition for the time being (Zólyomi, personal communication, 25 July 2018). Other relationships (for example, genitival ‘PN of GN’) are possible, but not demonstrable at present. MAR-DU2 is analyzed as a noun at [ETCRSI](http://oracc.museum.upenn.edu/etcsri/), see for example [Ur-Nanshe 31](http://oracc.org/etcsri/Q001040).
 
-## Special Personnel Types and Named Groups
+### Special Personnel Types and Named Groups
 
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
@@ -798,6 +665,8 @@ The MTAAC project treats dub-sar constructions as nouns.
 
 ## Observations on Phrase Structure
 
+### Conjunctions
+
 |Context            |FORM                    |SEGM           |XPOSTAG     |
 |:----------------|:---------------------:|:-------------:|:-------------:|
 |a2 ma2 hun-ga2 u3 ma2 bala ak(*)|a2|a[wage]|N|
@@ -812,7 +681,7 @@ The MTAAC project treats dub-sar constructions as nouns.
 
 
 
-## ‘Adjectives’ (Non-Finite)
+### ‘Adjectives’ (Non-Finite)
 
 Zólyomi does not believe that the Sumerian adjective has a distinct form (Zólyomi 2017, 91-92). Adjectives in his system are considered to follow one of the following non-finite verbal forms: tenseless, preterite or present-future. At MTAAC, these are tagged as follows:
 
@@ -825,7 +694,7 @@ Analysis: unless a form is marked with a written -a or -ed, forms should be cons
 
 Note: According to Zólyomi’s system, the subordinator suffix –\`a occupies slot 15 of the finite verbal chain. It does not occur with non-finite forms (Zólyomi 2017, 72, 94, 102).
 
-### Tenseless
+#### Tenseless
 
 *Example 1*
 
@@ -995,7 +864,7 @@ In sequences where a verb is impossible ([P411986](https://cdli.ucla.edu/P411986
 
 (\*) Example text: [P102510](https://cdli.ucla.edu/P102510). This compound verb is listed on ePSD as en tar, which receives the analysis (en[cvne] + tar[cut]).  CVNE  stands for “compound verb nominal element”, meaning, ePSD does discern the lexical value behind en. However, ePSD2 is more exact here, analyzing (inim[word] + tar[cut]). They list two instances where this compound verb is written with variant spelling inim[KA] + tar;  en3 is a writing for the value inim, therefore, to ‘cut the word’ is ‘to ask’).
 
-## ‘Adjectives’ (Modifying Genitive Type – see Zólyomi p. 51)
+#### ‘Adjectives’ (Modifying Genitive Type – see Zólyomi p. 51)
 
 *Example 1*
 
@@ -1091,8 +960,9 @@ Texts of this type annotated so far: [P100148](https://cdli.ucla.edu/P100148), [
 
 (\*) Text example: [P104686](https://cdli.ucla.edu/P104686). The genitival relationship between MAT and PN in these lists of arrears is indicated by the co-occurrence of la2-ia3 and -kam in the same line in some texts (for example, [P102392](https://cdli.ucla.edu/P102392)). See also Jagersma 2010, 663 (192), and the translation of the treatment of an arrears text in [CDLJ 2012:001](https://cdli.ucla.edu/files/publications/cdlj2012_001.pdf), 3.15.1.
 
+## Open Issues
 
-## Uncertain Tags
+### Uncertain Tags
 
 *Example 1*
 
@@ -1101,3 +971,135 @@ Texts of this type annotated so far: [P100148](https://cdli.ucla.edu/P100148), [
 |ku6 sagkesz2|ku6|kud[fish]|N|
 |([P121584](https://cdli.ucla.edu/P121584))|sag-kesz2|sagkesz[state\_of\_goods]|N|
 
+### Problem Terms
+
+*Example 1*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|e sa-dur2-ra(\*)|e|eg[levee]|N|
+|‘lower levee’|sa-dur2-ra|sadurra[bottom]|N|
+
+(\*) Example text: P142759[P142759](https://cdli.ucla.edu/P142759). This term does not appear at ePSD or in Zettlekasten. BDTNS treats it as a fixed single word form: e-sa-dur2-ra, word segmentation here follows CDLI convention. Its meaning and used is discussed in Civil 1994, 125.
+
+
+*Example 2*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|e2-tum(\*)|e2-tum|bitum[administrative_term]|N|
+|(administrative term)| | | |
+
+(\*) Maeda ****, 253 provides proof that e2-tum is to be read bi2-tum and suggests that the meaning of the word in administrative contexts is ‘property/ estate’. However, a recent entry in ePSD2 indicates that there is still considerable uncertainty regarding the lexical value of the word. The more general value from the ePSD2 has been adopted here.
+
+
+*Example 3*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|MAT {kuz}du10-gan ti-bala-a-sze3(\*)|{kusz}du10-gan|duggan[bag]|N|
+|‘X for the portentous leather bag’|ti-bala-a-sze3|tibala[sign]-sze|N.TERM|
+
+(\*) Example text: [P101147](https://cdli.ucla.edu/P101147). Etymologically, du10-gan is a leather bag; the other elements are tibala ‘sign’; see the ePSD entry for tibala where du10-gan-ti-bal-a is referenced. This item seems to have been used to store clay tablets or metals (Stol ****, 537). The word is loaned into Akkadian — see the CDA entry for *tukantibalā’um*, where it is translated simply ‘leather bag’. The word is segmented into to separate words at MTAAC, as the word duggan seems to be independent.
+
+*Example 4*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|sig4 ar-ha(\*)|sig4|szeg[brick]|N|
+|‘half-brick’|arha|arha[half-brick]|N|
+
+(\*) Example text [P101171](https://cdli.ucla.edu/P101171), where it occurs in the sequence PN lu-ki4-gi sig4 ar-ha ‘PN, the half-brick errand runner’. This lexeme is not easily located in any lexical resources, however see the ePSD2 entry arha ‘half brick’ where there are listed Ur III instances include the spelling sig4 ar-ha. See also [Heimpel 2004](https://cdli.ucla.edu/files/publications/cdlj2004_001.pdf), 2.2.1.
+
+
+*Example 5*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|KA-us2-sa2(\*)|KA-us2-sa2|ka’usa[profession_type]|N|
+|‘the ka’usa’| | | |
+
+(\*) Occurring only 39 times with the segmentation nig2-ki-zah and 6 times as nig2 ki-zah in the CDLI Ur III administrative corpus, the meaning of this term is, unfortunately, not clear. It does not feature at ePSD or ePSD2; according to Zettlekasten, Westenholz understood it as ‘provisions for the place of disappearance.’ Sigrist 1992, 192 stresses that the term is not precisely understood. Sallaberger Kalender, 43 understands it as an offering on the occasion of the disappearance of the god. Given the obscurity of the word, a generalized lexical value has been selected for above tag.
+
+*Example 6*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|MAT du6-ur3(\*)|du6-ur3|du’ur[cultic_mound]|N|
+|‘materials for the du-ur’| | | |
+
+(\*) Example text: [P101455](https://cdli.ucla.edu/P101455). This cultic local is discussed briefly in Sigrist 1992, 146. Beyond the fact that it could receive deliveries in administrative texts, nothing is known about the du6-ur3. It does not feature in any of the lexical resources.
+
+
+*Example 7*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|{na4}kin2(*) ‘millstone’|{na4}kin2|kin[millstone]|N|
+
+(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See Zettlekasten p. 274 where the reading is instead {na4}HAR.
+
+
+*Example 8*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|{na4}kin2 zi-bi2(*)|{na4}kin2 |kin[mill]|N|
+|‘cumin mill’|zi-bi2| zibim[cumin]|N|
+
+(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See Zettlekasten p. 274 where the reading is instead {na4}HAR. For zi-bi2 see entry zi-bi at ePSD ‘cumin’; for the spelling zi-bi2 see RA 86 99, where Lafont reads zi-bi2 ‘cumin’.
+
+
+*Example 9*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|{na4}kin2 AB.KID(*)|{na4}kin2|kin[mill]|N|
+|‘? mill’|AB.KID|AB.KID[unknown]|N|
+
+(\*) This term is difficult to find in the lexical works which generally read kinkin (rather than kin2, as at CDLI). See Zettlekasten p. 274 where the reading is instead {na4}HAR. AB.KID is currently undeciphered in the lexical resources.
+
+
+*Example 10*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|šu se3-ga(*)|šu|šu[hand][-e]|N.L3-NH|
+|‘placed(?)’|se3-ga|sig[place]-a|NF.V.PT|
+
+(\*) This compound verb is problematic. While it is read se3-ga at CDLI, BDTNS read si3-ga (allowing for the interpretation of the verb sig ‘to place’). The compound šu…sig  is not explicated at ePSD nor in Thomsen’s grammar, nor in Karahashi’s study of compound verbs based on body parts; the approximate lexical range ‘to place’ is a surmise.
+
+
+*Example 11*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|{gesz}si ‘sprout tree’|{gesz}si|si[sprout_tree]|N|
+
+
+
+*Example 12*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|i3-dub(*) ‘granary’|i3-dub|idub[granary]|N|
+
+(\*) See Jagersma p. 128 where i3-dub is taken as a substantived form, specifically a headless relative clause ‘what is heaped up’, not unlike the substantivised form of mu-ku common in this corpus. We follow here the treatment of the term as a noun at ePSD.
+
+
+*Example 13*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|gig(*) ‘wheat’|gig|kib[wheat]|N|
+
+(\*) Example text: [P102345](https://cdli.ucla.edu/P102345). This term has previously been dealt with as gig[resin] at MTAAC. However, given the CDLI translation ‘wheat’ for this term, it is likely that gig is to be read kib “wheat” here. See relevant ePSD entry.
+
+
+*Example 14*
+
+|Context            |FORM                    |SEGM           |XPOSTAG     |
+|:----------------:|:---------------------:|:-------------:|:-------------:|
+|sza3-ze2(*) ‘archive label’|sza3-ze2|szaze[archive_label]|N|
+
+(\*) Example text: [P102404](https://cdli.ucla.edu/P102404). This term is segmented in the BDTNS transliteration and discussed in ASJ 10 p. 245.  See also Zettlekasten p. 605. Scholars have no translation for the term as a whole (the meaning of ze2 is unclear); the rough desciption ‘archive label’ is the closest translation available.
